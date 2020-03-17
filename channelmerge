@@ -1,4 +1,5 @@
-curl http://www.tdtchannels.com/lists/channels.m3u8 > tv-radio-channels.m3u8
-curl http://www.tdtchannels.com/lists/radio_channels.m3u8 | sed -s 's/group-title="/group-title="R-/g;s:\(\s\+tvg-name=".\+"\):\1 radio="true" :g' radio_channels.m3u8  >> tv-radio-channels.m3u8
-curl -O https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_EPG.xml
+mkdir channels
+curl http://www.tdtchannels.com/lists/channels.m3u8 > channels/tv-radio-channels.m3u8
+curl http://www.tdtchannels.com/lists/radio_channels.m3u8 | sed -s 's/group-title="/group-title="R-/g;s:\(\s\+tvg-name=".\+"\):\1 radio="true" :g' radio_channels.m3u8  >> channels/tv-radio-channels.m3u8
+curl -o channels/TDTChannels_EPG.xml https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_EPG.xml
 
