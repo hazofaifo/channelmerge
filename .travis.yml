@@ -1,0 +1,19 @@
+language: python
+
+python:
+  - "3.7"
+#before_install:
+# - sudo apt-get update
+# - sudo apt-get -y install sed
+
+script:
+ - ./channelmerge
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GIT_TRAVIS_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep_history: true
+  local_dir: channels
+  on:
+    branch: master
