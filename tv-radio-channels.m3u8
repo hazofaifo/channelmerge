@@ -102,15 +102,15 @@ http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 http://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
 #EXTINF:-1 tvg-id="TDP.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte GEO
 https://rtvelivestream.akamaized.net/tdp_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="Deportivos" tvg-name="+TDP",+TDP
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="Deportivos" tvg-name="+tdp",+tdp
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/irtve17_lv3_aosv4_gl1/irtve17_lv3_aosv4_gl1.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="Deportivos" tvg-name="+TDP",+TDP
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="Deportivos" tvg-name="+tdp",+tdp
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/irtve18_lv3_aosv4_gl1/irtve18_lv3_aosv4_gl1.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="Deportivos" tvg-name="+TDP",+TDP
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="Deportivos" tvg-name="+tdp",+tdp
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve19_lv3_aosv4_gl0/irtve19_lv3_aosv4_gl0.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="Deportivos" tvg-name="+TDP",+TDP
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="Deportivos" tvg-name="+tdp",+tdp
 https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl1/irtve20_lv3_aosv4_gl1/irtve20_lv3_aosv4_gl1.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="Deportivos" tvg-name="+TDP",+TDP
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="Deportivos" tvg-name="+tdp",+tdp
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins4_lv3_aosv4_gl0/ins4_lv3_aosv4_gl0.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/FightTimeEntertainment/picture?width=320&height=320" group-title="Deportivos" tvg-name="Fight Time",Fight Time
 https://directo.fibwi.com/stream/stream_Fight_Time/fighttime.m3u8
@@ -215,7 +215,7 @@ https://limited2.todostreaming.es/live/m95-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/multimedia.sanroque/picture?width=320&height=320" group-title="Andalucía" tvg-name="Canal San Roque",Canal San Roque
 https://common01.todostreaming.es/live/sanroque-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsierradecadiz/picture?width=320&height=320" group-title="Andalucía" tvg-name="Canal Sierra de Cádiz",Canal Sierra de Cádiz
-https://5940924978228.streamlock.net/8371/8371/playlist.m3u8
+http://217.125.136.93:8080/canalsierradecadiz.m3u8
 #EXTINF:-1 tvg-logo="https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg" group-title="Andalucía" tvg-name="Trebujena TV",Trebujena TV
 http://212.104.160.156:1935/live/trebujenatv2/master.m3u8
 #EXTINF:-1 tvg-logo="http://saltv.es/wp-content/uploads/2019/06/cropped-logo-cabecera-3.png" group-title="Andalucía" tvg-name="SalTV",SalTV
@@ -579,9 +579,13 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/miamitv/picture?width=320&height=320" group-title="Internacional" tvg-name="Miami TV Latino",Miami TV Latino
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=320&height=320" group-title="Internacional" tvg-name="France 24",France 24
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=320&height=320" group-title="Internacional" tvg-name="France 24",France 24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=320&height=320" group-title="Internacional" tvg-name="France 24",France 24
+https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=320&height=320" group-title="Internacional" tvg-name="France 24",France 24
+https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CBSNews/picture?width=320&height=320" group-title="Internacional" tvg-name="CBS News",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/bloombergbusiness/picture?width=320&height=320" group-title="Internacional" tvg-name="Bloomberg Europe",Bloomberg Europe
@@ -1340,6 +1344,8 @@ https://19393.live.streamtheworld.com/KEBUENA_ESAAC.aac
 https://www.nodo50.org/ondalatina/A061ondalatina.m3u
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/masterfmmadrid/picture?width=320&height=320" group-title="R-Madrid" tvg-name="Máster FM Madrid" radio="true" ,Máster FM Madrid
 http://82.223.102.59:8002/;
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/905319409992044544/x35XzF3A_400x400.jpg" group-title="R-Madrid" tvg-name="Peperadio" radio="true" ,Peperadio
+http://server10.emitironline.com:8000/stream
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioIntEs/picture?width=320&height=320" group-title="R-Madrid" tvg-name="Radio Internacional" radio="true" ,Radio Internacional
 http://195.55.74.203/rinternacional/audio-fme.mp3
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/m21madrid/picture?width=320&height=320" group-title="R-Madrid" tvg-name="M21 Radio" radio="true" ,M21 Radio
@@ -1442,6 +1448,8 @@ http://95.211.109.206:8140/start/;stream.mp3
 http://185.223.216.183:8000/;stream/1
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/986172333802098688/1n42_pIB_400x400.jpg" group-title="R-Valencia" tvg-name="Radio Benicarló" radio="true" ,Radio Benicarló
 http://streaming.enacast.com:8000/radiobenicarlo56.mp3
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/915478760299868160/FACNin_P_400x400.jpg" group-title="R-Valencia" tvg-name="Vox UJI Ràdio" radio="true" ,Vox UJI Ràdio
+http://radiouji.uji.es:8000/high.mp3
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/QmusicNL/picture?width=320&height=320" group-title="R-Internacional" tvg-name="QMusic" radio="true" ,QMusic
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_audio.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=320&height=320" group-title="R-Andorra" tvg-name="RNA" radio="true" ,RNA
