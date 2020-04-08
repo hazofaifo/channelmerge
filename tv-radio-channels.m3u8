@@ -368,99 +368,101 @@ https://directes-tv-int.ccma.cat/int/ngrp:beauties_web/playlist_DVR.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/parlamentcat/picture?width=320&height=320" group-title="Cataluña" tvg-name="Canal Parlament",Canal Parlament
 https://cdn-s1-eu.nice264.com/niceLiveServer/_definst_/pcatlive_canal1_MB_800/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1036521245330866177/DFoia74A_400x400.jpg" group-title="Cataluña" tvg-name="BDN",BDN
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-http://liveingesta119.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/etv.llobregat/picture?width=320&height=320" group-title="Cataluña" tvg-name="etv",etv
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/etvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/mataroaudiovisual/picture?width=320&height=320" group-title="Cataluña" tvg-name="Mataró TV",Mataró TV
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-http://liveingesta119.cdnmedia.tv/m1tvlive/smil:live.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/molaTV/picture?width=320&height=320" group-title="Cataluña" tvg-name="Mola TV",Mola TV
-http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/104927627038101/picture?width=320&height=320" group-title="Cataluña" tvg-name="elprat.tv",elprat.tv
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/vsnxallive/smil:xal2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/LleidaTV/picture?width=320&height=320" group-title="Cataluña" tvg-name="Lleida TV",Lleida TV
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv//lleidatvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvvallesvisio/picture?width=320&height=320" group-title="Cataluña" tvg-name="Vallès Visió",Vallès Visió
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvgirona/picture?width=320&height=320" group-title="Cataluña" tvg-name="TV Girona",TV Girona
-http://ventdelnord.tv:8080/girona/directe.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtvelvendrell/picture?width=320&height=320" group-title="Cataluña" tvg-name="El Vendrell TV",El Vendrell TV
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-http://liveingesta119.cdnmedia.tv/tvvendrelllive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/votv.cat/picture?width=320&height=320" group-title="Cataluña" tvg-name="votv",votv
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/votvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/el9nou/picture?width=320&height=320" group-title="Cataluña" tvg-name="El 9 TV",El 9 TV
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalterrassa/picture?width=320&height=320" group-title="Cataluña" tvg-name="Canal Terrassa",Canal Terrassa
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/canalterrassatvlive/smil:canalterrassatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/298335373532952/picture?width=320&height=320" group-title="Cataluña" tvg-name="25 TV",25 TV
-http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalBlau/picture?width=320&height=320" group-title="Cataluña" tvg-name="Canal Blau",Canal Blau
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/blautvlive/smil:blautv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/martelevisio/picture?width=320&height=320" group-title="Cataluña" tvg-name="Mar TV",Mar TV
-http://k4.usastreams.com/martv/martv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tacdotze/picture?width=320&height=320" group-title="Cataluña" tvg-name="TAC 12",TAC 12
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/tac12live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Terres.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/canal.terresdelebre/picture?width=320&height=320" group-title="Cataluña" tvg-name="Canal Terres de l'Ebre",Canal Terres de l'Ebre
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 https://liveingesta119.cdnmedia.tv/canaltetvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/laxarxa/picture?width=320&height=320" group-title="Cataluña" tvg-name="La Xarxa",La Xarxa
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/el9nou/picture?width=320&height=320" group-title="Cataluña" tvg-name="El 9 TV",El 9 TV
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/vsnxallive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/empordatv/picture?width=320&height=320" group-title="Cataluña" tvg-name="Empordà TV",Empordà TV
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-http://liveingesta119.cdnmedia.tv/empordatvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtvvilafranca/picture?width=320&height=320" group-title="Cataluña" tvg-name="Penedès TV",Penedès TV
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalreustelevisio/picture?width=320&height=320" group-title="Cataluña" tvg-name="Canal Reus TV",Canal Reus TV
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 https://liveingesta119.cdnmedia.tv/canalreustvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalTaronjaOsona/picture?width=320&height=320" group-title="Cataluña" tvg-name="Canal Taronja Central",Canal Taronja Central
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/empordatv/picture?width=320&height=320" group-title="Cataluña" tvg-name="Empordà TV",Empordà TV
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+http://liveingesta119.cdnmedia.tv/empordatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1036521245330866177/DFoia74A_400x400.jpg" group-title="Cataluña" tvg-name="BDN",BDN
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+http://liveingesta119.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tacdotze/picture?width=320&height=320" group-title="Cataluña" tvg-name="TAC 12",TAC 12
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://liveingesta119.cdnmedia.tv/tac12live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalterrassa/picture?width=320&height=320" group-title="Cataluña" tvg-name="Canal Terrassa",Canal Terrassa
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://liveingesta119.cdnmedia.tv/canalterrassatvlive/smil:canalterrassatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LleidaTV/picture?width=320&height=320" group-title="Cataluña" tvg-name="Lleida TV",Lleida TV
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://liveingesta119.cdnmedia.tv//lleidatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/laxarxa/picture?width=320&height=320" group-title="Cataluña" tvg-name="La Xarxa",La Xarxa
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://liveingesta119.cdnmedia.tv/vsnxallive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvcostabrava/picture?width=320&height=320" group-title="Cataluña" tvg-name="TV Costa Brava",TV Costa Brava
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://liveingesta119.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/olotelevisio/picture?width=320&height=320" group-title="Cataluña" tvg-name="Olot Televisió",Olot Televisió
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://liveingesta119.cdnmedia.tv/olottvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/taronja.cat/picture?width=320&height=320" group-title="Cataluña" tvg-name="Canal Taronja Central",Canal Taronja Central
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 https://liveingesta119.cdnmedia.tv/taronjacentrallive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalTaronjaOsona/picture?width=320&height=320" group-title="Cataluña" tvg-name="Canal Taronja Anoia",Canal Taronja Anoia
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canaltaronjaanoia/picture?width=320&height=320" group-title="Cataluña" tvg-name="Canal Taronja Anoia",Canal Taronja Anoia
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 https://liveingesta119.cdnmedia.tv/taronjaanoialive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalTaronjaOsona/picture?width=320&height=320" group-title="Cataluña" tvg-name="Canal Taronja Osona i Moianés",Canal Taronja Osona i Moianés
 http://ventdelnord.tv:8080/taronja/directe.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvcostabrava/picture?width=320&height=320" group-title="Cataluña" tvg-name="TV Costa Brava",TV Costa Brava
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalBlau/picture?width=320&height=320" group-title="Cataluña" tvg-name="Canal Blau",Canal Blau
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/blautvlive/smil:blautv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/balaguertv/picture?width=320&height=320" group-title="Cataluña" tvg-name="Balaguer TV",Balaguer TV
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://liveingesta119.cdnmedia.tv/vsnxallive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/televisiodelbergueda/picture?width=320&height=320" group-title="Cataluña" tvg-name="TV Berguedà",TV Berguedà
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+http://liveingesta119.cdnmedia.tv/berguedatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtvelvendrell/picture?width=320&height=320" group-title="Cataluña" tvg-name="El Vendrell TV",El Vendrell TV
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+http://liveingesta119.cdnmedia.tv/tvvendrelllive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cugatmedia/picture?width=320&height=320" group-title="Cataluña" tvg-name="Cugat Mèdia",Cugat Mèdia
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://liveingesta360.cdnmedia.tv/cugatcatlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/votv.cat/picture?width=320&height=320" group-title="Cataluña" tvg-name="VOTV",VOTV
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://liveingesta119.cdnmedia.tv/votvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/mataroaudiovisual/picture?width=320&height=320" group-title="Cataluña" tvg-name="Mataró Audiovisual",Mataró Audiovisual
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+http://liveingesta119.cdnmedia.tv/m1tvlive/smil:live.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtvvilafranca/picture?width=320&height=320" group-title="Cataluña" tvg-name="Penedès TV",Penedès TV
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://liveingesta119.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvgirona/picture?width=320&height=320" group-title="Cataluña" tvg-name="TV Girona",TV Girona
+http://ventdelnord.tv:8080/girona/directe.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canal10emporda/picture?width=320&height=320" group-title="Cataluña" tvg-name="Canal 10 Empordà",Canal 10 Empordà
 http://ventdelnord.tv:8080/escala/directe.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TelevisioCardedeu/picture?width=320&height=320" group-title="Cataluña" tvg-name="rtvc Cardedeu",rtvc Cardedeu
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 https://liveingesta119.cdnmedia.tv/cardedeutvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/olotelevisio/picture?width=320&height=320" group-title="Cataluña" tvg-name="Olot Televisió",Olot Televisió
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/molaTV/picture?width=320&height=320" group-title="Cataluña" tvg-name="Mola TV",Mola TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/etv.llobregat/picture?width=320&height=320" group-title="Cataluña" tvg-name="etv",etv
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/olottvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cugatmedia/picture?width=320&height=320" group-title="Cataluña" tvg-name="Cugat TV",Cugat TV
+https://liveingesta119.cdnmedia.tv/etvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvvallesvisio/picture?width=320&height=320" group-title="Cataluña" tvg-name="Vallès Visió",Vallès Visió
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta360.cdnmedia.tv/cugatcatlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TV10TelevisionMongolia/picture?width=320&height=320" group-title="Cataluña" tvg-name="TV10",TV10
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta360.cdnmedia.tv/tvstestevelive/smil:tv10.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/televisiodelripolles/picture?width=320&height=320" group-title="Cataluña" tvg-name="TV Ripollés",TV Ripollés
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 https://liveingesta119.cdnmedia.tv/tvripolleslive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/televisiodelbergueda/picture?width=320&height=320" group-title="Cataluña" tvg-name="TV Berguedà",TV Berguedà
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/martelevisio/picture?width=320&height=320" group-title="Cataluña" tvg-name="Mar TV",Mar TV
+http://k4.usastreams.com/martv/martv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtv10sesrovires/picture?width=320&height=320" group-title="Cataluña" tvg-name="RTV10 Sesrovires",RTV10 Sesrovires
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-http://liveingesta119.cdnmedia.tv/berguedatvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/balaguertv/picture?width=320&height=320" group-title="Cataluña" tvg-name="Balaguer TV",Balaguer TV
+https://liveingesta360.cdnmedia.tv/tvstestevelive/smil:tv10.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/elprattv/picture?width=320&height=320" group-title="Cataluña" tvg-name="elprat.tv",elprat.tv
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/vsnxallive/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/vsnxallive/smil:xal2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/298335373532952/picture?width=320&height=320" group-title="Cataluña" tvg-name="25 TV",25 TV
+http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/1397103013646307/picture?width=320&height=320" group-title="Cataluña" tvg-name="Televisió del Baix Guinardó",Televisió del Baix Guinardó
+https://usb.bozztv.com/ssh101/amsctvbaixguinardo/amsctvbaixguinardo/master.m3u8
 #EXTINF:-1 tvg-logo="https://estatics.montserratvisita.com/img/imgTxtGenerals/foto_banners_nous_base117.jpg" group-title="Cataluña" tvg-name="Abadia de Montserrat",Abadia de Montserrat
 https://live-edge-lon-1.cdn.enetres.net/CDB35895D88B49599996A01201668E06022/live-misas/index.m3u8
 #EXTINF:-1 tvg-logo="https://estatics.montserratvisita.com/img/imgTxtGenerals/foto_banners_nous_base117.jpg" group-title="Cataluña" tvg-name="Abadia de Montserrat",Abadia de Montserrat
@@ -477,70 +479,78 @@ http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=320&height=320" group-title="C. de Madrid" tvg-name="Webcam OndaMadrid",Webcam OndaMadrid
 http://ondamadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8
-#EXTINF:-1 tvg-id="ElToroTV.TDTChannelsEPG" tvg-logo="https://pbs.twimg.com/profile_images/1222133236689539073/cY7ZQiRB_400x400.jpg" group-title="C. de Madrid" tvg-name="El Toro TV",El Toro TV
+#EXTINF:-1 tvg-id="ElToroTV.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=320&height=320" group-title="C. de Madrid" tvg-name="El Toro TV",El Toro TV
 https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/434470346582124/picture?width=320&height=320" group-title="C. de Madrid" tvg-name="C33 Madrid",C33 Madrid
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Canal33Madrid/picture?width=320&height=320" group-title="C. de Madrid" tvg-name="C33 Madrid",C33 Madrid
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=320&height=320" group-title="C. de Madrid" tvg-name="Distrito TV",Distrito TV
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/solidariatv/picture?width=320&height=320" group-title="C. de Madrid" tvg-name="Solidaria TV",Solidaria TV
-http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/DejateDeHistoriasTV/picture?width=320&height=320" group-title="C. de Madrid" tvg-name="Déjate de Historias TV",Déjate de Historias TV
 https://secure2.todostreaming.es/live/tvstream-DHnew.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/logostvespana/picture?width=320&height=320" group-title="C. de Madrid" tvg-name="Logos TV",Logos TV
-https://streamer1.streamhost.org/salive/logosH/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/PrideChannelTV/picture?width=320&height=320" group-title="C. de Madrid" tvg-name="Pride Channel",Pride Channel
 http://wslb.dobratv.net:8877/pridetv/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/solidariatv/picture?width=320&height=320" group-title="C. de Madrid" tvg-name="Solidaria TV",Solidaria TV
+http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/logostvespana/picture?width=320&height=320" group-title="C. de Madrid" tvg-name="Logos TV",Logos TV
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TBNEspana/picture?width=320&height=320" group-title="C. de Madrid" tvg-name="TBN España",TBN España
+https://wowzaprod14-i.akamaihd.net/hls/live/554015/b38a5d96/b38a5d96_1_1843200/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/781100367295676417/XVWdJQD0_400x400.jpg" group-title="C. Foral de Navarra" tvg-name="Parlamento de Navarra",Parlamento de Navarra
 https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/781100367295676417/XVWdJQD0_400x400.jpg" group-title="C. Foral de Navarra" tvg-name="Parlamento de Navarra",Parlamento de Navarra
 https://broadcasting.parlamentodenavarra.es/live/canal2/master.m3u8
+#EXTINF:-1 tvg-id="ETB1.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/eitb/picture?width=320&height=320" group-title="C. Foral de Navarra" tvg-name="ETB 1",ETB 1
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
+#EXTINF:-1 tvg-id="ETB2.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/eitb/picture?width=320&height=320" group-title="C. Foral de Navarra" tvg-name="ETB 2",ETB 2
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
+#EXTINF:-1 tvg-id="ETBD.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/eitb/picture?width=320&height=320" group-title="C. Foral de Navarra" tvg-name="ETB Deportes",ETB Deportes
+https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_400x400.jpg" group-title="C. Foral de Navarra" tvg-name="TeleRibera",TeleRibera
 http://37.187.7.106/teleribera/live.m3u8
 #EXTINF:-1 tvg-id="APUNT.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="À Punt",À Punt
 https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="8M.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="La 8 Mediterráneo",La 8 Mediterráneo
-https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0226/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/839481452920193024/R04ozlyG_400x400.jpg" group-title="C. Valenciana" tvg-name="7 TeleValencia",7 TeleValencia
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TeleValencia/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="7 TeleValencia",7 TeleValencia
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/024/playlist.m3u8
-#EXTINF:-1 tvg-id="ElToroTV.TDTChannelsEPG" tvg-logo="https://pbs.twimg.com/profile_images/1222133236689539073/cY7ZQiRB_400x400.jpg" group-title="C. Valenciana" tvg-name="El Toro TV",El Toro TV
-https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/levantetv/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="Levante TV",Levante TV
-https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="Intercomarcal TV",Intercomarcal TV
 http://78.41.83.88:8880/hls/tvixa.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/grup.televisio/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="Grup Televisió",Grup Televisió
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+#EXTINF:-1 tvg-id="8M.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="La 8 Mediterráneo",La 8 Mediterráneo
+https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0226/playlist.m3u8
+#EXTINF:-1 tvg-id="ElToroTV.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="El Toro TV",El Toro TV
+https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="Pequeradio TV",Pequeradio TV
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/alacantitv/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="Alicantí TV",Alicantí TV
+http://5.39.65.105/hls/alacantixa.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvArtequatre/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="tvA",tvA
+http://5.39.65.105/hls/tvaxa.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/levantetv/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="Levante TV",Levante TV
+https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TV4LaVall/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="TV 4 Vall Uxó",TV 4 Vall Uxó
+https://common01.todostreaming.es/live/tarson-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Tele7Safor/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="telesafor",telesafor
 http://video.telesafor.com/hls/video.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TVVegaBaja/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="TV Vega Baja",TV Vega Baja
 https://streaming.tvt-datos.es:8080/hls/tvb/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canal56televisio/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="Canal 56",Canal 56
 https://cdn01.yowi.tv/VI76V4AZS4/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvArtequatre/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="tvA",tvA
-http://5.39.65.105/hls/tvaxa.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/alacantitv/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="Alicantí TV",Alicantí TV
-http://5.39.65.105/hls/alacantixa.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/grup.televisio/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="RiberaTV",RiberaTV
-https://common01.todostreaming.es/live/ribera-livestream.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TV4LaVall/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="TV 4 La Vall",TV 4 La Vall
-https://common01.todostreaming.es/live/tarson-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/teve4televisio/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="TeVe4",TeVe4
 https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="PequeRadio TV",PequeRadio TV
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/UniversValenciaMedia/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="Univers TV",Univers TV
+https://5c21f7ec1999d.streamlock.net/8092/8092/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Elche7Tv/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="Elche 7 TV",Elche 7 TV
+http://154.60.248.32/hls/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TeleSagunto/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="Tele Sagunto",Tele Sagunto
 https://5940924978228.streamlock.net/Directo1_1/smil:Directo1_1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/UneVinalopo/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="Une Vinalopó",Une Vinalopó
 http://78.41.83.88:8880/hls/unesd.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/908655886889095169/_GMPwUSa_400x400.jpg" group-title="C. Valenciana" tvg-name="Intereconomía Valencia TV",Intereconomía Valencia TV
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radiointereconomiavalencia1071/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="Intereconomía Valencia TV",Intereconomía Valencia TV
 http://37.187.7.106/gestionatv/live.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Elche7Tv/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="Elche 7 TV",Elche 7 TV
-http://154.60.248.32/hls/canal1.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/vidartv/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="RTV Vida",RTV Vida
-https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/UniversValenciaMedia/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="Univers TV",Univers TV
-https://5c21f7ec1999d.streamlock.net/8092/8092/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ondavalenciatv/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="Onda Valencia",Onda Valencia
 https://5b38ce71f1f00.streamlock.net/8276/8276/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/vidartv/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="RTV Vida",RTV Vida
+https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 tvg-id="Extremadura.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=320&height=320" group-title="Extremadura" tvg-name="Canal Extremadura",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/caceresteve/picture?width=320&height=320" group-title="Extremadura" tvg-name="Cáceres Tevé",Cáceres Tevé
@@ -867,6 +877,14 @@ http://icecast-streaming.nice264.com/ondacero
 http://icecast-streaming.nice264.com/eventos
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=320&height=320" group-title="R-Radio_Generalistas" tvg-name="Cadena Dial" radio="true" ,Cadena Dial
 http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=320&height=320" group-title="R-Radio_Generalistas" tvg-name="Dial Esencial" radio="true" ,Dial Esencial
+http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_01.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=320&height=320" group-title="R-Radio_Generalistas" tvg-name="Dial Latino" radio="true" ,Dial Latino
+http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=320&height=320" group-title="R-Radio_Generalistas" tvg-name="Dial Baladas" radio="true" ,Dial Baladas
+http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=320&height=320" group-title="R-Radio_Generalistas" tvg-name="Dial Babyradio" radio="true" ,Dial Babyradio
+http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_04.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Generalistas" tvg-name="COPE" radio="true" ,COPE
 https://flucast-m04-06.flumotion.com/cope/net1.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Generalistas" tvg-name="COPE" radio="true" ,COPE
@@ -981,8 +999,74 @@ https://cdnlive.shooowit.net/rtvalive/smil:channel6.smil/chunklist_b250000.m3u8
 https://rneand.rtveradio.cires21.com/rneand.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png" group-title="R-Radio_Andalucía" tvg-name="Radio 5 Andalucía" radio="true" ,Radio 5 Andalucía
 https://radio5and.rtveradio.cires21.com/radio5and.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Onda Cero Sevilla" radio="true" ,Onda Cero Sevilla
-https://livefastly-webs.ondacero.es/sevilla-pull/audio/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Radio Marca Sevilla" radio="true" ,Radio Marca Sevilla
+https://relay.stream.enacast-cloud.com:40219/radiomarcasevillaHD.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Radio Marca Málaga" radio="true" ,Radio Marca Málaga
+https://malagafm.streaming-pro.com:8131/malagafmmobile
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Almería" radio="true" ,SER Almería
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ALMERIA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Andalucía Centro" radio="true" ,SER Andalucía Centro
+http://5.83.75.146:8000/serestepa
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Andújar" radio="true" ,SER Andújar
+http://srv01.redsanmarcos.com:8011/live1
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Antequera" radio="true" ,SER Antequera
+http://185.23.192.33:8000/serantequera
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Comarca" radio="true" ,SER Comarca
+https://eu1.lhdserver.es:8075/stream
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Costa de la Luz" radio="true" ,SER Costa de la Luz
+http://cervera.eldialdigital.com:8036/stream
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER La Janda" radio="true" ,SER La Janda
+http://5.135.183.124:8352/stream
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Lucena" radio="true" ,SER Lucena
+http://185.23.192.33:8000/lucena
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Málaga" radio="true" ,SER Málaga
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Marbella Costa del Sol" radio="true" ,SER Marbella Costa del Sol
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MARBELLA_COSTA_SOL.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Poniente" radio="true" ,SER Poniente
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PONIENTE.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Roquetas" radio="true" ,SER Roquetas
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ROQUETAS.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Levante" radio="true" ,SER Levante
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LEVANTE.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Algeciras" radio="true" ,SER - Radio Algeciras
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALGECIRAS.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Axarquía" radio="true" ,SER - Radio Axarquía
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_AXARQUIA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Baza" radio="true" ,SER - Radio Baza
+http://escuchar.radiogranada.es:8028/baza
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Cádiz" radio="true" ,SER - Radio Cádiz
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CADIZ.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Coca Ser Ronda" radio="true" ,SER - Radio Coca Ser Ronda
+http://164.138.208.21:8336/;
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Córdoba" radio="true" ,SER - Radio Córdoba
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CORDOBA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Granada" radio="true" ,SER - Radio Granada
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GRANADA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Guadix" radio="true" ,SER - Radio Guadix
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GUADIX.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Huelva" radio="true" ,SER - Radio Huelva
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_HUELVA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Jaén" radio="true" ,SER - Radio Jaén
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_JAEN.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Jerez" radio="true" ,SER - Radio Jerez
+http://streaming6.elitecomunicacion.es:8642/;
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Jódar" radio="true" ,SER - Radio Jódar
+http://srv3031.lcinternet.com:8003/live1
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Linares" radio="true" ,SER - Radio Linares
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_LINARES.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Luna" radio="true" ,SER - Radio Luna
+http://srv0625.emisorasonline.com:8003/stream
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Morón" radio="true" ,SER - Radio Morón
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MORON.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Motril" radio="true" ,SER - Radio Motril
+http://escuchar.radiogranada.es:8028/motril
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Palma" radio="true" ,SER - Radio Palma
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PALMA_DEL_RIO.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Sevilla" radio="true" ,SER - Radio Sevilla
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Úbeda" radio="true" ,SER - Radio Úbeda
+http://srv3031.lcinternet.com:8007/live1
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="COPE Almería" radio="true" ,COPE Almería
 https://wecast-b01-03.flumotion.com/copesedes/almeria.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="COPE Cádiz" radio="true" ,COPE Cádiz
@@ -1007,84 +1091,50 @@ https://wecast-b01-03.flumotion.com/copesedes/jerez.mp3
 https://wecast-b01-03.flumotion.com/copesedes/malaga.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="COPE Motril" radio="true" ,COPE Motril
 https://wecast-b01-03.flumotion.com/copesedes/motril.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="COPE Ronda" radio="true" ,COPE Ronda
-http://83.61.19.89:8000/;copesedes/ronda.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="COPE Sierra Norte" radio="true" ,COPE Sierra Norte
+http://5.135.183.124:8100/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="COPE Sevilla" radio="true" ,COPE Sevilla
 https://wecast-b01-03.flumotion.com/copesedes/sevilla.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Cadena COPE Sierra Norte" radio="true" ,Cadena COPE Sierra Norte
-http://5.135.183.124:8100/stream
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="COPE Ronda" radio="true" ,COPE Ronda
+http://83.61.19.89:8000/;copesedes/ronda.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Onda Cero Algeciras" radio="true" ,Onda Cero Algeciras
+http://icecast-streaming.nice264.com/algeciras
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Onda Cero Almería" radio="true" ,Onda Cero Almería
+http://icecast-streaming.nice264.com/almeria
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Onda Cero Baza" radio="true" ,Onda Cero Baza
+http://icecast-streaming.nice264.com/baza
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Onda Cero Cádiz" radio="true" ,Onda Cero Cádiz
+http://icecast-streaming.nice264.com/cadiz
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Onda Cero Córdoba" radio="true" ,Onda Cero Córdoba
+http://icecast-streaming.nice264.com/cordoba
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Onda Cero El Ejido" radio="true" ,Onda Cero El Ejido
+http://icecast-streaming.nice264.com/elejido
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Onda Cero Granada" radio="true" ,Onda Cero Granada
+http://icecast-streaming.nice264.com/granada
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Onda Cero Huelva" radio="true" ,Onda Cero Huelva
+http://icecast-streaming.nice264.com/huelva
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Onda Cero Jaén" radio="true" ,Onda Cero Jaén
+http://icecast-streaming.nice264.com/jaen
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Onda Cero Jerez de la Frontera" radio="true" ,Onda Cero Jerez de la Frontera
+http://icecast-streaming.nice264.com/jerez
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Onda Cero Marbella" radio="true" ,Onda Cero Marbella
+http://icecast-streaming.nice264.com/marbella
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Onda Cero Motril" radio="true" ,Onda Cero Motril
+http://icecast-streaming.nice264.com/motril
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Onda Cero Málaga" radio="true" ,Onda Cero Málaga
+http://icecast-streaming.nice264.com/malaga
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Onda Cero Sevilla" radio="true" ,Onda Cero Sevilla
+http://icecast-streaming.nice264.com/sevilla
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/los40/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="LOS40 Costa de la Luz" radio="true" ,LOS40 Costa de la Luz
+http://5.135.183.124:8326/stream
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/los40/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="LOS40 Guadix" radio="true" ,LOS40 Guadix
+http://20873.live.streamtheworld.com:3690/LOS40_ASO_GUADIX_SC
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Cadena Dial Andalucia Este" radio="true" ,Cadena Dial Andalucia Este
+http://streaming5.elitecomunicacion.es:8226/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/CadenaDigitalMalaga/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Cadena Digital" radio="true" ,Cadena Digital
 http://185.23.192.118:8006/;stream.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LatinoFMmalaga/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Cadena Latino" radio="true" ,Cadena Latino
 http://185.23.192.118:8000/;stream.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Almería" radio="true" ,SER Almería
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ALMERIA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Poniente" radio="true" ,SER Poniente
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PONIENTE.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Roquetas" radio="true" ,SER Roquetas
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ROQUETAS.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Cádiz" radio="true" ,SER - Radio Cádiz
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CADIZ.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Córdoba" radio="true" ,SER - Radio Córdoba
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CORDOBA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Granada" radio="true" ,SER - Radio Granada
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GRANADA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Levante" radio="true" ,SER Levante
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LEVANTE.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Sevilla" radio="true" ,SER - Radio Sevilla
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Algeciras" radio="true" ,SER - Radio Algeciras
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALGECIRAS.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Jerez" radio="true" ,SER - Radio Jerez
-http://streaming6.elitecomunicacion.es:8642/;
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Comarca" radio="true" ,SER Comarca
-https://eu1.lhdserver.es:8075/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER La Janda" radio="true" ,SER La Janda
-http://5.135.183.124:8352/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Lucena" radio="true" ,SER Lucena
-http://185.23.192.33:8000/lucena
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Luna" radio="true" ,SER - Radio Luna
-http://srv0625.emisorasonline.com:8003/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Palma" radio="true" ,SER - Radio Palma
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PALMA_DEL_RIO.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Huelva" radio="true" ,SER - Radio Huelva
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_HUELVA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Costa de la Luz" radio="true" ,SER Costa de la Luz
-http://cervera.eldialdigital.com:8036/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Baza" radio="true" ,SER - Radio Baza
-http://escuchar.radiogranada.es:8028/baza
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Guadix" radio="true" ,SER - Radio Guadix
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GUADIX.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Motril" radio="true" ,SER - Radio Motril
-http://escuchar.radiogranada.es:8028/motril
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Úbeda" radio="true" ,SER - Radio Úbeda
-http://srv3031.lcinternet.com:8007/live1
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Jódar" radio="true" ,SER - Radio Jódar
-http://srv3031.lcinternet.com:8003/live1
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Jaén" radio="true" ,SER - Radio Jaén
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_JAEN.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Linares" radio="true" ,SER - Radio Linares
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_LINARES.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Andújar" radio="true" ,SER Andújar
-http://srv01.redsanmarcos.com:8011/live1
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Axarquía" radio="true" ,SER - Radio Axarquía
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_AXARQUIA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Coca Ser Ronda" radio="true" ,SER - Radio Coca Ser Ronda
-http://164.138.208.21:8336/;
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Antequera" radio="true" ,SER Antequera
-http://185.23.192.33:8000/serantequera
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Málaga" radio="true" ,SER Málaga
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Marbella Costa del Sol" radio="true" ,SER Marbella Costa del Sol
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MARBELLA_COSTA_SOL.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER - Radio Morón" radio="true" ,SER - Radio Morón
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MORON.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="SER Andalucía Centro" radio="true" ,SER Andalucía Centro
-http://5.83.75.146:8000/serestepa
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/CadenaDialAndalucia/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Cadena Dial Andalucia Este" radio="true" ,Cadena Dial Andalucia Este
-http://streaming5.elitecomunicacion.es:8226/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/los40/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="LOS40 Guadix" radio="true" ,LOS40 Guadix
-http://20873.live.streamtheworld.com:3690/LOS40_ASO_GUADIX_SC
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/890332081024749/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Candil Radio" radio="true" ,Candil Radio
 http://s6.viastreaming.net:7100/;
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/131322746891532/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Central FM" radio="true" ,Central FM
@@ -1117,10 +1167,6 @@ https://radioplaneta.emitironline.com/
 http://94.23.85.189:7855/;listen.pls
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioSierraFM/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Radio Sierra" radio="true" ,Radio Sierra
 http://srv01.redsanmarcos.com:8000/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Radio Marca Sevilla" radio="true" ,Radio Marca Sevilla
-https://relay.stream.enacast-cloud.com:40219/radiomarcasevillaHD.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Radio Marca Málaga" radio="true" ,Radio Marca Málaga
-https://malagafm.streaming-pro.com:8131/malagafmmobile
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radiomartos/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Radio Martos" radio="true" ,Radio Martos
 http://streaming6.elitecomunicacion.es:8234/;
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/fmradioluz/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Radio Luz" radio="true" ,Radio Luz
@@ -1143,6 +1189,8 @@ https://wecast-b03-03.flumotion.com/mijas-radio/shoutcast.mp3
 http://radio1.todostreaming.es:8126/;str
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/GozaderaSpain/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Gozadera FM Andalucia" radio="true" ,Gozadera FM Andalucia
 http://streamingv2.shoutcast.com/gozadera
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/web.radiosevillanas/picture?width=320&height=320" group-title="R-Radio_Andalucía" tvg-name="Radio Sevillanas" radio="true" ,Radio Sevillanas
+http://radio.wesped.com:8000/;stream.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/aragonradio/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="Aragón Radio (Zaragoza)" radio="true" ,Aragón Radio (Zaragoza)
 https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/aragonradio/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="Aragón Radio (Huesca)" radio="true" ,Aragón Radio (Huesca)
@@ -1153,32 +1201,38 @@ https://cartv.streaming.aranova.es/hls/live/aragonradio_teruel.m3u8
 https://rneara.rtveradio.cires21.com/rrneara.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png" group-title="R-Radio_Aragón" tvg-name="Radio 5 Aragón" radio="true" ,Radio 5 Aragón
 https://radio5ara.rtveradio.cires21.com/radio5ara.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="COPE Huesca" radio="true" ,COPE Huesca
-https://wecast-b01-03.flumotion.com/copesedes/huesca.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="COPE Teruel" radio="true" ,COPE Teruel
-https://wecast-b01-03.flumotion.com/copesedes/teruel.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="COPE Zaragoza" radio="true" ,COPE Zaragoza
-https://wecast-b01-03.flumotion.com/copesedes/zaragoza.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="Radio Marca Zaragoza" radio="true" ,Radio Marca Zaragoza
+https://c6.auracast.net/radio/8020/rmzgz
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="SER Calatayud" radio="true" ,SER Calatayud
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CALATAYUD.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="SER Teruel" radio="true" ,SER Teruel
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TERUEL.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="SER - Radio Cinco Villas" radio="true" ,SER - Radio Cinco Villas
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CINCO_VILLAS.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="SER - Radio Huesca" radio="true" ,SER - Radio Huesca
 http://streaming.radiohuesca.com:8021/radiohuescafm
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="SER - Radio Huesca" radio="true" ,SER - Radio Huesca
 http://streaming.radiohuesca.com:8010/radiohuescaam
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="SER - Radio Cinco Villas" radio="true" ,SER - Radio Cinco Villas
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CINCO_VILLAS.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="SER - Radio Zaragoza" radio="true" ,SER - Radio Zaragoza
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="SER Teruel" radio="true" ,SER Teruel
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TERUEL.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="SER Calatayud" radio="true" ,SER Calatayud
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CALATAYUD.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="Radio Marca Zaragoza" radio="true" ,Radio Marca Zaragoza
-https://c6.auracast.net/radio/8020/rmzgz
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="COPE Huesca" radio="true" ,COPE Huesca
+https://wecast-b01-03.flumotion.com/copesedes/huesca.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="COPE Pirineos" radio="true" ,COPE Pirineos
 http://85.25.217.22:8110/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/hitpirineos/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="Hit Pirineos" radio="true" ,Hit Pirineos
-http://85.25.217.22:8310/stream
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="COPE Teruel" radio="true" ,COPE Teruel
+https://wecast-b01-03.flumotion.com/copesedes/teruel.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="COPE Zaragoza" radio="true" ,COPE Zaragoza
+https://wecast-b01-03.flumotion.com/copesedes/zaragoza.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="Onda Cero Huesca" radio="true" ,Onda Cero Huesca
+http://icecast-streaming.nice264.com/huesca
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="Onda Cero Teruel" radio="true" ,Onda Cero Teruel
+http://icecast-streaming.nice264.com/teruel
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="Onda Cero Zaragoza" radio="true" ,Onda Cero Zaragoza
+http://icecast-streaming.nice264.com/zaragoza
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/los40/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="LOS40 Huesca" radio="true" ,LOS40 Huesca
 https://streamingradio.radiohuesca.com:8061/radio40principales
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/hitpirineos/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="Hit Pirineos" radio="true" ,Hit Pirineos
+http://85.25.217.22:8310/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/TeaFM1027/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="Tea FM" radio="true" ,Tea FM
 http://cervera.eldialdigital.com:8052/;stream.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioChinchilla/picture?width=320&height=320" group-title="R-Radio_Aragón" tvg-name="Radio Chinchilla" radio="true" ,Radio Chinchilla
@@ -1209,6 +1263,8 @@ https://streamingradio.radiohuesca.com:8101/radiosarinena
 https://securestream.hdserver.biz:9348/stream.mp3
 #EXTINF:-1 radio="true" tvg-logo="http://www.zaragozafm.es/player/tmp/images/default.png" group-title="R-Radio_Aragón" tvg-name="ZFM" radio="true" ,ZFM
 http://streaming.zarastudio.es/zfm.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/CanariasRadioLaAutonomica/picture?width=320&height=320" group-title="R-Radio_Canarias" tvg-name="Canarias Radio" radio="true" ,Canarias Radio
+http://streaming2.mad.idec.net/rtvcradio/rtvcradio.drb.stream/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=320&height=320" group-title="R-Radio_Canarias" tvg-name="Radio Nacional Canarias" radio="true" ,Radio Nacional Canarias
 https://rnecnr.rtveradio.cires21.com/rnecnr.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png" group-title="R-Radio_Canarias" tvg-name="Radio 5 Canarias - Las Palmas" radio="true" ,Radio 5 Canarias - Las Palmas
@@ -1223,20 +1279,18 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/SER_LA_PALMA.mp
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TENERIFE.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Canarias" tvg-name="SER - Radio La Palma" radio="true" ,SER - Radio La Palma
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_LAS_PALMAS.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/CanariasRadioLaAutonomica/picture?width=320&height=320" group-title="R-Radio_Canarias" tvg-name="Canarias Radio" radio="true" ,Canarias Radio
-http://streaming2.mad.idec.net/rtvcradio/rtvcradio.drb.stream/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/kissfm.es/picture?width=320&height=320" group-title="R-Radio_Canarias" tvg-name="Kiss FM Canarias" radio="true" ,Kiss FM Canarias
-http://kissfmcanarias.kissfmradio.cires21.com/kissfmcanarias.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Canarias" tvg-name="COPE Gran Canaria" radio="true" ,COPE Gran Canaria
 https://wecast-b01-03.flumotion.com/copesedes/laspalmas.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Canarias" tvg-name="COPE Tenerife" radio="true" ,COPE Tenerife
 https://wecast-b01-03.flumotion.com/copesedes/tenerife.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Canarias" tvg-name="Onda Cero Las Palmas" radio="true" ,Onda Cero Las Palmas
+http://icecast-streaming.nice264.com/laspalmas
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/kissfm.es/picture?width=320&height=320" group-title="R-Radio_Canarias" tvg-name="Kiss FM Canarias" radio="true" ,Kiss FM Canarias
+http://kissfmcanarias.kissfmradio.cires21.com/kissfmcanarias.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/CANAL4TENERIFE/picture?width=320&height=320" group-title="R-Radio_Canarias" tvg-name="Canal 4 Tenerife" radio="true" ,Canal 4 Tenerife
 http://panel.soydigital.fm:8008/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioELDIA/picture?width=320&height=320" group-title="R-Radio_Canarias" tvg-name="Radio El Día" radio="true" ,Radio El Día
 http://185.50.197.212:9974/;stream.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Canarias" tvg-name="SER - Club Tenerife" radio="true" ,SER - Club Tenerife
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TENERIFE.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioECCA/picture?width=320&height=320" group-title="R-Radio_Canarias" tvg-name="Radio ECCA" radio="true" ,Radio ECCA
 http://audio1.ipercast.net/endirecto22.es/mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioguiniguada/picture?width=320&height=320" group-title="R-Radio_Canarias" tvg-name="Radio Guiniguada" radio="true" ,Radio Guiniguada
@@ -1265,18 +1319,18 @@ https://server10.emitironline.com:8064/stream
 https://rnectb.rtveradio.cires21.com/rnectb.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png" group-title="R-Radio_Cantabria" tvg-name="Radio 5 Cantabria" radio="true" ,Radio 5 Cantabria
 https://radio5ctb.rtveradio.cires21.com/radio5ctb.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Cantabria" tvg-name="Onda Cero Santander" radio="true" ,Onda Cero Santander
-https://livefastly-webs.ondacero.es/santander-pull/audio/chunklist.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Cantabria" tvg-name="COPE Santander" radio="true" ,COPE Santander
-https://wecast-b01-03.flumotion.com/copesedes/santander.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Cantabria" tvg-name="SER - Radio Santander" radio="true" ,SER - Radio Santander
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_SANTANDER.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Cantabria" tvg-name="SER Asón" radio="true" ,SER Asón
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASON.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Cantabria" tvg-name="SER Castro Urdiales" radio="true" ,SER Castro Urdiales
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CASTRO_URDIALES.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Cantabria" tvg-name="SER Torrelavega" radio="true" ,SER Torrelavega
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TORRELAVEGA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Cantabria" tvg-name="SER - Radio Santander" radio="true" ,SER - Radio Santander
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_SANTANDER.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Cantabria" tvg-name="COPE Santander" radio="true" ,COPE Santander
+https://wecast-b01-03.flumotion.com/copesedes/santander.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Cantabria" tvg-name="Onda Cero Santander" radio="true" ,Onda Cero Santander
+http://icecast-streaming.nice264.com/santander
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioCamargo100.4FM/picture?width=320&height=320" group-title="R-Radio_Cantabria" tvg-name="Radio Camargo" radio="true" ,Radio Camargo
 http://91.121.77.67:8048/;stream.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/487651644083957760/GHc_1oji_400x400.png" group-title="R-Radio_Cantabria" tvg-name="Top FM" radio="true" ,Top FM
@@ -1291,6 +1345,30 @@ http://klive.kaltura.com/s/dc-1/live/hls/p/2288691/e/1_qilzwlkz/sd/6000/t/8BpiW3
 https://rneclm.rtveradio.cires21.com/rneclm.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png" group-title="R-Radio_Castilla-La Mancha" tvg-name="Radio 5 Castilla-La Mancha" radio="true" ,Radio 5 Castilla-La Mancha
 https://radio5clm.rtveradio.cires21.com/radio5clm.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER Alcázar" radio="true" ,SER Alcázar
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALCAZAR.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER Ciudad Real" radio="true" ,SER Ciudad Real
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CIUDAD_REAL.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER Cuenca" radio="true" ,SER Cuenca
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CUENCA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER Guadalajara" radio="true" ,SER Guadalajara
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_GUADALAJARA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER Talavera" radio="true" ,SER Talavera
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TALAVERA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER Toledo" radio="true" ,SER Toledo
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TOLEDO.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER Valdepeñas" radio="true" ,SER Valdepeñas
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALDEPENAS.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER - Radio 90 Motilla" radio="true" ,SER - Radio 90 Motilla
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MOTILLA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER - Radio Albacete" radio="true" ,SER - Radio Albacete
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALBACETE.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER - Radio Azul" radio="true" ,SER - Radio Azul
+http://www.radioazul.com:8050/;
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER - Radio Puertollano" radio="true" ,SER - Radio Puertollano
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_PUERTOLLANO.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER - Radio Tarancón" radio="true" ,SER - Radio Tarancón
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TARANCON.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="COPE Albacete" radio="true" ,COPE Albacete
 https://wecast-b01-03.flumotion.com/copesedes/albacete.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="COPE Ciudad Real" radio="true" ,COPE Ciudad Real
@@ -1301,30 +1379,22 @@ https://wecast-b01-03.flumotion.com/copesedes/cuenca.mp3
 https://wecast-b01-03.flumotion.com/copesedes/guadalajara.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="COPE Toledo" radio="true" ,COPE Toledo
 https://wecast-b01-03.flumotion.com/copesedes/toledo.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER - Radio Albacete" radio="true" ,SER - Radio Albacete
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALBACETE.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER - Radio Puertollano" radio="true" ,SER - Radio Puertollano
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_PUERTOLLANO.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER Alcázar" radio="true" ,SER Alcázar
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALCAZAR.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER Ciudad Real" radio="true" ,SER Ciudad Real
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CIUDAD_REAL.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER Valdepeñas" radio="true" ,SER Valdepeñas
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALDEPENAS.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER Guadalajara" radio="true" ,SER Guadalajara
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_GUADALAJARA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER Talavera" radio="true" ,SER Talavera
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TALAVERA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER Toledo" radio="true" ,SER Toledo
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TOLEDO.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER - Radio 90 Motilla" radio="true" ,SER - Radio 90 Motilla
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MOTILLA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER - Radio Azul" radio="true" ,SER - Radio Azul
-http://www.radioazul.com:8050/;
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER - Radio Tarancón" radio="true" ,SER - Radio Tarancón
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TARANCON.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="SER Cuenca" radio="true" ,SER Cuenca
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CUENCA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="Onda Cero Albacete" radio="true" ,Onda Cero Albacete
+http://icecast-streaming.nice264.com/albacete
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="Onda Cero Alcázar de San Juan" radio="true" ,Onda Cero Alcázar de San Juan
+http://icecast-streaming.nice264.com/alcazar
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="Onda Cero Ciudad Real" radio="true" ,Onda Cero Ciudad Real
+http://icecast-streaming.nice264.com/ciudadreal
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="Onda Cero Cuenca" radio="true" ,Onda Cero Cuenca
+http://icecast-streaming.nice264.com/cuenca
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="Onda Cero Guadalajara" radio="true" ,Onda Cero Guadalajara
+http://icecast-streaming.nice264.com/guadalajara
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="Onda Cero Talavera de la Reina" radio="true" ,Onda Cero Talavera de la Reina
+http://icecast-streaming.nice264.com/talavera
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="Onda Cero Toledo" radio="true" ,Onda Cero Toledo
+http://icecast-streaming.nice264.com/toledo
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="Onda Cero Valdepeñas" radio="true" ,Onda Cero Valdepeñas
+http://icecast-streaming.nice264.com/valdepenas
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioarrebato107.4/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="Radio Arrebato" radio="true" ,Radio Arrebato
 http://srv0510.emisorasonline.com:8025/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioChinchilla/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="Radio Chinchilla" radio="true" ,Radio Chinchilla
@@ -1335,44 +1405,36 @@ https://rnecyl.rtveradio.cires21.com/rnecyl.mp3
 https://radio5cyl.rtveradio.cires21.com/radio5cyl.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="Radio Marca León" radio="true" ,Radio Marca León
 https://marcaleon.streaming-pro.com:6104/marca-le.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/esradio/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="esRadio - Castilla y León" radio="true" ,esRadio - Castilla y León
-https://libertaddigital-radio-live4.flumotion.com/libertaddigital/ld-live4-low.aac
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER - Radio Bierzo" radio="true" ,SER - Radio Bierzo
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_BIERZO.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER - Radio León" radio="true" ,SER - Radio León
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LEON.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER - Radio Castilla" radio="true" ,SER - Radio Castilla
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BURGOS.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER - Radio Valladolid" radio="true" ,SER - Radio Valladolid
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALLADOLID.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER - Radio Zamora" radio="true" ,SER - Radio Zamora
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="Radio Marca Valladolid" radio="true" ,Radio Marca Valladolid
+http://radiomarcavalladolid.streaming-pro.com:8067
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER Ávila" radio="true" ,SER Ávila
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_AVILA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER - Radio Aranda" radio="true" ,SER - Radio Aranda
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ARANDA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER - Radio Castilla" radio="true" ,SER - Radio Castilla
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BURGOS.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER Miranda" radio="true" ,SER Miranda
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MIRANDA_ABRO.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER Soria" radio="true" ,SER Soria
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_SORIA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER - Radio Aranda" radio="true" ,SER - Radio Aranda
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ARANDA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER - Radio Bierzo" radio="true" ,SER - Radio Bierzo
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_BIERZO.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER - Radio Castilla" radio="true" ,SER - Radio Castilla
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BURGOS.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER - Radio León" radio="true" ,SER - Radio León
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LEON.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER - Radio Medina" radio="true" ,SER - Radio Medina
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MEDINA.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER - Radio Palencia" radio="true" ,SER - Radio Palencia
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_PALENCIA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER - Radio Peñafiel" radio="true" ,SER - Radio Peñafiel
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PENAFIEL.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER - Radio Salamanca" radio="true" ,SER - Radio Salamanca
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_SALAMANCA.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER - Radio Segovia" radio="true" ,SER - Radio Segovia
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_SEGOVIA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER Soria" radio="true" ,SER Soria
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_SORIA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER - Radio Medina" radio="true" ,SER - Radio Medina
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MEDINA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER - Radio Peñafiel" radio="true" ,SER - Radio Peñafiel
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PENAFIEL.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER - Radio Valladolid" radio="true" ,SER - Radio Valladolid
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALLADOLID.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="SER - Radio Zamora" radio="true" ,SER - Radio Zamora
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="Radio Marca Valladolid" radio="true" ,Radio Marca Valladolid
-http://radiomarcavalladolid.streaming-pro.com:8067
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="COPE Ávila" radio="true" ,COPE Ávila
 https://wecast-b01-03.flumotion.com/copesedes/avila.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="COPE Burgos" radio="true" ,COPE Burgos
@@ -1391,6 +1453,20 @@ https://wecast-b01-03.flumotion.com/copesedes/soria.mp3
 https://wecast-b01-03.flumotion.com/copesedes/valladolid.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="COPE Zamora" radio="true" ,COPE Zamora
 https://wecast-b01-03.flumotion.com/copesedes/zamora.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="Onda Cero León" radio="true" ,Onda Cero León
+http://icecast-streaming.nice264.com/leon
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="Onda Cero Palencia" radio="true" ,Onda Cero Palencia
+http://icecast-streaming.nice264.com/palencia
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="Onda Cero Salamanca" radio="true" ,Onda Cero Salamanca
+http://icecast-streaming.nice264.com/salamanca
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="Onda Cero Segovia" radio="true" ,Onda Cero Segovia
+http://icecast-streaming.nice264.com/segovia
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="Onda Cero Valladolid" radio="true" ,Onda Cero Valladolid
+http://icecast-streaming.nice264.com/valladolid
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="Onda Cero Zamora" radio="true" ,Onda Cero Zamora
+http://icecast-streaming.nice264.com/zamora
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/esradio/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="esRadio - Castilla y León" radio="true" ,esRadio - Castilla y León
+https://libertaddigital-radio-live4.flumotion.com/libertaddigital/ld-live4-low.aac
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/mortalfm/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="Mortal FM" radio="true" ,Mortal FM
 http://server6.20comunicacion.com:8044/
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/158974217473244/picture?width=320&height=320" group-title="R-Radio_Castilla y León" tvg-name="Vive! Radio" radio="true" ,Vive! Radio
@@ -1427,16 +1503,14 @@ https://flaixfm.streaming-pro.com:8001/flaixfm.mp3
 https://www.flaixbac.cat/ca/api/player/live
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RADIOENBASONLINE2/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Bas Ràdio" radio="true" ,Bas Ràdio
 http://s1streamingradio.desafiohosting.com:8130/listen.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/betevecat/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="betevé ràdio" radio="true" ,betevé ràdio
-http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/0_qzjz9cja/protocol/http/format/applehttp/a.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="COPE Barcelona" radio="true" ,COPE Barcelona
-https://wecast-b01-03.flumotion.com/copesedes/barcelona.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="COPE Girona" radio="true" ,COPE Girona
-https://wecast-b01-03.flumotion.com/copesedes/gerona.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="COPE Lleida" radio="true" ,COPE Lleida
-https://wecast-b01-03.flumotion.com/copesedes/lleida.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="COPE Tarragona" radio="true" ,COPE Tarragona
-https://wecast-b01-03.flumotion.com/copesedes/tarragona.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Ràdio Marca Barcelona" radio="true" ,Ràdio Marca Barcelona
+https://radiomarcabcnmedia.dns-lcinternet.com:9000/stream
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="SER Ebre" radio="true" ,SER Ebre
+http://cadenaserebre.streaming-pro.com:6021/stream
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="SER Penedès-Garraf" radio="true" ,SER Penedès-Garraf
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_PENEDES_GARRAF.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="SER Tarragona" radio="true" ,SER Tarragona
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TARRAGONA.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="SER - Ràdio Barcelona" radio="true" ,SER - Ràdio Barcelona
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="SER - Ràdio Girona" radio="true" ,SER - Ràdio Girona
@@ -1447,12 +1521,24 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/SER_LLEIDA.mp3
 http://streaming.enantena.com:8000/taronjadigital-bages56.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="SER - Ràdio Reus" radio="true" ,SER - Ràdio Reus
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_REUS.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="SER Penedès-Garraf" radio="true" ,SER Penedès-Garraf
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_PENEDES_GARRAF.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="SER Ebre" radio="true" ,SER Ebre
-http://cadenaserebre.streaming-pro.com:6021/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="SER Tarragona" radio="true" ,SER Tarragona
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TARRAGONA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="COPE Barcelona" radio="true" ,COPE Barcelona
+https://wecast-b01-03.flumotion.com/copesedes/barcelona.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="COPE Girona" radio="true" ,COPE Girona
+https://wecast-b01-03.flumotion.com/copesedes/gerona.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="COPE Lleida" radio="true" ,COPE Lleida
+https://wecast-b01-03.flumotion.com/copesedes/lleida.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="COPE Tarragona" radio="true" ,COPE Tarragona
+https://wecast-b01-03.flumotion.com/copesedes/tarragona.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Onda Cero Barcelona" radio="true" ,Onda Cero Barcelona
+http://icecast-streaming.nice264.com/barcelona
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Onda Cero Girona" radio="true" ,Onda Cero Girona
+http://icecast-streaming.nice264.com/girona
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Onda Cero Lleida" radio="true" ,Onda Cero Lleida
+http://icecast-streaming.nice264.com/lleida
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Onda Cero Tarragona" radio="true" ,Onda Cero Tarragona
+http://icecast-streaming.nice264.com/tarragona
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Onda Cero Vilanova" radio="true" ,Onda Cero Vilanova
+http://icecast-streaming.nice264.com/vilanova
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/equinoxradio.barcelone/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Equinox Radio" radio="true" ,Equinox Radio
 http://listen.radionomy.com/absolutevintage
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/lamarinacat/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="La Marina FM" radio="true" ,La Marina FM
@@ -1473,8 +1559,6 @@ http://srv3021.lcinternet.com:8019/stream
 http://streaming.enantena.com:8000/radiograciaHD.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioGraciaBarcelona/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Ràdio Gràcia" radio="true" ,Ràdio Gràcia
 https://enacast.com/radiogracia/streams/HD
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Ràdio Marca Barcelona" radio="true" ,Ràdio Marca Barcelona
-https://radiomarcabcnmedia.dns-lcinternet.com:9000/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioteletaxi/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Ràdio Tele-Taxi" radio="true" ,Ràdio Tele-Taxi
 https://radioteletaxi2-adswizz.grupott.stream.flumotion.com/gtt/radioteletaxi2.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radio.vilamajor/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Ràdio Vilamajor" radio="true" ,Ràdio Vilamajor
@@ -1567,6 +1651,8 @@ https://rneceu.rtveradio.cires21.com/rneceu.mp3
 https://radio5ceu.rtveradio.cires21.com/radio5ceu.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Ceuta" tvg-name="SER - Radio Ceuta" radio="true" ,SER - Radio Ceuta
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CEUTA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Ceuta" tvg-name="Onda Cero Ceuta" radio="true" ,Onda Cero Ceuta
+http://icecast-streaming.nice264.com/ceuta
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="OndaMadrid" radio="true" ,OndaMadrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="OndaMadrid" radio="true" ,OndaMadrid
@@ -1575,12 +1661,6 @@ http://live-ondamadrid.cellnextelecom.net/ondamadrid/radio/index.m3u8
 https://rnemad.rtveradio.cires21.com/rnemad.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png" group-title="R-Radio_C. de Madrid" tvg-name="Radio 5 Madrid" radio="true" ,Radio 5 Madrid
 https://radio5mad.rtveradio.cires21.com/radio5mad.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="COPE Madrid" radio="true" ,COPE Madrid
-https://flucast-m05-04.flumotion.com/cope/madrid.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="COPE Madrid COPE Más" radio="true" ,COPE Madrid COPE Más
-https://flucast-b03-04.flumotion.com/cope/net4.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="SER - Radio Madrid" radio="true" ,SER - Radio Madrid
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MADRID.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="SER Henares" radio="true" ,SER Henares
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_HENARES.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="SER Madrid Norte" radio="true" ,SER Madrid Norte
@@ -1591,28 +1671,36 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MADRID_
 http://217.126.244.152:7000/;stream.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="SER Madrid Sur" radio="true" ,SER Madrid Sur
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MADRID_SUR.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="SER - Radio Madrid" radio="true" ,SER - Radio Madrid
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MADRID.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="COPE Madrid" radio="true" ,COPE Madrid
+https://flucast-m05-04.flumotion.com/cope/madrid.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="COPE Madrid COPE Más" radio="true" ,COPE Madrid COPE Más
+https://flucast-b03-04.flumotion.com/cope/net4.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="Onda Cero Alcalá de Henares" radio="true" ,Onda Cero Alcalá de Henares
+http://icecast-streaming.nice264.com/alcala
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="Onda Cero Madrid" radio="true" ,Onda Cero Madrid
+http://icecast-streaming.nice264.com/madrid
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="Onda Cero Sierra" radio="true" ,Onda Cero Sierra
+http://ondacerosierra.ddns.net:7000/;stream.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ecoleganes01/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="ECO Leganés" radio="true" ,ECO Leganés
-http://cervera.eldialdigital.com:8076/stream
-#EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/908655886889095169/_GMPwUSa_400x400.jpg" group-title="R-Radio_C. de Madrid" tvg-name="Gestiona Radio" radio="true" ,Gestiona Radio
-http://185.165.0.13:8004/stream/;
+https://cervera.eldialdigital.com:25191/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/inforadiocomplutense/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="Inforadio" radio="true" ,Inforadio
 http://stream00.inforadio.ccinf.es:8000/inforadio01.ogg
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/kebuena103.9fm/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="KeBuena" radio="true" ,KeBuena
 https://19393.live.streamtheworld.com/KEBUENA_ESAAC.aac
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondalatina.com.es/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="Onda Latina" radio="true" ,Onda Latina
-https://www.nodo50.org/ondalatina/A061ondalatina.m3u
+https://cervera.eldialdigital.com:21131/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/masterfmmadrid/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="Máster FM Madrid" radio="true" ,Máster FM Madrid
 http://82.223.102.59:8002/;
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/905319409992044544/x35XzF3A_400x400.jpg" group-title="R-Radio_C. de Madrid" tvg-name="Peperadio" radio="true" ,Peperadio
 http://server10.emitironline.com:8000/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioIntEs/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="Radio Internacional" radio="true" ,Radio Internacional
-http://195.55.74.203/rinternacional/audio-fme.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioIntEs/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="Radio Inter" radio="true" ,Radio Inter
+http://ns3.mycloud-apps.es:8030/stream
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/3117262741/c47fd5e51548aaa3ce1628d319d31e58_400x400.jpeg" group-title="R-Radio_C. de Madrid" tvg-name="Onda Diamante" radio="true" ,Onda Diamante
 http://www.avvcanillejas.org/docs/ondadiamante.ogg.m3u
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="Onda Cero Sierra" radio="true" ,Onda Cero Sierra
-http://ondacerosierra.ddns.net:7000/;stream.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/OmcRadio/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="OMC Radio" radio="true" ,OMC Radio
-http://cervera.eldialdigital.com:8104/;
+https://cervera.eldialdigital.com:25131/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondapoligono/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="Onda Polígono" radio="true" ,Onda Polígono
 http://marconi.eldialdigital.com:6230/;
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioAlmenara/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="Radio Almenara" radio="true" ,Radio Almenara
@@ -1620,13 +1708,13 @@ http://185.50.197.212:9986/;
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/297157036138/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="Radio Cigüeña" radio="true" ,Radio Cigüeña
 http://streamserver2.somosdigital.net:2199/system/images/tunein-pls.png
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioenlacemadrid/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="Radio Enlace" radio="true" ,Radio Enlace
-http://cervera.eldialdigital.com:8100/;
+https://cervera.eldialdigital.com:25121/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioFuga/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="Radio Fuga" radio="true" ,Radio Fuga
 http://radiogestion.com:7090/radiofuga
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/564877578943864832/0WaT4f5B_400x400.jpeg" group-title="R-Radio_C. de Madrid" tvg-name="Radio Las Águilas" radio="true" ,Radio Las Águilas
 http://server2.crearradio.com:8306/;stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radiomorata/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="Radio Morata" radio="true" ,Radio Morata
-http://cervera.eldialdigital.com:8132/codec=mp3
+https://cervera.eldialdigital.com:25141/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioRomanul/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="Radio Romanul" radio="true" ,Radio Romanul
 http://streaming.radioromanul.es:55556/radioromanul
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/179099278878655/picture?width=320&height=320" group-title="R-Radio_C. de Madrid" tvg-name="Radio Utopía" radio="true" ,Radio Utopía
@@ -1645,16 +1733,18 @@ https://rnenav.rtveradio.cires21.com/rnenav.mp3
 https://radio5nav.rtveradio.cires21.com/radio5nav.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/bitfm.es/picture?width=320&height=320" group-title="R-Radio_C. Foral de Navarra" tvg-name="Bit FM Pamplona" radio="true" ,Bit FM Pamplona
 http://server1.emitironline.com:8024/
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_C. Foral de Navarra" tvg-name="COPE Pamplona" radio="true" ,COPE Pamplona
-https://wecast-b01-03.flumotion.com/copesedes/pamplona.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_C. Foral de Navarra" tvg-name="COPE Tudela" radio="true" ,COPE Tudela
-https://wecast-b01-03.flumotion.com/copesedes/tudela.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Foral de Navarra" tvg-name="SER Tudela" radio="true" ,SER Tudela
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TUDELA.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Foral de Navarra" tvg-name="SER - Radio Pamplona" radio="true" ,SER - Radio Pamplona
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_PAMPLONA.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Foral de Navarra" tvg-name="SER - Radio Tafalla" radio="true" ,SER - Radio Tafalla
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TAFALLA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Foral de Navarra" tvg-name="SER Tudela" radio="true" ,SER Tudela
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_TUDELA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_C. Foral de Navarra" tvg-name="COPE Pamplona" radio="true" ,COPE Pamplona
+https://wecast-b01-03.flumotion.com/copesedes/pamplona.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_C. Foral de Navarra" tvg-name="COPE Tudela" radio="true" ,COPE Tudela
+https://wecast-b01-03.flumotion.com/copesedes/tudela.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_C. Foral de Navarra" tvg-name="Onda Cero Pamplona" radio="true" ,Onda Cero Pamplona
+http://icecast-streaming.nice264.com/pamplona
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/293039954137807/picture?width=320&height=320" group-title="R-Radio_C. Foral de Navarra" tvg-name="Eguzki Irratia" radio="true" ,Eguzki Irratia
 http://51.68.46.71:9000/eguzki.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/euskalerriairratia/picture?width=320&height=320" group-title="R-Radio_C. Foral de Navarra" tvg-name="Euskalerria Irratia" radio="true" ,Euskalerria Irratia
@@ -1671,8 +1761,38 @@ https://rneval.rtveradio.cires21.com/rneval.mp3
 https://radio5val.rtveradio.cires21.com/radio5val.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="Radio Marca Valencia" radio="true" ,Radio Marca Valencia
 https://relay.stream.enacast-cloud.com:40225/radiomarcavalenciaHD.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="Cadena Dial Castellón" radio="true" ,Cadena Dial Castellón
-http://stream.radiocastellon.com/dial
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER Maestrat" radio="true" ,SER Maestrat
+http://62.43.213.12:8000/sermaestrat.m3u
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Alcoy" radio="true" ,SER - Radio Alcoy
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ALCOY.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Alicante" radio="true" ,SER - Radio Alicante
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALICANTE.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Castellón" radio="true" ,SER - Radio Castellón
+http://stream.radiocastellon.com/ser
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Castellón" radio="true" ,SER - Radio Castellón
+http://stream.radiocastellon.com/ser
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Dénia" radio="true" ,SER - Radio Dénia
+http://streamden01.vpstec.ovh:8030/radiodenia
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Elche" radio="true" ,SER - Radio Elche
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ELCHE.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Elda" radio="true" ,SER - Radio Elda
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ELDA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Gandia" radio="true" ,SER - Radio Gandia
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GANDIA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio La Vall d'Uixó" radio="true" ,SER - Radio La Vall d'Uixó
+http://62.43.213.12:8000/radiolavall.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Litoral" radio="true" ,SER - Radio Litoral
+http://streamlit01.vpstec.ovh:8020/radiolitoral
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Ontinyent" radio="true" ,SER - Radio Ontinyent
+http://stream03.vpstec.ovh:8000/serfm
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Orihuela" radio="true" ,SER - Radio Orihuela
+http://server9.emitironline.com:10957/;
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Valencia" radio="true" ,SER - Radio Valencia
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALENCIA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Villena" radio="true" ,SER - Radio Villena
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VILLENA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Xàtiva" radio="true" ,SER - Radio Xàtiva
+http://stream03.vpstec.ovh:8000/radioxativa
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="COPE Alicante" radio="true" ,COPE Alicante
 https://wecast-b01-03.flumotion.com/copesedes/alicante.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="COPE Castellón" radio="true" ,COPE Castellón
@@ -1683,46 +1803,32 @@ https://wecast-b01-03.flumotion.com/copesedes/vinaroz.mp3
 https://wecast-b01-03.flumotion.com/copesedes/denia.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="COPE Valencia" radio="true" ,COPE Valencia
 https://wecast-b01-03.flumotion.com/copesedes/valencia.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Castellón" radio="true" ,SER - Radio Castellón
-http://stream.radiocastellon.com/ser
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Valencia" radio="true" ,SER - Radio Valencia
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VALENCIA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Gandia" radio="true" ,SER - Radio Gandia
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GANDIA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Ontinyent" radio="true" ,SER - Radio Ontinyent
-http://stream03.vpstec.ovh:8000/serfm
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Xàtiva" radio="true" ,SER - Radio Xàtiva
-http://stream03.vpstec.ovh:8000/radioxativa
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Castellón" radio="true" ,SER - Radio Castellón
-http://stream.radiocastellon.com/ser
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio La Vall d'Uixó" radio="true" ,SER - Radio La Vall d'Uixó
-http://62.43.213.12:8000/radiolavall.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER Maestrat" radio="true" ,SER Maestrat
-http://62.43.213.12:8000/sermaestrat.m3u
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Alcoy" radio="true" ,SER - Radio Alcoy
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ALCOY.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Alicante" radio="true" ,SER - Radio Alicante
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALICANTE.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Dénia" radio="true" ,SER - Radio Dénia
-http://streamden01.vpstec.ovh:8030/radiodenia
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Elche" radio="true" ,SER - Radio Elche
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ELCHE.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Elda" radio="true" ,SER - Radio Elda
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ELDA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Litoral" radio="true" ,SER - Radio Litoral
-http://streamlit01.vpstec.ovh:8020/radiolitoral
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Orihuela" radio="true" ,SER - Radio Orihuela
-http://server9.emitironline.com:10957/;
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="SER - Radio Villena" radio="true" ,SER - Radio Villena
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VILLENA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioklara/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="Ràdio Klara" radio="true" ,Ràdio Klara
-http://cervera.eldialdigital.com:8048/;#mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/la977/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="La 97.7 Radio" radio="true" ,La 97.7 Radio
-http://teledifusion.tv:1935/977live/mp4:la977stream/media_w1606995350_363652.aac
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="Onda Cero Alicante" radio="true" ,Onda Cero Alicante
+http://icecast-streaming.nice264.com/alicante
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="Onda Cero Alzira" radio="true" ,Onda Cero Alzira
+http://icecast-streaming.nice264.com/alzira
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="Onda Cero Castellón" radio="true" ,Onda Cero Castellón
+http://icecast-streaming.nice264.com/castellon
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="Onda Cero Elche" radio="true" ,Onda Cero Elche
+http://icecast-streaming.nice264.com/elche
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="Onda Cero Marina Baixa" radio="true" ,Onda Cero Marina Baixa
+http://icecast-streaming.nice264.com/villajoyosa
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="Onda Cero Sagunto" radio="true" ,Onda Cero Sagunto
+http://icecast-streaming.nice264.com/sagunto
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="Onda Cero Valencia" radio="true" ,Onda Cero Valencia
+http://icecast-streaming.nice264.com/valencia
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="Onda Cero Vega Baja" radio="true" ,Onda Cero Vega Baja
+http://icecast-streaming.nice264.com/torrevieja
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/los40/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="LOS40 Castellón" radio="true" ,LOS40 Castellón
 http://stream.radiocastellon.com/40
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/Los40Classic.Oficial/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="LOS40 Classic Castellón" radio="true" ,LOS40 Classic Castellón
 http://stream.radiocastellon.com/40cl
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="Cadena Dial Castellón" radio="true" ,Cadena Dial Castellón
+http://stream.radiocastellon.com/dial
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioklara/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="Ràdio Klara" radio="true" ,Ràdio Klara
+http://cervera.eldialdigital.com:8048/;#mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/la977/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="La 97.7 Radio" radio="true" ,La 97.7 Radio
+http://teledifusion.tv:1935/977live/mp4:la977stream/media_w1606995350_363652.aac
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/Playradiovalencia/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="Play Radio Valencia" radio="true" ,Play Radio Valencia
 http://srv1.multiesfera.com:8002/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/teleelx/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="Teleelx Radio" radio="true" ,Teleelx Radio
@@ -1761,26 +1867,32 @@ https://cdnlive.shooowit.net/canalextremaduralive/smil:channel3.smil/playlist.m3
 https://rneext.rtveradio.cires21.com/rneext.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png" group-title="R-Radio_Extremadura" tvg-name="Radio 5 Extremadura" radio="true" ,Radio 5 Extremadura
 https://radio5ext.rtveradio.cires21.com/radio5ext.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Extremadura" tvg-name="SER Cáceres" radio="true" ,SER Cáceres
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CACERES.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Extremadura" tvg-name="SER Coria" radio="true" ,SER Coria
+http://emisoras.cadenaser.com:8085/plasencia
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Extremadura" tvg-name="SER Mérida" radio="true" ,SER Mérida
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MERIDA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Extremadura" tvg-name="SER Norte de Extremadura" radio="true" ,SER Norte de Extremadura
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_NORTE_EXTREMADURA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Extremadura" tvg-name="SER Vegas Altas" radio="true" ,SER Vegas Altas
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VEGAS_ALTAS.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Extremadura" tvg-name="SER Zafra-Río Bodión" radio="true" ,SER Zafra-Río Bodión
+http://83.56.8.228:8000/zafra.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Extremadura" tvg-name="SER - Radio Extremadura" radio="true" ,SER - Radio Extremadura
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_EXTREMADURA.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Extremadura" tvg-name="COPE Badajoz" radio="true" ,COPE Badajoz
 https://wecast-b01-03.flumotion.com/copesedes/badajoz.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Extremadura" tvg-name="COPE Cáceres" radio="true" ,COPE Cáceres
 https://wecast-b01-03.flumotion.com/copesedes/caceres.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Extremadura" tvg-name="COPE Mérida" radio="true" ,COPE Mérida
 https://wecast-b01-03.flumotion.com/copesedes/merida.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Extremadura" tvg-name="SER - Radio Extremadura" radio="true" ,SER - Radio Extremadura
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_EXTREMADURA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Extremadura" tvg-name="SER Cáceres" radio="true" ,SER Cáceres
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CACERES.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Extremadura" tvg-name="SER Coria" radio="true" ,SER Coria
-http://emisoras.cadenaser.com:8085/plasencia
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Extremadura" tvg-name="SER Norte de Extremadura" radio="true" ,SER Norte de Extremadura
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_NORTE_EXTREMADURA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Extremadura" tvg-name="SER Mérida" radio="true" ,SER Mérida
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MERIDA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Extremadura" tvg-name="SER Vegas Altas" radio="true" ,SER Vegas Altas
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VEGAS_ALTAS.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Extremadura" tvg-name="SER Zafra-Río Bodión" radio="true" ,SER Zafra-Río Bodión
-http://83.56.8.228:8000/zafra.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Extremadura" tvg-name="Onda Cero Badajoz" radio="true" ,Onda Cero Badajoz
+http://icecast-streaming.nice264.com/badajoz
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Extremadura" tvg-name="Onda Cero Cáceres" radio="true" ,Onda Cero Cáceres
+http://icecast-streaming.nice264.com/caceres
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Extremadura" tvg-name="Onda Cero Mérida" radio="true" ,Onda Cero Mérida
+http://icecast-streaming.nice264.com/merida
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/489965251169138/picture?width=320&height=320" group-title="R-Radio_Extremadura" tvg-name="Radio Miajadas" radio="true" ,Radio Miajadas
 http://srv0410.lcinternet.com:8013/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/aradiogalega/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="Radio Galega" radio="true" ,Radio Galega
@@ -1795,36 +1907,36 @@ http://ondemand-crtvg-origin.flumotion.com/videos/rg_infantil/flumotion/amodino.
 https://rnegal.rtveradio.cires21.com/rnegal.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png" group-title="R-Radio_Galicia" tvg-name="Radio 5 Galicia" radio="true" ,Radio 5 Galicia
 https://radio5gal.rtveradio.cires21.com/radio5gal.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="SER - Radio Arosa" radio="true" ,SER - Radio Arosa
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_AROSA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="SER - Radio Pontevedra" radio="true" ,SER - Radio Pontevedra
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PONTEVEDRA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="Radio Marca Vigo" radio="true" ,Radio Marca Vigo
+https://streaming.enacast.com/radiomarcavigoHD.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="Radio Marca Coruña" radio="true" ,Radio Marca Coruña
+https://relay.stream.enacast-cloud.com:40221/radiomarcacoruna.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="SER Baixo Miño" radio="true" ,SER Baixo Miño
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_BAIXOMINO.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="SER - Radio Ourense" radio="true" ,SER - Radio Ourense
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_OURENSE.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="SER - Radio Vigo" radio="true" ,SER - Radio Vigo
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_VIGO.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="SER - Radio Coruña" radio="true" ,SER - Radio Coruña
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CORUNA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="SER - Radio Arosa" radio="true" ,SER - Radio Arosa
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_AROSA.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="SER - Radio Baixo Miño" radio="true" ,SER - Radio Baixo Miño
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BAIXOMINO.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="SER - Radio Coruña" radio="true" ,SER - Radio Coruña
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CORUNA.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="SER - Radio Ferrol" radio="true" ,SER - Radio Ferrol
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_FERROL.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="SER - Radio Galicia" radio="true" ,SER - Radio Galicia
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_GALICIA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="SER - Radio Nordés" radio="true" ,SER - Radio Nordés
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CEE.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="SER - Radio Principal Monforte" radio="true" ,SER - Radio Principal Monforte
-http://srv0510.lcinternet.com:8007/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="SER - Radio Lugo" radio="true" ,SER - Radio Lugo
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LUGO.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="SER - Radio Nordés" radio="true" ,SER - Radio Nordés
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CEE.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="SER - Radio Ourense" radio="true" ,SER - Radio Ourense
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_OURENSE.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="SER - Radio Pontevedra" radio="true" ,SER - Radio Pontevedra
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PONTEVEDRA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="SER - Radio Principal Monforte" radio="true" ,SER - Radio Principal Monforte
+http://srv0510.lcinternet.com:8007/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="SER - Radio Principal Vilalba" radio="true" ,SER - Radio Principal Vilalba
 http://srv0510.lcinternet.com:8006/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="Radio Marca Vigo" radio="true" ,Radio Marca Vigo
-https://streaming.enacast.com/radiomarcavigoHD.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="Radio Marca - Coruña" radio="true" ,Radio Marca - Coruña
-https://relay.stream.enacast-cloud.com:40221/radiomarcacoruna.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="SER - Radio Vigo" radio="true" ,SER - Radio Vigo
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_VIGO.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="COPE A Coruña" radio="true" ,COPE A Coruña
 https://wecast-b01-03.flumotion.com/copesedes/lacoruna.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="COPE Lugo" radio="true" ,COPE Lugo
@@ -1843,6 +1955,20 @@ https://wecast-b01-03.flumotion.com/copesedes/ribadeo.mp3
 https://wecast-b01-03.flumotion.com/copesedes/santiago.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="COPE Vigo" radio="true" ,COPE Vigo
 https://wecast-b01-03.flumotion.com/copesedes/vigo.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="Onda Cero A Coruña" radio="true" ,Onda Cero A Coruña
+http://icecast-streaming.nice264.com/acoruna
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="Onda Cero Lugo" radio="true" ,Onda Cero Lugo
+http://icecast-streaming.nice264.com/lugo
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="Onda Cero Monforte de Lemos" radio="true" ,Onda Cero Monforte de Lemos
+http://icecast-streaming.nice264.com/monforte
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="Onda Cero Ourense" radio="true" ,Onda Cero Ourense
+http://icecast-streaming.nice264.com/ourense
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="Onda Cero Pontevedra" radio="true" ,Onda Cero Pontevedra
+http://icecast-streaming.nice264.com/pontevedra
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="Onda Cero Santiago" radio="true" ,Onda Cero Santiago
+http://icecast-streaming.nice264.com/santiago
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="Onda Cero Vigo" radio="true" ,Onda Cero Vigo
+http://icecast-streaming.nice264.com/vigo
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cuacfm/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="Cuac FM" radio="true" ,Cuac FM
 https://streaming.cuacfm.org/cuacfm.ogg
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMunicipaldeTui/picture?width=320&height=320" group-title="R-Radio_Galicia" tvg-name="Radio Municipal de Tui" radio="true" ,Radio Municipal de Tui
@@ -1863,16 +1989,22 @@ https://rnebal.rtveradio.cires21.com/rnebal.mp3
 https://radio5bal.rtveradio.cires21.com/radio5bal.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/GrupoFibwi/picture?width=320&height=320" group-title="R-Radio_Illes Balears" tvg-name="Fibwi Radio" radio="true" ,Fibwi Radio
 http://stream.fibwi.com:9000/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Illes Balears" tvg-name="COPE Mallorca" radio="true" ,COPE Mallorca
-https://wecast-b01-03.flumotion.com/copesedes/mallorca.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Illes Balears" tvg-name="COPE Menorca" radio="true" ,COPE Menorca
-https://wecast-b01-03.flumotion.com/copesedes/menorca.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Illes Balears" tvg-name="SER - Radio Ibiza" radio="true" ,SER - Radio Ibiza
 http://cadenaserebre.streaming-pro.com:6021/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Illes Balears" tvg-name="SER - Radio Mallorca" radio="true" ,SER - Radio Mallorca
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALLORCA.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Illes Balears" tvg-name="SER - Radio Menorca" radio="true" ,SER - Radio Menorca
 http://server10.emitironline.com:8040/;
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Illes Balears" tvg-name="COPE Mallorca" radio="true" ,COPE Mallorca
+https://wecast-b01-03.flumotion.com/copesedes/mallorca.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_Illes Balears" tvg-name="COPE Menorca" radio="true" ,COPE Menorca
+https://wecast-b01-03.flumotion.com/copesedes/menorca.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Illes Balears" tvg-name="Onda Cero Ibiza" radio="true" ,Onda Cero Ibiza
+http://icecast-streaming.nice264.com/ibiza
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Illes Balears" tvg-name="Onda Cero Mallorca" radio="true" ,Onda Cero Mallorca
+http://icecast-streaming.nice264.com/mallorca
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Illes Balears" tvg-name="Onda Cero Menorca" radio="true" ,Onda Cero Menorca
+http://icecast-streaming.nice264.com/menorca
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rbalear.interbaleares/picture?width=320&height=320" group-title="R-Radio_Illes Balears" tvg-name="Radio Balear" radio="true" ,Radio Balear
 http://server6.20comunicacion.com:8076/;
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/UltimaHora.Mallorca/picture?width=320&height=320" group-title="R-Radio_Illes Balears" tvg-name="Última Hora Radio" radio="true" ,Última Hora Radio
@@ -1891,8 +2023,6 @@ https://stream.inselradio.com/high.inselradio.opus
 https://stream.inselradio.com/high.sunshine.opus
 #EXTINF:-1 radio="true" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2013/09/Russkoe-Radio-Mallorca.jpg" group-title="R-Radio_Illes Balears" tvg-name="Russkoe Radio Mallorca" radio="true" ,Russkoe Radio Mallorca
 http://icecast.russkoeradio.cdnvideo.ru:8000/rr_m.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/GrupoFibwi/picture?width=320&height=320" group-title="R-Radio_Illes Balears" tvg-name="Fibwi Radio" radio="true" ,Fibwi Radio
-http://stream.fibwi.com:9000/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioOneMallorca/picture?width=320&height=320" group-title="R-Radio_Illes Balears" tvg-name="Radio One Mallorca" radio="true" ,Radio One Mallorca
 http://80.32.132.126:8000/;
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/06AmIbizaUndergroundRadio/picture?width=320&height=320" group-title="R-Radio_Illes Balears" tvg-name="06AM Ibiza Underground Radio" radio="true" ,06AM Ibiza Underground Radio
@@ -1901,14 +2031,16 @@ https://streams.radio.co/sd1bcd1376/listen
 https://rnerio.rtveradio.cires21.com/rnerio.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png" group-title="R-Radio_La Rioja" tvg-name="Radio 5 La Rioja" radio="true" ,Radio 5 La Rioja
 https://radio5rio.rtveradio.cires21.com/radio5rio.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_La Rioja" tvg-name="COPE Logroño" radio="true" ,COPE Logroño
-https://wecast-b01-03.flumotion.com/copesedes/logrono.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_La Rioja" tvg-name="SER - Radio Arnedo" radio="true" ,SER - Radio Arnedo
 http://streaming2.formulaclick.com:8094/radioarnedo.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_La Rioja" tvg-name="SER - Radio Rioja" radio="true" ,SER - Radio Rioja
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_RIOJA.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_La Rioja" tvg-name="COPE Logroño" radio="true" ,COPE Logroño
+https://wecast-b01-03.flumotion.com/copesedes/logrono.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_La Rioja" tvg-name="COPE Rioja" radio="true" ,COPE Rioja
 https://wecast-b01-01.flumotion.com/copesedes/logrono.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_La Rioja" tvg-name="Onda Cero Logroño" radio="true" ,Onda Cero Logroño
+http://icecast-streaming.nice264.com/logrono
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/canalebro/picture?width=320&height=320" group-title="R-Radio_La Rioja" tvg-name="Canal Ebro" radio="true" ,Canal Ebro
 http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=320&height=320" group-title="R-Radio_Melilla" tvg-name="Radio Nacional Melilla" radio="true" ,Radio Nacional Melilla
@@ -1931,12 +2063,12 @@ https://etbavitorianogeo-lh.akamaihd.net/i/RVITORIA_1@594819/index_128_a-b.m3u8
 https://rneeus.rtveradio.cires21.com/rneeus.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png" group-title="R-Radio_País Vasco" tvg-name="Radio 5 País Vasco" radio="true" ,Radio 5 País Vasco
 https://radio5eus.rtveradio.cires21.com/radio5eus.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="COPE San Sebastián" radio="true" ,COPE San Sebastián
-https://wecast-b01-03.flumotion.com/copesedes/ssebastian.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="COPE Vitoria" radio="true" ,COPE Vitoria
-https://wecast-b01-03.flumotion.com/copesedes/vitoria.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="COPE Bilbao" radio="true" ,COPE Bilbao
-https://wecast-b01-03.flumotion.com/copesedes/bilbao.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="Radio Marca Bilbao" radio="true" ,Radio Marca Bilbao
+https://cp12.shoutcheap.com:18030/stream
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="Radio Marca Donostia" radio="true" ,Radio Marca Donostia
+https://marca-sansebastian.streaming-pro.com:6101/live
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="SER Vitoria" radio="true" ,SER Vitoria
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VITORIA.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="SER - Radio Bilbao" radio="true" ,SER - Radio Bilbao
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_BILBAO.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="SER - Radio Eibar" radio="true" ,SER - Radio Eibar
@@ -1945,12 +2077,18 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/SER_EIBAR.mp3
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_IRUN.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="SER - Radio San Sebastián" radio="true" ,SER - Radio San Sebastián
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_SAN_SEBASTIAN.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="SER Vitoria" radio="true" ,SER Vitoria
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_VITORIA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="Radio Marca Bilbao" radio="true" ,Radio Marca Bilbao
-https://cp12.shoutcheap.com:18030/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="Radio Marca Donostia" radio="true" ,Radio Marca Donostia
-https://marca-sansebastian.streaming-pro.com:6101/live
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="COPE Bilbao" radio="true" ,COPE Bilbao
+https://wecast-b01-03.flumotion.com/copesedes/bilbao.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="COPE San Sebastián" radio="true" ,COPE San Sebastián
+https://wecast-b01-03.flumotion.com/copesedes/ssebastian.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="COPE Vitoria" radio="true" ,COPE Vitoria
+https://wecast-b01-03.flumotion.com/copesedes/vitoria.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="Onda Cero Bilbao" radio="true" ,Onda Cero Bilbao
+http://icecast-streaming.nice264.com/bilbao
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="Onda Cero San Sebastián" radio="true" ,Onda Cero San Sebastián
+http://icecast-streaming.nice264.com/sansebastian
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="Onda Cero Vitoria" radio="true" ,Onda Cero Vitoria
+http://icecast-streaming.nice264.com/vitoria
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/herriirratia/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="Radio Popular - Herri Irratia" radio="true" ,Radio Popular - Herri Irratia
 http://79.137.33.224:8000/radiopopular1
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioNervion/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="Radio Nervión" radio="true" ,Radio Nervión
@@ -1967,26 +2105,34 @@ https://cdnlive.shooowit.net/rtpalive/smil:radio.smil/master.m3u8
 https://rneast.rtveradio.cires21.com/rneast.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png" group-title="R-Radio_P. de Asturias" tvg-name="Radio 5 Asturias" radio="true" ,Radio 5 Asturias
 https://radio5ast.rtveradio.cires21.com/radio5ast.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RTPAoficial/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="RPA" radio="true" ,RPA
-https://cdnlive.shooowit.net/rtpalive/smil:radio.smil/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="Radio Marca Asturias" radio="true" ,Radio Marca Asturias
+https://streaming.enacast.com/radiomarcaasturiasHD.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="SER Avilés" radio="true" ,SER Avilés
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_AVILES.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="SER Gijón" radio="true" ,SER Gijón
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_GIJON.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="SER Occidente" radio="true" ,SER Occidente
+http://occidente.ddns.net:8000/;
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="SER Oriente" radio="true" ,SER Oriente
+http://seroriente.com:8000/seroriente.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="SER - Radio Asturias" radio="true" ,SER - Radio Asturias
+https://19373.live.streamtheworld.com/SER_ASO_ASTURIAS.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="COPE Asturias" radio="true" ,COPE Asturias
 https://wecast-b01-03.flumotion.com/copesedes/asturias.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="COPE Gijón" radio="true" ,COPE Gijón
 https://wecast-b01-03.flumotion.com/copesedes/gijon.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="COPE Oviedo" radio="true" ,COPE Oviedo
 https://wecast-b01-03.flumotion.com/copesedes/asturias.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="SER - Radio Asturias" radio="true" ,SER - Radio Asturias
-https://19373.live.streamtheworld.com/SER_ASO_ASTURIAS.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="SER Gijon" radio="true" ,SER Gijon
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_GIJON.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="SER Oriente" radio="true" ,SER Oriente
-http://seroriente.com:8000/seroriente.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="SER Avilés" radio="true" ,SER Avilés
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_AVILES.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="SER Occidente" radio="true" ,SER Occidente
-http://occidente.ddns.net:8000/;
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="Radio Marca Asturias" radio="true" ,Radio Marca Asturias
-https://streaming.enacast.com/radiomarcaasturiasHD.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="Onda Cero Cangas del Narcea" radio="true" ,Onda Cero Cangas del Narcea
+http://icecast-streaming.nice264.com/cangasdenarcea
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="Onda Cero Gijón" radio="true" ,Onda Cero Gijón
+http://icecast-streaming.nice264.com/gijon
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="Onda Cero Infiesto" radio="true" ,Onda Cero Infiesto
+http://icecast-streaming.nice264.com/infiesto
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="Onda Cero Luarca" radio="true" ,Onda Cero Luarca
+http://icecast-streaming.nice264.com/luarca
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="Onda Cero Oviedo" radio="true" ,Onda Cero Oviedo
+http://icecast-streaming.nice264.com/oviedo
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/467719623356931/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="Carrussel FM" radio="true" ,Carrussel FM
 http://server10.emitironline.com:8921/radio?1584744975456.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioteletaxi/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="cSTRadio" radio="true" ,cSTRadio
@@ -2009,28 +2155,32 @@ http://37.59.121.120:10025/stream
 https://rnemur.rtveradio.cires21.com/rnemur.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png" group-title="R-Radio_R. de Murcia" tvg-name="Radio 5 Murcia" radio="true" ,Radio 5 Murcia
 https://radio5mur.rtveradio.cires21.com/radio5mur.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_R. de Murcia" tvg-name="SER Arco Norte" radio="true" ,SER Arco Norte
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ARCO_NORTE.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_R. de Murcia" tvg-name="SER - Radio Cartagena" radio="true" ,SER - Radio Cartagena
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CARTAGENA.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_R. de Murcia" tvg-name="SER - Radio Lorca" radio="true" ,SER - Radio Lorca
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_LORCA.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_R. de Murcia" tvg-name="SER - Radio Murcia" radio="true" ,SER - Radio Murcia
 http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MURCIA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_R. de Murcia" tvg-name="SER Arco Norte" radio="true" ,SER Arco Norte
-http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ARCO_NORTE.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_R. de Murcia" tvg-name="Onda Cero Murcia" radio="true" ,Onda Cero Murcia
-https://livefastly-webs.ondacero.es/ondacero/audio/chunklist.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_R. de Murcia" tvg-name="Onda Cero Noroeste" radio="true" ,Onda Cero Noroeste
-http://stream.ondaceronoroeste.es/ondacero-64.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/OndaRegional/picture?width=320&height=320" group-title="R-Radio_R. de Murcia" tvg-name="Onda Regional de Murcia" radio="true" ,Onda Regional de Murcia
-https://live.redctnet.es/live/orm/orm/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/OndaRegional/picture?width=320&height=320" group-title="R-Radio_R. de Murcia" tvg-name="Onda Regional Música" radio="true" ,Onda Regional Música
-https://live.redctnet.es/live/ormmusical/ormmusical/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_R. de Murcia" tvg-name="COPE Cartagena" radio="true" ,COPE Cartagena
 https://wecast-b01-03.flumotion.com/copesedes/cartagena.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_R. de Murcia" tvg-name="COPE Lorca" radio="true" ,COPE Lorca
 https://wecast-b01-03.flumotion.com/copesedes/lorca.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=320&height=320" group-title="R-Radio_R. de Murcia" tvg-name="COPE Murcia" radio="true" ,COPE Murcia
 https://wecast-b01-03.flumotion.com/copesedes/murcia.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_R. de Murcia" tvg-name="Onda Cero Cartagena" radio="true" ,Onda Cero Cartagena
+http://icecast-streaming.nice264.com/cartagena
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_R. de Murcia" tvg-name="Onda Cero Murcia" radio="true" ,Onda Cero Murcia
+http://icecast-streaming.nice264.com/murcia
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_R. de Murcia" tvg-name="Onda Cero Yecla" radio="true" ,Onda Cero Yecla
+http://icecast-streaming.nice264.com/yecla
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_R. de Murcia" tvg-name="Onda Cero Noroeste" radio="true" ,Onda Cero Noroeste
+http://stream.ondaceronoroeste.es/ondacero-64.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/OndaRegional/picture?width=320&height=320" group-title="R-Radio_R. de Murcia" tvg-name="Onda Regional de Murcia" radio="true" ,Onda Regional de Murcia
+https://live.redctnet.es/live/orm/orm/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/OndaRegional/picture?width=320&height=320" group-title="R-Radio_R. de Murcia" tvg-name="Onda Regional Música" radio="true" ,Onda Regional Música
+https://live.redctnet.es/live/ormmusical/ormmusical/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/349014238632372/picture?width=320&height=320" group-title="R-Radio_R. de Murcia" tvg-name="Radio Calasparra" radio="true" ,Radio Calasparra
 http://213.96.195.21:8000/;
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioExterior/picture?width=320&height=320" group-title="R-Radio_Internacional" tvg-name="Radio Exterior" radio="true" ,Radio Exterior
