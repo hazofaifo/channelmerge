@@ -1610,7 +1610,7 @@ http://liveingesta118.cdnmedia.tv//onalatorrelive/smil:live.smil/media-ujhwa1bm9
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ona.latorre/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Ona La Torre" radio="true" ,Ona La Torre
 http://liveingesta118.cdnmedia.tv//onalatorrelive/smil:live.smil/master.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ConstantiRadio/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Constantí Ràdio" radio="true" ,Constantí Ràdio
-http://live10.cdnmedia.tv/ocasionalradio2live/smil:live.smil/media-ukyzbijv3_b100000_52363.aac
+http://streaming.enantena.com:8000/radioconstantiSD.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ConstantiRadio/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Constantí Ràdio" radio="true" ,Constantí Ràdio
 http://live10.cdnmedia.tv/ocasionalradio2live/smil:live.smil/master.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/Radio101.0/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Ràdio Sant Pere i Sant Pau" radio="true" ,Ràdio Sant Pere i Sant Pau
@@ -2108,7 +2108,7 @@ https://www.ondavasca.com:8001/bizkaia
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondavasca/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="Onda Vasca Gipuzcoa" radio="true" ,Onda Vasca Gipuzcoa
 https://www.ondavasca.com:8001/gipuzkoa
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/Tele7Radio7/picture?width=320&height=320" group-title="R-Radio_País Vasco" tvg-name="Radio 7" radio="true" ,Radio 7
-http://radio7.streaming-pro.com:7501/;stream.mp3
+https://radio7.streaming-pro.com:6146/radio7.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RTPAoficial/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="RPA" radio="true" ,RPA
 https://cdnlive.shooowit.net/rtpalive/smil:radio.smil/master.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=320&height=320" group-title="R-Radio_P. de Asturias" tvg-name="Radio Nacional Asturias" radio="true" ,Radio Nacional Asturias
