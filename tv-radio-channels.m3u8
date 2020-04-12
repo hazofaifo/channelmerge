@@ -1,11 +1,7 @@
 #EXTM3U @LaQuay https://github.com/LaQuay/TDTChannels
 #EXTM3U url-tvg="http://www.tdtchannels.com/epg/TV.xml"
-#EXTINF:-1 tvg-id="La1.TDTChannelsEPG" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="Generalistas" tvg-name="La 1",La 1 GEO
-https://rtvelivestream.akamaized.net/la1_ak_dvr.m3u8
 #EXTINF:-1 tvg-id="La1.TDTChannelsEPG" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="Generalistas" tvg-name="La 1",La 1
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
-#EXTINF:-1 tvg-id="La2.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="Generalistas" tvg-name="La 2",La 2 GEO
-https://rtvelivestream.akamaized.net/la2_ak_dvr.m3u8
 #EXTINF:-1 tvg-id="La2.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="Generalistas" tvg-name="La 2",La 2
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 #EXTINF:-1 tvg-id="Antena3.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/antena3/picture?width=320&height=320" group-title="Generalistas" tvg-name="Antena 3",Antena 3 GEO
@@ -877,11 +873,11 @@ http://icecast-streaming.nice264.com/ondacero
 http://icecast-streaming.nice264.com/eventos
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=320&height=320" group-title="R-Radio_Generalistas" tvg-name="Cadena Dial" radio="true" ,Cadena Dial
 http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=320&height=320" group-title="R-Radio_Generalistas" tvg-name="Dial Esencial" radio="true" ,Dial Esencial
+#EXTINF:-1 radio="true" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743852.jpg" group-title="R-Radio_Generalistas" tvg-name="Dial Esencial" radio="true" ,Dial Esencial
 http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_01.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=320&height=320" group-title="R-Radio_Generalistas" tvg-name="Dial Latino" radio="true" ,Dial Latino
+#EXTINF:-1 radio="true" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg" group-title="R-Radio_Generalistas" tvg-name="Dial Latino" radio="true" ,Dial Latino
 http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=320&height=320" group-title="R-Radio_Generalistas" tvg-name="Dial Baladas" radio="true" ,Dial Baladas
+#EXTINF:-1 radio="true" tvg-logo="https://recursosweb.prisaradio.com/fotos/dest/010002743853.jpg" group-title="R-Radio_Generalistas" tvg-name="Dial Baladas" radio="true" ,Dial Baladas
 http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=320&height=320" group-title="R-Radio_Generalistas" tvg-name="Dial Babyradio" radio="true" ,Dial Babyradio
 http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_04.mp3
@@ -1505,7 +1501,7 @@ https://flaixbac.streaming-pro.com:8007/flaixbac.mp3
 http://s1streamingradio.desafiohosting.com:8130/listen.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/betevecat/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="betevé ràdio" radio="true" ,betevé ràdio
 https://beteve.cat/en-directe/radio/
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Ràdio Marca Barcelona" radio="true" ,Ràdio Marca Barcelona
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Radio Marca Barcelona" radio="true" ,Radio Marca Barcelona
 https://radiomarcabcnmedia.dns-lcinternet.com:9000/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="SER Ebre" radio="true" ,SER Ebre
 http://cadenaserebre.streaming-pro.com:6021/stream
