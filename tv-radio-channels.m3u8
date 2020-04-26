@@ -691,11 +691,11 @@ https://rt-news-gd.secure2.footprint.net/1103.m3u8
 https://rt-uk-gd.secure2.footprint.net/1106.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RTnews/picture?width=320&height=320" group-title="Internacional" tvg-name="RT News",RT News EN
 https://rt-usa-gd.secure2.footprint.net/1105.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTnews/picture?width=320&height=320" group-title="Internacional" tvg-name="RT Documentary Channel",RT Documentary Channel EN
+#EXTINF:-1 tvg-id="RTESP.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/RTnews/picture?width=320&height=320" group-title="Internacional" tvg-name="RT Documentary Channel",RT Documentary Channel EN
 https://rt-doc-gd.secure2.footprint.net/1101.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=320&height=320" group-title="Internacional" tvg-name="CGTN",CGTN
+#EXTINF:-1 tvg-id="CGTN.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=320&height=320" group-title="Internacional" tvg-name="CGTN",CGTN
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=320&height=320" group-title="Internacional" tvg-name="CGTN",CGTN
+#EXTINF:-1 tvg-id="CGTN.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=320&height=320" group-title="Internacional" tvg-name="CGTN",CGTN
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=320&height=320" group-title="Internacional" tvg-name="CGTN News",CGTN News EN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
@@ -725,7 +725,7 @@ https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
 http://cdnh15.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/VTVtuCanal/picture?width=320&height=320" group-title="Internacional" tvg-name="Venezolana de Televisión",Venezolana de Televisión
 https://593fa17dec176.streamlock.net:455/vtvweb4/vtvweb4/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teleSUR/picture?width=320&height=320" group-title="Internacional" tvg-name="TeleSUR Venezuela",TeleSUR Venezuela
+#EXTINF:-1 tvg-id="TeleSUR.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=320&height=320" group-title="Internacional" tvg-name="TeleSUR Venezuela",TeleSUR Venezuela
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/unitednations/picture?width=320&height=320" group-title="Internacional" tvg-name="United Nations TV",United Nations TV EN
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
@@ -1409,6 +1409,10 @@ http://topcantabriafm.myddns.me:8080/live
 http://ns100.emisionlocal.com:8050/;stream.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondaoccidental/picture?width=320&height=320" group-title="R-Radio_Cantabria" tvg-name="Onda Occidental" radio="true" ,Onda Occidental
 http://server9.emitironline.com:10944/
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/asonfm/picture?width=320&height=320" group-title="R-Radio_Cantabria" tvg-name="Ason FM" radio="true" ,Ason FM
+https://ns100.emisionlocal.com:8064/live
+#EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1136961096512868353/lvg-6Qd6_400x400.png" group-title="R-Radio_Cantabria" tvg-name="Radio MixFm" radio="true" ,Radio MixFm
+http://ns5.emisionlocal.com/radiomixnew/
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="CMM Radio" radio="true" ,CMM Radio
 https://cdnsecakmi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_qilzwlkz/protocol/https/format/applehttp/flavorIds/1_nob8gh2g,1_h2yimjdz,1_1egotcvd/a.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="Radio Nacional Castilla-La Mancha" radio="true" ,Radio Nacional Castilla-La Mancha
@@ -1465,6 +1469,14 @@ https://livefastly-webs.ondacero.es/talavera-pull/audio/master.m3u8
 https://livefastly-webs.ondacero.es/toledo-pull/audio/master.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="Onda Cero Valdepeñas" radio="true" ,Onda Cero Valdepeñas
 https://livefastly-webs.ondacero.es/valdepenas-pull/audio/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/880321707642425344/lNoobTG1_400x400.jpg" group-title="R-Radio_Castilla-La Mancha" tvg-name="Surco Tomelloso" radio="true" ,Surco Tomelloso
+http://emisorasmusicales.es:8005/rsurco.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/880321707642425344/lNoobTG1_400x400.jpg" group-title="R-Radio_Castilla-La Mancha" tvg-name="Surco Manzanares" radio="true" ,Surco Manzanares
+http://emisorasmusicales.es:8006/manzanares.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ab95fm/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="AB95 FM" radio="true" ,AB95 FM
+http://emisorasmusicales.es:8005/ab95fm.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ab95fm/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="POP10 FM" radio="true" ,POP10 FM
+http://emisorasmusicales.es:8006/pop10fmalcazar.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioarrebato107.4/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="Radio Arrebato" radio="true" ,Radio Arrebato
 http://srv0510.emisorasonline.com:8025/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioChinchilla/picture?width=320&height=320" group-title="R-Radio_Castilla-La Mancha" tvg-name="Radio Chinchilla" radio="true" ,Radio Chinchilla
@@ -1625,7 +1637,7 @@ http://streaming.enantena.com:8000/radiograciaHD.mp3
 https://enacast.com/radiogracia/streams/HD
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radio.vilamajor/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Ràdio Vilamajor" radio="true" ,Ràdio Vilamajor
 http://80.37.181.205:8000/;audio.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/coolturafm/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Radio Cooltura" radio="true" ,Radio Cooltura
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/coolturafm/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Cooltura FM" radio="true" ,Cooltura FM
 http://streamserver1.somosdigital.net:8415/;stream.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RADIOENBASONLINE2/picture?width=320&height=320" group-title="R-Radio_Cataluña" tvg-name="Bas Ràdio" radio="true" ,Bas Ràdio
 http://s1streamingradio.desafiohosting.com:8130/listen.mp3
@@ -1834,7 +1846,7 @@ http://s37.myradiostream.com/8638/listen.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/trakfmpamplona/picture?width=320&height=320" group-title="R-Radio_C. Foral de Navarra" tvg-name="Trak FM Pamplona" radio="true" ,Trak FM Pamplona
 http://91.121.77.67:8070/;stream.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="À Punt FM" radio="true" ,À Punt FM
-https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/c3NG45ZjE6mgkM4CVO9xBB9NjSSe-_Lr/cs/9dcea2f8edf84bb4ba446f5e25615b51_1.m3u8
+https://bcovlive-a.akamaihd.net/13b49103a31b48dfa5edf508440cb6f9/eu-central-1/6057955885001/playlist-audio_dvr.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=320&height=320" group-title="R-Radio_C. Valenciana" tvg-name="Radio Nacional Comunidad Valenciana" radio="true" ,Radio Nacional Comunidad Valenciana
 https://rneval.rtveradio.cires21.com/rneval.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_400x400.png" group-title="R-Radio_C. Valenciana" tvg-name="Radio 5 Comunidad Valenciana" radio="true" ,Radio 5 Comunidad Valenciana
