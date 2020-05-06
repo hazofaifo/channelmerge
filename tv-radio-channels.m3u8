@@ -191,29 +191,33 @@ https://5b38ce71f1f00.streamlock.net/8122/8122/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/OndaMezquitaTV/picture?width=320&height=320" group-title="Andalucía" tvg-name="OndaMezquita TV",OndaMezquita TV
 https://593fa17dec176.streamlock.net/mezquita/mezquita/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/donanacomunica/picture?width=320&height=320" group-title="Andalucía" tvg-name="Canal Doñana",Canal Doñana
-https://secure.todostreaming.es/live/disvision-alm.m3u8
+https://secure5.todostreaming.es/live/division-alm.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mastvhuelva/picture?width=320&height=320" group-title="Andalucía" tvg-name="Más TV Huelva",Más TV Huelva
 http://5.189.181.203:1935/gcm8/gcm8/master.m3u8
-#EXTINF:-1 tvg-id="RTVMarbella.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/RTVMarbella/picture?width=320&height=320" group-title="Andalucía" tvg-name="Marbella TV",Marbella TV
-https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/torremolinostv/picture?width=320&height=320" group-title="Andalucía" tvg-name="Torrevisión",Torrevisión
+https://api.new.livestream.com/accounts/2614936/events/1848989/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/dieztv/picture?width=320&height=320" group-title="Andalucía" tvg-name="Diez TV",Diez TV
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
+#EXTINF:-1 tvg-id="RTVMarbella.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/RTVMarbella/picture?width=320&height=320" group-title="Andalucía" tvg-name="Marbella TV",Marbella TV
+https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=320&height=320" group-title="Andalucía" tvg-name="Cadena Elite Granada",Cadena Elite Granada
 https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/MontillaTV/picture?width=320&height=320" group-title="Andalucía" tvg-name="Montilla Televisión",Montilla Televisión
 https://stream.intnova.com/SVorigin/smil:119575.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/9laloma/picture?width=320&height=320" group-title="Andalucía" tvg-name="9 la Loma TV",9 la Loma TV
+http://directo.9laloma.es/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/costadelsoltv/picture?width=320&height=320" group-title="Andalucía" tvg-name="CostadelSol TV",CostadelSol TV
 https://secure.todostreaming.es/live/benalmadena-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/PTVCord/picture?width=320&height=320" group-title="Andalucía" tvg-name="PTV Córdoba",PTV Córdoba
 http://149.91.98.146:1935/cordoba/stream/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/9laloma/picture?width=320&height=320" group-title="Andalucía" tvg-name="9 la Loma TV",9 la Loma TV
-http://directo.9laloma.es/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/saltv.es/picture?width=320&height=320" group-title="Andalucía" tvg-name="SalTV",SalTV
 http://live.controlstreams.com:1935/saltv/saltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=320&height=320" group-title="Andalucía" tvg-name="Canal Málaga",Canal Málaga
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="FuengirolaTV.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/fuengirolatvoficial/picture?width=320&height=320" group-title="Andalucía" tvg-name="Fuengirola TV",Fuengirola TV
 https://secure.todostreaming.es/live/nerja-livestream.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/812891658754713/picture?width=320&height=320" group-title="Andalucía" tvg-name="TeleAntequera",TeleAntequera
+http://37.187.7.106/las4esquinastv/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TVM.Cordoba/picture?width=320&height=320" group-title="Andalucía" tvg-name="TVM Córdoba",TVM Córdoba
 http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cancionero.es/portal/images/imagesweb/LogoTV_Trans.png" group-title="Andalucía" tvg-name="Cancionero TV",Cancionero TV
@@ -252,6 +256,8 @@ https://streaming-fr02.enetres.net/0537FCE9817D4E9E930B6ED4D9C7BD5C021/smil:live
 https://5b38ce71f1f00.streamlock.net/8046/8046/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/aljoamyvisual/picture?width=320&height=320" group-title="Canarias" tvg-name="NORTEvisión",NORTEvisión
 http://amaru.dyndns.org:8835/0.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/estecanaltv/picture?width=320&height=320" group-title="Canarias" tvg-name="Este Canal TV",Este Canal TV
+https://player-api.new.livestream.com/accounts/8817409/events/7051352/broadcasts/205645461.secure.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radiotelevisionmogan/picture?width=320&height=320" group-title="Canarias" tvg-name="RTV Mogán",RTV Mogán
 https://5b38ce71f1f00.streamlock.net/8162/8162/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Canal10Television/picture?width=320&height=320" group-title="Canarias" tvg-name="Canal 10 TV",Canal 10 TV
@@ -535,14 +541,16 @@ https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/alacantitv/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="Alicantí TV",Alicantí TV
 http://5.39.65.105/hls/alacantixa.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvArtequatre/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="tvA",tvA
-https://ns3063900.ip-5-39-65.eu/hls/tvaxa.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/levantetv/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="Levante TV",Levante TV
 https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvArtequatre/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="tvA",tvA
+https://ns3063900.ip-5-39-65.eu/hls/tvaxa.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ribarroja.es/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="Riba-roja TV",Riba-roja TV
 https://cdn01.yowi.tv/MHU18E7A9D/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TV4LaVall/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="TV 4 Vall Uxó",TV 4 Vall Uxó
 https://common01.todostreaming.es/live/tarson-livestream.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/103588046375790/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="Información TV",Información TV
+http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Tele7Safor/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="telesafor",telesafor
 http://video.telesafor.com/hls/video.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TVVegaBaja/picture?width=320&height=320" group-title="C. Valenciana" tvg-name="TV Vega Baja",TV Vega Baja
