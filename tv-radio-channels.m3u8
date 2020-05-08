@@ -32,10 +32,6 @@ https://livestartover-i.akamaized.net/nova/master.m3u8
 https://livestartover-i.akamaized.net/geomega/master.m3u8
 #EXTINF:-1 tvg-id="Mega.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=320&height=320" group-title="Generalistas" tvg-name="Mega",Mega
 https://livestartover-i.akamaized.net/mega/master.m3u8
-#EXTINF:-1 tvg-id="Atreseries.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/atreseries/picture?width=320&height=320" group-title="Generalistas" tvg-name="Atreseries",Atreseries GEO
-https://livestartover-i.akamaized.net/geoa3series/master.m3u8
-#EXTINF:-1 tvg-id="Atreseries.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/atreseries/picture?width=320&height=320" group-title="Generalistas" tvg-name="Atreseries",Atreseries
-https://livestartover-i.akamaized.net/a3series/master.m3u8
 #EXTINF:-1 tvg-id="FDF.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="Generalistas" tvg-name="FDF",FDF HD
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="FDF.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="Generalistas" tvg-name="FDF",FDF SD
@@ -143,9 +139,9 @@ https://40al1-lh.akamaihd.net/i/directo40al1_x@764444/master.m3u8
 #EXTINF:-1 tvg-id="CanalsurA.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320" group-title="Andalucía" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320" group-title="Andalucía" tvg-name="Canal Sur Eventos 1",Canal Sur Eventos 1
-http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_01/playlist.m3u8
+https://cdnlive.shooowit.net/rtvalive/smil:channel2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320" group-title="Andalucía" tvg-name="Canal Sur Eventos 2",Canal Sur Eventos 2
-http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_02/playlist.m3u8
+https://cdnlive.shooowit.net/rtvalive/smil:channel3.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=320&height=320" group-title="Andalucía" tvg-name="101TV Málaga",101TV Málaga
 https://secure7.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/elcorreoweb/picture?width=320&height=320" group-title="Andalucía" tvg-name="El Correo de Andalucía",El Correo de Andalucía
@@ -671,8 +667,12 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVHD.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=320&height=320" group-title="Int. Europa" tvg-name="ATV Andorra",ATV Andorra
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVHD.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=320&height=320" group-title="Int. Europa" tvg-name="ATV Andorra",ATV Andorra
+https://videos.rtva.ad/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVCW.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=320&height=320" group-title="Int. Europa" tvg-name="ATV Web Andorra",ATV Web Andorra
 http://videos.rtva.ad:1935/live/web/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVCW.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=320&height=320" group-title="Int. Europa" tvg-name="ATV Web Andorra",ATV Web Andorra
+https://videos.rtva.ad/live/web/playlist.m3u8
 #EXTINF:-1 tvg-id="RTESP.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/ActualidadRT/picture?width=320&height=320" group-title="Int. Europa" tvg-name="RT",RT
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=320&height=320" group-title="Int. Europa" tvg-name="France 24 Francia",France 24 Francia
@@ -741,6 +741,8 @@ https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
 https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 #EXTINF:-1 tvg-id="NTN24.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/NTN24/picture?width=320&height=320" group-title="Int. América" tvg-name="NTN24",NTN24
 https://rcnhd.cdn.net.co/live04/ntn24.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/multimediostv/picture?width=320&height=320" group-title="Int. América" tvg-name="Canal 6 Multimedios Mexico",Canal 6 Multimedios Mexico
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=320&height=320" group-title="Int. América" tvg-name="Canal 11 Mexico",Canal 11 Mexico
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=320&height=320" group-title="Int. América" tvg-name="Canal 11 Mexico",Canal 11 Mexico
@@ -759,7 +761,7 @@ https://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=320&height=320" group-title="Int. América" tvg-name="TV Perú Noticias",TV Perú Noticias
 https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalipe/picture?width=320&height=320" group-title="Int. América" tvg-name="Canal IPe Perú",Canal IPe Perú
-http://cdnh15.iblups.com/hls/OVJNKV4pSr.m3u8
+https://cdnh15.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/VTVtuCanal/picture?width=320&height=320" group-title="Int. América" tvg-name="Venezolana de Televisión",Venezolana de Televisión
 https://593fa17dec176.streamlock.net:455/vtvweb4/vtvweb4/master.m3u8
 #EXTINF:-1 tvg-id="TeleSUR.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=320&height=320" group-title="Int. América" tvg-name="TeleSUR Venezuela",TeleSUR Venezuela
@@ -811,7 +813,7 @@ https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://kapang.com/rathergoodradio/wp-content/uploads/sites/8/2019/11/Capture-260x180.png" group-title="Int. Otros" tvg-name="Rathergood LoL",Rathergood LoL EN
 https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-rathergoodanimals.m3u8?chname=kapanglivetv-playout-rathergoodanimals&pub=288
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tbjoshuaespanol/picture?width=320&height=320" group-title="Int. Otros" tvg-name="Emmanuel TV",Emmanuel TV EN
-http://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
+https://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="Deportivos Int." tvg-name="Olympic Channel",Olympic Channel EN
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=320&height=320" group-title="Deportivos Int." tvg-name="Olympic Channel",Olympic Channel EN
@@ -926,6 +928,8 @@ https://5b464b69d264e.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8
 https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/telemusica.hit/picture?width=320&height=320" group-title="Musicales" tvg-name="Telemúsica",Telemúsica
 https://5b464b69d264e.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/toplatinotv/picture?width=320&height=320" group-title="Musicales" tvg-name="Top Latino TV",Top Latino TV
+https://5cefcbf58ba2e.streamlock.net/livetv/latinoSD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/toplatinotv/picture?width=320&height=320" group-title="Musicales" tvg-name="Top Latino TV",Top Latino TV
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/portalfoxmixtv/picture?width=320&height=320" group-title="Musicales" tvg-name="Portalfoxmix",Portalfoxmix
@@ -2390,3 +2394,27 @@ https://edge-audio-02-gos1.sharp-stream.com/ssvcbfbs7.aac
 https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs2.aac
 #EXTINF:-1 radio="true" tvg-logo="http://www.radioswissjazz.ch/assets/logos-claim/rsj-logo-claim-desktop-743c15e642e0ed09bb7fa1bbbd72f2d1.png" group-title="R-Radio_Internacional" tvg-name="Radio Swiss Jazz" radio="true" ,Radio Swiss Jazz
 http://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/classic300x300.jpg" group-title="R-Radio_Internacional" tvg-name="CBN Classic Christian" radio="true" ,CBN Classic Christian
+https://streams.cbnradio.com/Classic-Christian-128K
+#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/praise300x300.jpg" group-title="R-Radio_Internacional" tvg-name="CBN Praise" radio="true" ,CBN Praise
+https://streams.cbnradio.com/praise-128K
+#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/selah300x300.jpg" group-title="R-Radio_Internacional" tvg-name="CBN Selah" radio="true" ,CBN Selah
+https://streams.cbnradio.com/instrumental-128K
+#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/cross-country300x300.jpg" group-title="R-Radio_Internacional" tvg-name="CBN Cross Country" radio="true" ,CBN Cross Country
+https://streams.cbnradio.com/country-128K
+#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/contemporary300x300.jpg" group-title="R-Radio_Internacional" tvg-name="CBN Contemporary" radio="true" ,CBN Contemporary
+https://streams.cbnradio.com/contemporary-128K
+#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/gospel300x300.jpg" group-title="R-Radio_Internacional" tvg-name="CBN Gospel" radio="true" ,CBN Gospel
+https://streams.cbnradio.com/gospel-128K
+#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/southern-gospel300x300.jpg" group-title="R-Radio_Internacional" tvg-name="CBN Southern Gospel" radio="true" ,CBN Southern Gospel
+https://streams.cbnradio.com/southern-gospel-128K
+#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/superbook300x300.jpg" group-title="R-Radio_Internacional" tvg-name="CBN Superbook" radio="true" ,CBN Superbook
+https://streams.cbnradio.com/superbook-128K
+#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/fiestahoy300x300.jpg" group-title="R-Radio_Internacional" tvg-name="CBN Fiesta Hoy" radio="true" ,CBN Fiesta Hoy
+https://streams.cbnradio.com/fiesta-hoy-128K
+#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/news300x300.jpg" group-title="R-Radio_Internacional" tvg-name="CBN News" radio="true" ,CBN News
+https://streams.cbnradio.com/news-128K
+#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/christmas300x300.jpg" group-title="R-Radio_Internacional" tvg-name="CBN Christmas" radio="true" ,CBN Christmas
+https://streams.cbnradio.com/christmas-128K
+#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/cross-countrychristmas300x300.jpg" group-title="R-Radio_Internacional" tvg-name="CBN Cross Country Christmas" radio="true" ,CBN Cross Country Christmas
+https://streams.cbnradio.com/country-christmas-128K
