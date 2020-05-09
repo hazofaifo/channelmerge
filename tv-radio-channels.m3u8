@@ -420,9 +420,6 @@ http://ventdelnord.tv:8080/taronja/directe.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalBlau/picture?width=320&height=320" group-title="Cataluña" tvg-name="Canal Blau",Canal Blau
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 http://liveingesta119.cdnmedia.tv/blautvlive/smil:blautv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/balaguertv/picture?width=320&height=320" group-title="Cataluña" tvg-name="Balaguer TV",Balaguer TV
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-http://liveingesta119.cdnmedia.tv/vsnxallive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/televisiodelbergueda/picture?width=320&height=320" group-title="Cataluña" tvg-name="TV Berguedà",TV Berguedà
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 http://liveingesta119.cdnmedia.tv/berguedatvlive/smil:live.smil/playlist.m3u8
@@ -864,29 +861,29 @@ http://hitmusic.hu/hitmusic.m3u8
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ibizaglobaltv/picture?width=320&height=320" group-title="Musicales" tvg-name="Ibiza Global TV",Ibiza Global TV EN
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg" group-title="Musicales" tvg-name="DJing Live",DJing Live EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/djingTV/picture?width=320&height=320" group-title="Musicales" tvg-name="DJing Live",DJing Live EN
 https://www.djing.com/tv/live.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg" group-title="Musicales" tvg-name="DJing Karaoke",DJing Karaoke EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/djingTV/picture?width=320&height=320" group-title="Musicales" tvg-name="DJing Karaoke",DJing Karaoke EN
 https://www.djing.com/tv/karaoke.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg" group-title="Musicales" tvg-name="DJing Hits",DJing Hits EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/djingTV/picture?width=320&height=320" group-title="Musicales" tvg-name="DJing Hits",DJing Hits EN
 https://www.djing.com/tv/hits.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg" group-title="Musicales" tvg-name="DJing Dancefloor",DJing Dancefloor EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/djingTV/picture?width=320&height=320" group-title="Musicales" tvg-name="DJing Dancefloor",DJing Dancefloor EN
 https://www.djing.com/tv/dancefloor.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg" group-title="Musicales" tvg-name="DJing Underground",DJing Underground EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/djingTV/picture?width=320&height=320" group-title="Musicales" tvg-name="DJing Underground",DJing Underground EN
 https://www.djing.com/tv/underground.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg" group-title="Musicales" tvg-name="DJing Electro Rock",DJing Electro Rock EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/djingTV/picture?width=320&height=320" group-title="Musicales" tvg-name="DJing Electro Rock",DJing Electro Rock EN
 https://www.djing.com/tv/session_electro-rock.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg" group-title="Musicales" tvg-name="DJing Animation",DJing Animation EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/djingTV/picture?width=320&height=320" group-title="Musicales" tvg-name="DJing Animation",DJing Animation EN
 https://www.djing.com/tv/animation.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg" group-title="Musicales" tvg-name="DJing Avicii",DJing Avicii EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/djingTV/picture?width=320&height=320" group-title="Musicales" tvg-name="DJing Avicii",DJing Avicii EN
 https://www.djing.com/tv/session_avicii.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg" group-title="Musicales" tvg-name="DJing French touch",DJing French touch EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/djingTV/picture?width=320&height=320" group-title="Musicales" tvg-name="DJing French touch",DJing French touch EN
 https://www.djing.com/tv/session_french-touch.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg" group-title="Musicales" tvg-name="DJing Hedonist",DJing Hedonist EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/djingTV/picture?width=320&height=320" group-title="Musicales" tvg-name="DJing Hedonist",DJing Hedonist EN
 https://www.djing.com/tv/session_hedonist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg" group-title="Musicales" tvg-name="DJing Summer Vibes",DJing Summer Vibes EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/djingTV/picture?width=320&height=320" group-title="Musicales" tvg-name="DJing Summer Vibes",DJing Summer Vibes EN
 https://www.djing.com/tv/session_summer-vibes.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg" group-title="Musicales" tvg-name="DJing Wild EDM",DJing Wild EDM EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/djingTV/picture?width=320&height=320" group-title="Musicales" tvg-name="DJing Wild EDM",DJing Wild EDM EN
 https://www.djing.com/tv/session_wild-edm.m3u8
 #EXTINF:-1 tvg-logo="https://kapang.com/rathergoodradio/wp-content/uploads/sites/8/2018/08/rathergood-radio-260x180.png" group-title="Musicales" tvg-name="Rathergood Radio",Rathergood Radio EN
 https://kapang000.broadcastcdn.net/RathergoodRadio-Studio1/index.m3u8
