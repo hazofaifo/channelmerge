@@ -220,7 +220,7 @@ http://live.controlstreams.com:1935/saltv/saltv/playlist.m3u8
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="FuengirolaTV.TV" tvg-logo="https://graph.facebook.com/fuengirolatvoficial/picture?width=200&height=200" group-title="Andalucía" tvg-name="Fuengirola TV",Fuengirola TV
 https://secure.todostreaming.es/live/nerja-livestream.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/812891658754713/picture?width=200&height=200" group-title="Andalucía" tvg-name="TeleAntequera",TeleAntequera
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/812891658754713/picture?width=200&height=200" group-title="Andalucía" tvg-name="101TV Antequera",101TV Antequera
 http://37.187.7.106/las4esquinastv/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TVM.Cordoba/picture?width=200&height=200" group-title="Andalucía" tvg-name="TVM Córdoba",TVM Córdoba
 http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
@@ -605,11 +605,11 @@ https://directo.tvferrol.es/tv.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/televigo/picture?width=200&height=200" group-title="Galicia" tvg-name="Televigo",Televigo
 http://5.189.181.203:1935/gcm4/gcm4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TEFTV/picture?width=200&height=200" group-title="Illes Balears" tvg-name="TEF",TEF
-https://5940924978228.streamlock.net/8273/smil:8273.smil/playlist.m3u8
+https://59c8647978660.streamlock.net/8176/8176/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canal4televisio/picture?width=200&height=200" group-title="Illes Balears" tvg-name="Canal 4",Canal 4
 http://149.202.68.178:1935/live/peprecasens/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/GrupoFibwi/picture?width=200&height=200" group-title="Illes Balears" tvg-name="Fibwi",Fibwi
-https://directo.fibwi.com/stream/stream_fibwiLIVE/fibwiLIVEtv.m3u8
+http://109.232.71.249:8080/fibwiliveandroidmovil/index.m3u8
 #EXTINF:-1 tvg-id="TVR.TV" tvg-logo="https://graph.facebook.com/tvrtelevision/picture?width=200&height=200" group-title="La Rioja" tvg-name="TV Rioja",TV Rioja
 http://teledifusion.tv/rioja/rioja/master.m3u8
 #EXTINF:-1 tvg-id="MelillaTV.TV" tvg-logo="https://graph.facebook.com/TelevisionMelilla/picture?width=200&height=200" group-title="Melilla" tvg-name="Melilla TV",Melilla TV
@@ -808,7 +808,7 @@ http://23.236.180.26/11580409776/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/acsnetworktv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="ACS Network",ACS Network
 https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://kapang.com/rathergoodradio/wp-content/uploads/sites/8/2019/11/Capture-260x180.png" group-title="Int. Otros" tvg-name="Rathergood LoL",Rathergood LoL EN
-https://ssai.broadcastcdn.net/hlslive/kapanglivetv-playout-rathergoodanimals.m3u8?chname=kapanglivetv-playout-rathergoodanimals&pub=288
+https://ssai06a.broadcastcdn.net/hlslive/?profID=96&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODLOL-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tbjoshuaespanol/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Emmanuel TV",Emmanuel TV EN
 https://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Olympic Channel",Olympic Channel EN
