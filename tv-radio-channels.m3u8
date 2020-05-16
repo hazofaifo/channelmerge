@@ -215,7 +215,7 @@ https://secure.todostreaming.es/live/benalmadena-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/PTVCord/picture?width=200&height=200" group-title="Andalucía" tvg-name="PTV Córdoba",PTV Córdoba
 http://149.91.98.146:1935/cordoba/stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/saltv.es/picture?width=200&height=200" group-title="Andalucía" tvg-name="SalTV",SalTV
-http://live.controlstreams.com:1935/saltv/saltv/playlist.m3u8
+https://www.tdtchannels.com/stream/saltv.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Málaga",Canal Málaga
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="FuengirolaTV.TV" tvg-logo="https://graph.facebook.com/fuengirolatvoficial/picture?width=200&height=200" group-title="Andalucía" tvg-name="Fuengirola TV",Fuengirola TV
@@ -773,6 +773,8 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 https://593fa17dec176.streamlock.net:455/vtvweb4/vtvweb4/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tctelevision10/picture?width=200&height=200" group-title="Int. América" tvg-name="TC TV Ecuador",TC TV Ecuador
 https://5d4837686f698.streamlock.net/tctelevision/tctelevision/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/EcuadorTV/picture?width=200&height=200" group-title="Int. América" tvg-name="Ecuador TV",Ecuador TV
+https://player-api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tvcultura/picture?width=200&height=200" group-title="Int. América" tvg-name="TV Cultura Brasil",TV Cultura Brasil
 https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/master.m3u8
 #EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200" group-title="Int. Asia" tvg-name="CGTN",CGTN
@@ -812,7 +814,7 @@ http://23.236.180.26/11580409776/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/acsnetworktv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="ACS Network",ACS Network
 https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://rathergood.co.uk/wp-content/uploads/2019/11/Capture-260x180.png" group-title="Int. Otros" tvg-name="Rathergood LoL",Rathergood LoL EN
-https://ssai06a.broadcastcdn.net/hlslive/?profID=96&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODLOL-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
+https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=96&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODLOL-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tbjoshuaespanol/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Emmanuel TV",Emmanuel TV EN
 https://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/OlympicChannel/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Olympic Channel",Olympic Channel EN
@@ -845,7 +847,7 @@ https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/hitmusichu/picture?width=200&height=200" group-title="Musicales" tvg-name="Hit Music Channel",Hit Music Channel
 http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/nrj.be/picture?width=200&height=200" group-title="Musicales" tvg-name="NRJ",NRJ FR
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/nrj.be/picture?width=200&height=200" group-title="Musicales" tvg-name="NRJ Hits",NRJ Hits FR
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radiom2o/picture?width=200&height=200" group-title="Musicales" tvg-name="m2o",m2o IT
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
@@ -878,24 +880,24 @@ https://www.djing.com/tv/session_wild-edm.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rathergoodradio/picture?width=200&height=200" group-title="Musicales" tvg-name="Rathergood Radio",Rathergood Radio EN
 https://kapang000.broadcastcdn.net/RathergoodRadio-Studio1/index.m3u8
 #EXTINF:-1 tvg-logo="https://rathergood.co.uk/wp-content/uploads/2019/08/screenshot_1589465665080-260x180.jpg" group-title="Musicales" tvg-name="Rathergood Dance",Rathergood Dance EN
-https://ssai06a.broadcastcdn.net/hlslive/?profID=6&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODDANCE-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
+https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=6&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODDANCE-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
 #EXTINF:-1 tvg-logo="https://rathergood.co.uk/wp-content/uploads/2018/08/screenshot_1589465710062-260x180.jpg" group-title="Musicales" tvg-name="Rathergood Movies",Rathergood Movies EN
-https://ssai06a.broadcastcdn.net/hlslive/?profID=6&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODMOVIES-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
+https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=6&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODMOVIES-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
 #EXTINF:-1 tvg-logo="https://rathergood.co.uk/wp-content/uploads/2019/08/screenshot_1589465847751-260x180.jpg" group-title="Musicales" tvg-name="Rathergood Hits",Rathergood Hits EN
-https://ssai06a.broadcastcdn.net/hlslive/?profID=96&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODHITS-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
+https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=96&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODHITS-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
 #EXTINF:-1 tvg-logo="https://rathergood.co.uk/wp-content/uploads/2018/08/00s-1-1-260x180.jpg" group-title="Musicales" tvg-name="Rathergood 00s",Rathergood 00s EN
-https://ssai06a.broadcastcdn.net/hlslive/?profID=21&n=0&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODNOUGHTIES-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
+https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=21&n=0&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODNOUGHTIES-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
 #EXTINF:-1 tvg-logo="https://vintagemusictv.com/wp-content/uploads/2020/05/vm90s-260x180.png" group-title="Musicales" tvg-name="Rathergood 90s",Rathergood 90s EN
-https://ssai06a.broadcastcdn.net/hlslive/?profID=202&n=0&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOOD90S-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
+https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=202&n=0&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOOD90S-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
 #EXTINF:-1 tvg-logo="https://rathergood.co.uk/wp-content/uploads/2018/08/screenshot_1589465917589-260x180.jpg" group-title="Musicales" tvg-name="Rathergood Dance Classics",Rathergood Dance Classics EN
-https://ssai06a.broadcastcdn.net/hlslive/?profID=22&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODDANCECLASSICS-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/vintagemusicgroup/picture?width=200&height=200" group-title="Musicales" tvg-name="Vintage Music TV",Vintage Music TV
-https://ssai06a.broadcastcdn.net/hlslive/?profID=21&n=1&ctype=0&adsid=A&chname=CLOUDIETV-VINTAGEMUSICTV-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/retromusic/picture?width=200&height=200" group-title="Musicales" tvg-name="Retro Music TV",Retro Music TV
+https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=22&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODDANCECLASSICS-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/vintagemusicgroup/picture?width=200&height=200" group-title="Musicales" tvg-name="Vintage Music TV",Vintage Music TV EN
+https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=21&n=1&ctype=0&adsid=A&chname=CLOUDIETV-VINTAGEMUSICTV-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/retromusic/picture?width=200&height=200" group-title="Musicales" tvg-name="Retro Music TV",Retro Music TV EN
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CaliforniaMusicChannel/picture?width=200&height=200" group-title="Musicales" tvg-name="California Music Channel",California Music Channel EN
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200" group-title="Musicales" tvg-name="Retro Plus TV",Retro Plus TV
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200" group-title="Musicales" tvg-name="Retro Plus TV",Retro Plus TV EN
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=200&height=200" group-title="Musicales" tvg-name="V2Beat TV",V2Beat TV EN
 https://abr.de1se01.v2beat.live/playlist.m3u8
@@ -905,8 +907,6 @@ https://30a-tv.com/music.m3u8
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200" group-title="Musicales" tvg-name="Ditty TV",Ditty TV EN
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Ottotivu/picture?width=200&height=200" group-title="Musicales" tvg-name="8 FM Italia",8 FM Italia IT
-http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/MusictopArgentina/picture?width=200&height=200" group-title="Musicales" tvg-name="Music Top",Music Top
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/melodychanneltv/picture?width=200&height=200" group-title="Musicales" tvg-name="Melody Channel",Melody Channel
@@ -921,6 +921,14 @@ https://5cefcbf58ba2e.streamlock.net/livetv/latinoSD.stream/playlist.m3u8
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200" group-title="Musicales" tvg-name="La Mega Mundial",La Mega Mundial
 https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/televisionsuiza/picture?width=200&height=200" group-title="Musicales" tvg-name="Latinos 1 TV",Latinos 1 TV
+https://5b38ce71f1f00.streamlock.net/8196/8196/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioitalia/picture?width=200&height=200" group-title="Musicales" tvg-name="Radio Italia TV",Radio Italia TV IT
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" group-title="Musicales" tvg-name="RTL 102.5 Italia",RTL 102.5 Italia IT
+https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Ottotivu/picture?width=200&height=200" group-title="Musicales" tvg-name="Otto FM Italia",Otto FM Italia IT
+http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RockTvRomania/picture?width=200&height=200" group-title="Musicales" tvg-name="Rock TV Romania",Rock TV Romania
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioU/picture?width=200&height=200" group-title="Musicales" tvg-name="RadioU TV",RadioU TV EN
