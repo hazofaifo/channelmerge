@@ -306,7 +306,7 @@ https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/La8Bierzo/picture?width=200&height=200" group-title="Castilla y León" tvg-name="La 8 Bierzo",La 8 Bierzo
 https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/burgosmagazine/picture?width=200&height=200" group-title="Castilla y León" tvg-name="La 8 Burgos",La 8 Burgos
+#EXTINF:-1 tvg-id="8Burgos.TV" tvg-logo="https://graph.facebook.com/burgosmagazine/picture?width=200&height=200" group-title="Castilla y León" tvg-name="La 8 Burgos",La 8 Burgos
 https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la8leon/picture?width=200&height=200" group-title="Castilla y León" tvg-name="La 8 Leon",La 8 Leon
 https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8
@@ -608,7 +608,7 @@ http://5.189.181.203:1935/gcm4/gcm4/playlist.m3u8
 https://59c8647978660.streamlock.net/8176/8176/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canal4televisio/picture?width=200&height=200" group-title="Illes Balears" tvg-name="Canal 4",Canal 4
 http://149.202.68.178:1935/live/peprecasens/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/GrupoFibwi/picture?width=200&height=200" group-title="Illes Balears" tvg-name="Fibwi",Fibwi
+#EXTINF:-1 tvg-id="Fibwi.TV" tvg-logo="https://graph.facebook.com/GrupoFibwi/picture?width=200&height=200" group-title="Illes Balears" tvg-name="Fibwi",Fibwi
 http://109.232.71.249:8080/fibwiliveandroidmovil/index.m3u8
 #EXTINF:-1 tvg-id="TVR.TV" tvg-logo="https://graph.facebook.com/tvrtelevision/picture?width=200&height=200" group-title="La Rioja" tvg-name="TV Rioja",TV Rioja
 http://teledifusion.tv/rioja/rioja/master.m3u8
@@ -648,7 +648,7 @@ https://59c8647978660.streamlock.net/directo_7/directo_7/playlist.m3u8
 https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3u8
 #EXTINF:-1 tvg-id="7RM.TV" tvg-logo="https://graph.facebook.com/La7TVRegiondeMurcia/picture?width=200&height=200" group-title="R. de Murcia" tvg-name="7 R. de Murcia",7 R. de Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/poptvregiondemurcia/picture?width=200&height=200" group-title="R. de Murcia" tvg-name="Popular TV Murcia",Popular TV Murcia
+#EXTINF:-1 tvg-id="PopularMU.TV" tvg-logo="https://graph.facebook.com/poptvregiondemurcia/picture?width=200&height=200" group-title="R. de Murcia" tvg-name="Popular TV Murcia",Popular TV Murcia
 https://cdn01.yowi.tv/CCCCCCCCCC/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/vidartv/picture?width=200&height=200" group-title="R. de Murcia" tvg-name="RTV Vida",RTV Vida
 https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8
@@ -732,7 +732,7 @@ https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8
 #EXTINF:-1 tvg-id="Zee.TV" tvg-logo="https://graph.facebook.com/zeemundo/picture?width=200&height=200" group-title="Int. América" tvg-name="Zee Mundo USA",Zee Mundo USA
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1582268679-now.m3u8
-#EXTINF:-1 tvg-id="Zee.TV" tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" group-title="Int. América" tvg-name="Newsmax TV USA",Newsmax TV USA EN
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" group-title="Int. América" tvg-name="Newsmax TV USA",Newsmax TV USA EN
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200" group-title="Int. América" tvg-name="CBN USA",CBN USA
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
@@ -835,13 +835,13 @@ http://186.0.233.76:1935/Garage/garage.smil/.m3u8
 https://streaming.wim.tv/live/streamingautomototv/.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/onlymotors/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="OnlyMotors",OnlyMotors EN
 https://kapang000.broadcastcdn.net/kapanglivetv-playout-onlymotors/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Harley Davidson TV",Harley Davidson TV EN
+#EXTINF:-1 tvg-id="HarleyM.TV" tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Harley Davidson TV",Harley Davidson TV EN
 https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Harley Davidson Racing TV",Harley Davidson Racing TV EN
+#EXTINF:-1 tvg-id="HarleyR.TV" tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Harley Davidson Racing TV",Harley Davidson Racing TV EN
 https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Harley Davidson Factory TV",Harley Davidson Factory TV EN
+#EXTINF:-1 tvg-id="HarleyF.TV" tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Harley Davidson Factory TV",Harley Davidson Factory TV EN
 https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Harley Davidson Garage TV",Harley Davidson Garage TV EN
+#EXTINF:-1 tvg-id="HarleyG.TV" tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Harley Davidson Garage TV",Harley Davidson Garage TV EN
 https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/kronehit/picture?width=200&height=200" group-title="Musicales" tvg-name="Kronehit",Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
