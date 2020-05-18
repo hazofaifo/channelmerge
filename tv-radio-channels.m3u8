@@ -211,7 +211,7 @@ https://stream.intnova.com/SVorigin/smil:119575.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/9laloma/picture?width=200&height=200" group-title="Andalucía" tvg-name="9 la Loma TV",9 la Loma TV
 http://directo.9laloma.es/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/costadelsoltv/picture?width=200&height=200" group-title="Andalucía" tvg-name="CostadelSol TV",CostadelSol TV
-https://secure.todostreaming.es/live/benalmadena-livestream.m3u8
+https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/PTVCord/picture?width=200&height=200" group-title="Andalucía" tvg-name="PTV Córdoba",PTV Córdoba
 http://149.91.98.146:1935/cordoba/stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/saltv.es/picture?width=200&height=200" group-title="Andalucía" tvg-name="SalTV",SalTV
@@ -279,7 +279,7 @@ http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/288850935035196/picture?width=200&height=200" group-title="Canarias" tvg-name="Lancelot TV",Lancelot TV
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
 #EXTINF:-1 tvg-id="PopularTV_S.TV" tvg-logo="https://graph.facebook.com/populartvcantabria/picture?width=200&height=200" group-title="Cantabria" tvg-name="Popular TV Cantabria",Popular TV Cantabria
-https://secure5.todostreaming.es/live/ptvcantabria-livestream.m3u8
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1 tvg-id="CMM.TV" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="Castilla-La Mancha" tvg-name="CMM",CMM
 https://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tvhellin/picture?width=200&height=200" group-title="Castilla-La Mancha" tvg-name="TV Hellin",TV Hellin
@@ -722,6 +722,8 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" group-title="Int. América" tvg-name="NASA TV ISS Views",NASA TV ISS Views
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TheWeatherChannel/picture?width=200&height=200" group-title="Int. América" tvg-name="The Weather Channel USA",The Weather Channel USA
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/EntertainmentTonight/picture?width=200&height=200" group-title="Int. América" tvg-name="Entertainment Tonight USA",Entertainment Tonight USA EN
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/AmericasVoiceNews/picture?width=200&height=200" group-title="Int. América" tvg-name="America's Voice USA",America's Voice USA EN
@@ -793,6 +795,10 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Hispantv/picture?width=200&height=200" group-title="Int. Asia" tvg-name="Hispan TV Iran",Hispan TV Iran
 https://live.hispantv.com/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/AlArabiya/picture?width=200&height=200" group-title="Int. Asia" tvg-name="Al Arabiya",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/AlHadath/picture?width=200&height=200" group-title="Int. Asia" tvg-name="Al Hadath",Al Hadath
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/unitednations/picture?width=200&height=200" group-title="Int. Otros" tvg-name="United Nations TV",United Nations TV EN
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Int. Otros" tvg-name="TVGE 1",TVGE 1
@@ -853,6 +859,8 @@ https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ibizaglobaltv/picture?width=200&height=200" group-title="Musicales" tvg-name="Ibiza Global TV",Ibiza Global TV EN
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/1music/picture?width=200&height=200" group-title="Musicales" tvg-name="1 Music",1 Music
+http://1music.hu/1music.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/djingTV/picture?width=200&height=200" group-title="Musicales" tvg-name="DJing Live",DJing Live EN
 https://www.djing.com/tv/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/djingTV/picture?width=200&height=200" group-title="Musicales" tvg-name="DJing Karaoke",DJing Karaoke EN
@@ -1953,6 +1961,8 @@ https://wecast-m01-03.flumotion.com/copesedes/castellon.mp3
 https://wecast-m01-03.flumotion.com/copesedes/vinaroz.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="R-Radio_C. Valenciana" tvg-name="COPE Denia" radio="true" ,COPE Denia
 https://wecast-m01-03.flumotion.com/copesedes/denia.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/CopeElche/picture?width=200&height=200" group-title="R-Radio_C. Valenciana" tvg-name="COPE Elche" radio="true" ,COPE Elche
+https://sonic.mediatelekom.net/9314/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="R-Radio_C. Valenciana" tvg-name="COPE Valencia" radio="true" ,COPE Valencia
 https://wecast-m01-03.flumotion.com/copesedes/valencia.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="R-Radio_C. Valenciana" tvg-name="Onda Cero Alicante" radio="true" ,Onda Cero Alicante
