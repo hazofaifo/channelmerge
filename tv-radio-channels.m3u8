@@ -577,8 +577,6 @@ https://5b38ce71f1f00.streamlock.net/8276/8276/playlist.m3u8
 https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 tvg-id="Extremadura.TV" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="Extremadura" tvg-name="Canal Extremadura",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cordobatvonline/picture?width=200&height=200" group-title="Extremadura" tvg-name="Córdoba TV",Córdoba TV
-https://5b38ce71f1f00.streamlock.net/8376/8376/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/caceresteve/picture?width=200&height=200" group-title="Extremadura" tvg-name="Cáceres Tevé",Cáceres Tevé
 https://ce2019100818001.dnssw.net/hls/ceres.m3u8
 #EXTINF:-1 tvg-id="TVGAL.TV" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="Galicia" tvg-name="TVG",TVG
