@@ -166,11 +166,11 @@ https://cdnlive.shooowit.net/rtvalive/smil:channel2.smil/playlist.m3u8
 https://cdnlive.shooowit.net/rtvalive/smil:channel3.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzJMaTVbI7nlcDOJGn563NkAt5FvLuw2W15yw=s200-c-k-c0xffffffff-no-rj-mo" group-title="Andalucía" tvg-name="Canal Andalucía Turismo",Canal Andalucía Turismo
 https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxsJqBD9TBSb3wWSDCCwaDMKB6zxnvcxETLPQ=s200-c-k-c0xffffffff-no-rj-mo" group-title="Andalucía" tvg-name="Canal Andalucía Cocina",Canal Andalucía Cocina
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalandaluciacocina/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Andalucía Cocina",Canal Andalucía Cocina
 https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzRXzzEAsTa8PZK99Zw_XH50zyYUPcLmNFlDw=s200-c-k-c0xffffffff-no-rj-mo" group-title="Andalucía" tvg-name="Canal Andalucía Flamenco",Canal Andalucía Flamenco
 https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8
-#EXTINF:-1 tvg-logo="http://labanda.canalsur.es/css/cssimg/logo.png" group-title="Andalucía" tvg-name="Canal La Banda",Canal La Banda
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LaBandaClub/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal La Banda",Canal La Banda
 https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200" group-title="Andalucía" tvg-name="101TV Málaga",101TV Málaga
 https://secure7.todostreaming.es/live/101tv-web101tv.m3u8
@@ -408,6 +408,8 @@ https://cdn-s1-eu.nice264.com/niceLiveServer/_definst_/pcatlive_canal1_MB_800/ma
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/teve.cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="teve.cat",teve.cat
 https://www.tdtchannels.com/stream/tevecat.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/fibracat/picture?width=200&height=200" group-title="Cataluña" tvg-name="Fibracat TV",Fibracat TV
+https://cdn-02.fibracat.cat/fibracattv/index.m3u8
 #EXTINF:-1 tvg-id="Terres.TV" tvg-logo="https://graph.facebook.com/canal.terresdelebre/picture?width=200&height=200" group-title="Cataluña" tvg-name="Canal Terres de l'Ebre",Canal Terres de l'Ebre
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 http://liveingesta119.cdnmedia.tv/canaltetvlive/smil:live.smil/playlist.m3u8
@@ -498,7 +500,7 @@ http://liveingesta360.cdnmedia.tv/tvstestevelive/smil:tv10.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 http://liveingesta118.cdnmedia.tv/vsnxallive/smil:xal2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/298335373532952/picture?width=200&height=200" group-title="Cataluña" tvg-name="25 TV",25 TV
-https://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8
+https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/1397103013646307/picture?width=200&height=200" group-title="Cataluña" tvg-name="Televisió de Sant Martí",Televisió de Sant Martí
 https://usb.bozztv.com/ssh101/amsctvsantmarti/amsctvsantmarti/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/1397103013646307/picture?width=200&height=200" group-title="Cataluña" tvg-name="Televisió del Baix Guinardó",Televisió del Baix Guinardó
@@ -697,6 +699,8 @@ http://videos.rtva.ad:1935/live/web/playlist.m3u8
 https://videos.rtva.ad/live/web/playlist.m3u8
 #EXTINF:-1 tvg-id="RTESP.TV" tvg-logo="https://graph.facebook.com/ActualidadRT/picture?width=200&height=200" group-title="Int. Europa" tvg-name="RT",RT
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
+#EXTINF:-1 tvg-id="Bloom.TV" tvg-logo="https://graph.facebook.com/bloombergbusiness/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Bloomberg Europe",Bloomberg Europe
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 #EXTINF:-1 tvg-id="France24.TV" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200" group-title="Int. Europa" tvg-name="France 24 Francia",France 24 Francia
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="France24.TV" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200" group-title="Int. Europa" tvg-name="France 24 Francia",France 24 Francia EN
@@ -713,8 +717,6 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_18
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="Int. Europa" tvg-name="DW Alemania",DW Alemania EN
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-id="Bloom.TV" tvg-logo="https://graph.facebook.com/bloombergbusiness/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Bloomberg Europe",Bloomberg Europe
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 #EXTINF:-1 tvg-id="SkyN.TV" tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Sky News UK",Sky News UK EN
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 #EXTINF:-1 tvg-id="RTP1.TV" tvg-logo="https://graph.facebook.com/rtp1.pt/picture?width=200&height=200" group-title="Int. Europa" tvg-name="RTP 1 Portugal",RTP 1 Portugal
@@ -800,6 +802,8 @@ http://api.new.livestream.com/accounts/9427524/events/8926151/live.m3u8
 https://streaming.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/live-1500/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200" group-title="Int. América" tvg-name="Señal Colombia",Señal Colombia SD
 https://streaming.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/live-700/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=200&height=200" group-title="Int. América" tvg-name="Panamericana Perú",Panamericana Perú
+https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ATV.pe/picture?width=200&height=200" group-title="Int. América" tvg-name="ATV Perú",ATV Perú
 https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/atvmasnoticias/picture?width=200&height=200" group-title="Int. América" tvg-name="ATV+ Perú",ATV+ Perú
