@@ -36,14 +36,6 @@ https://livestartover-i.akamaized.net/neox/master.m3u8
 https://livestartover-i.akamaized.net/geonova/master.m3u8
 #EXTINF:-1 tvg-id="Nova.TV" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200" group-title="Generalistas" tvg-name="Nova",Nova
 https://livestartover-i.akamaized.net/nova/master.m3u8
-#EXTINF:-1 tvg-id="Mega.TV" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200" group-title="Generalistas" tvg-name="Mega",Mega GEO
-https://livestartover-i.akamaized.net/geomega/master.m3u8
-#EXTINF:-1 tvg-id="Mega.TV" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200" group-title="Generalistas" tvg-name="Mega",Mega
-https://livestartover-i.akamaized.net/mega/master.m3u8
-#EXTINF:-1 tvg-id="Atreseries.TV" tvg-logo="https://graph.facebook.com/atreseries/picture?width=200&height=200" group-title="Generalistas" tvg-name="Atreseries",Atreseries GEO
-https://livestartover-i.akamaized.net/geoa3series/master.m3u8
-#EXTINF:-1 tvg-id="Atreseries.TV" tvg-logo="https://graph.facebook.com/atreseries/picture?width=200&height=200" group-title="Generalistas" tvg-name="Atreseries",Atreseries
-https://livestartover-i.akamaized.net/a3series/master.m3u8
 #EXTINF:-1 tvg-id="FDF.TV" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200" group-title="Generalistas" tvg-name="FDF",FDF HD
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="FDF.TV" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200" group-title="Generalistas" tvg-name="FDF",FDF SD
@@ -1500,8 +1492,6 @@ https://cervera.eldialdigital.com:22131/stream
 https://streaming.intereconomia.com/siliconorg
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/CANAL4TENERIFE/picture?width=200&height=200" group-title="R-Radio_Canarias" tvg-name="Canal 4 Tenerife" radio="true" ,Canal 4 Tenerife
 http://panel.soydigital.fm:8008/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioELDIA/picture?width=200&height=200" group-title="R-Radio_Canarias" tvg-name="Radio El Día" radio="true" ,Radio El Día
-http://185.50.197.212:9974/;stream.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioECCA/picture?width=200&height=200" group-title="R-Radio_Canarias" tvg-name="Radio ECCA" radio="true" ,Radio ECCA
 http://audio1.ipercast.net/endirecto22.es/mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioguiniguada/picture?width=200&height=200" group-title="R-Radio_Canarias" tvg-name="Radio Guiniguada" radio="true" ,Radio Guiniguada
@@ -1515,7 +1505,7 @@ http://srv0435.lcinternet.com:9516/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/100005645714744/picture?width=200&height=200" group-title="R-Radio_Canarias" tvg-name="Q FM" radio="true" ,Q FM
 http://51.255.235.165:5092/;
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioTeide/picture?width=200&height=200" group-title="R-Radio_Canarias" tvg-name="Teide Radio" radio="true" ,Teide Radio
-http://217.114.211.190:8102/stream/1/
+http://c01.lexycast.de:5070/.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/185094361671027/picture?width=200&height=200" group-title="R-Radio_Canarias" tvg-name="O2 Radio" radio="true" ,O2 Radio
 https://5c0956165db0b.streamlock.net/radio/o2radio.stream_aac/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/741011612731578/picture?width=200&height=200" group-title="R-Radio_Canarias" tvg-name="Radio Gigante" radio="true" ,Radio Gigante
@@ -1528,8 +1518,6 @@ https://uk1.streamingpulse.com/ssl/inolvidablefm
 https://server10.emitironline.com:8064/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ladiezradio/picture?width=200&height=200" group-title="R-Radio_Canarias" tvg-name="La Diez" radio="true" ,La Diez
 http://panel.soydigital.fm:8012/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cronicasdelanzarote/picture?width=200&height=200" group-title="R-Radio_Canarias" tvg-name="Crónicas de Lanzarote" radio="true" ,Crónicas de Lanzarote
-http://srv0435.lcinternet.com:9517/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/AyuntamientodeMogan/picture?width=200&height=200" group-title="R-Radio_Canarias" tvg-name="Radio Mogán" radio="true" ,Radio Mogán
 https://streaming2.elitecomunicacion.es:8100/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="R-Radio_Cantabria" tvg-name="Radio Nacional Cantabria" radio="true" ,Radio Nacional Cantabria
@@ -2446,8 +2434,6 @@ https://livefastly-webs.ondacero.es/oviedo-pull/audio/master.m3u8
 http://server10.emitironline.com:8921/radio?1584744975456.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200" group-title="R-Radio_P. de Asturias" tvg-name="La Jungla Radio" radio="true" ,La Jungla Radio
 https://www.lajunglaradio.com:8003/lajunglawebssl
-#EXTINF:-1 radio="true" tvg-logo="http://www.colegiosantotomas.org/v_portal/inc/imagen.asp?f=icono_cstradio81.jpg&w=320&h=320&c=3" group-title="R-Radio_P. de Asturias" tvg-name="cSTRadio" radio="true" ,cSTRadio
-http://srv3021.lcinternet.com:8012/live
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/lamasterfm/picture?width=200&height=200" group-title="R-Radio_P. de Asturias" tvg-name="Master FM" radio="true" ,Master FM
 https://radios.lamaster.es:8000/asturias
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/onda.penes/picture?width=200&height=200" group-title="R-Radio_P. de Asturias" tvg-name="Onda Peñes" radio="true" ,Onda Peñes
@@ -2462,10 +2448,8 @@ https://server1.radiocast.es:8002/web
 http://stm1.emiteonline.com:8012/apqradio
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioujo/picture?width=200&height=200" group-title="R-Radio_P. de Asturias" tvg-name="Radio Ujo" radio="true" ,Radio Ujo
 http://91.126.223.105:8000/liveHD
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/boxfmec/picture?width=200&height=200" group-title="R-Radio_P. de Asturias" tvg-name="The Box FM" radio="true" ,The Box FM
-http://listen128.radionomy.com/thebox
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondalangreo/picture?width=200&height=200" group-title="R-Radio_P. de Asturias" tvg-name="OndaLangreo" radio="true" ,OndaLangreo
-http://37.59.121.120:10025/stream
+https://usa3.lhdserver.es:8083/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="R-Radio_R. de Murcia" tvg-name="Radio Nacional Murcia" radio="true" ,Radio Nacional Murcia
 https://rnemur.rtveradio.cires21.com/rnemur.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png" group-title="R-Radio_R. de Murcia" tvg-name="Radio 5 Murcia" radio="true" ,Radio 5 Murcia
@@ -2524,6 +2508,8 @@ https://mcrwowza5.mcr.iol.pt/comercial/smil:comercial.smil/playlist.m3u8
 https://edge-audio-02-gos1.sharp-stream.com/ssvcbfbs7.aac
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/BFBSRadio/picture?width=200&height=200" group-title="R-Radio_Internacional" tvg-name="BFBS Gibraltar 2" radio="true" ,BFBS Gibraltar 2
 https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs2.aac
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radiomontecarlo/picture?width=200&height=200" group-title="R-Radio_Internacional" tvg-name="Radio Montecarlo" radio="true" ,Radio Montecarlo
+https://icy.unitedradio.it/RMC.mp3
 #EXTINF:-1 radio="true" tvg-logo="http://www.radioswissjazz.ch/assets/logos-claim/rsj-logo-claim-desktop-743c15e642e0ed09bb7fa1bbbd72f2d1.png" group-title="R-Radio_Internacional" tvg-name="Radio Swiss Jazz" radio="true" ,Radio Swiss Jazz
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/gaydio/picture?width=200&height=200" group-title="R-Radio_Internacional" tvg-name="Gaydio UK" radio="true" ,Gaydio UK
