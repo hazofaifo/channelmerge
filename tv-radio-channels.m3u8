@@ -16,42 +16,14 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 https://livestartover.atresmedia.com/geoantena3/master.m3u8
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200" group-title="Generalistas" tvg-name="Antena 3",Antena 3
 https://livestartover.atresmedia.com/antena3/master.m3u8
-#EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200" group-title="Generalistas" tvg-name="Cuatro",Cuatro HD
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200" group-title="Generalistas" tvg-name="Cuatro",Cuatro SD
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
-#EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://graph.facebook.com/tele5/picture?width=200&height=200" group-title="Generalistas" tvg-name="Telecinco",Telecinco HD
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://graph.facebook.com/tele5/picture?width=200&height=200" group-title="Generalistas" tvg-name="Telecinco",Telecinco SD
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
 #EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200" group-title="Generalistas" tvg-name="laSexta",laSexta GEO
 https://livestartover.atresmedia.com/geolasexta/master.m3u8
 #EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200" group-title="Generalistas" tvg-name="laSexta",laSexta
 https://livestartover.atresmedia.com/lasexta/master.m3u8
 #EXTINF:-1 tvg-id="Neox.TV" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200" group-title="Generalistas" tvg-name="Neox",Neox GEO
 https://livestartover.atresmedia.com/geoneox/master.m3u8
-#EXTINF:-1 tvg-id="Neox.TV" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200" group-title="Generalistas" tvg-name="Neox",Neox
-https://livestartover.atresmedia.com/neox/master.m3u8
 #EXTINF:-1 tvg-id="Nova.TV" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200" group-title="Generalistas" tvg-name="Nova",Nova GEO
 https://livestartover.atresmedia.com/geonova/master.m3u8
-#EXTINF:-1 tvg-id="Nova.TV" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200" group-title="Generalistas" tvg-name="Nova",Nova
-https://livestartover.atresmedia.com/nova/master.m3u8
-#EXTINF:-1 tvg-id="FDF.TV" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200" group-title="Generalistas" tvg-name="FDF",FDF HD
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="FDF.TV" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200" group-title="Generalistas" tvg-name="FDF",FDF SD
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8
-#EXTINF:-1 tvg-id="Energy.TV" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=200&height=200" group-title="Generalistas" tvg-name="Energy",Energy HD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="Energy.TV" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=200&height=200" group-title="Generalistas" tvg-name="Energy",Energy SD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_2.m3u8
-#EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="https://graph.facebook.com/divinityes/picture?width=200&height=200" group-title="Generalistas" tvg-name="Divinity",Divinity HD
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="https://graph.facebook.com/divinityes/picture?width=200&height=200" group-title="Generalistas" tvg-name="Divinity",Divinity SD
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
-#EXTINF:-1 tvg-id="Bemad.TV" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=200&height=200" group-title="Generalistas" tvg-name="Be Mad",Be Mad HD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="Bemad.TV" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=200&height=200" group-title="Generalistas" tvg-name="Be Mad",Be Mad SD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
 #EXTINF:-1 tvg-id="Paramount.TV" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200" group-title="Generalistas" tvg-name="Paramount Network",Paramount Network
 https://paramount-live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
@@ -90,10 +62,6 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 https://ns3153203.ip-51-91-51.eu/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200" group-title="Deportivos" tvg-name="Cádiz CF TV",Cádiz CF TV
 https://player.cdnmedia.tv/undefined/cdcadizlive/smil:cadiz.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Boing.TV" tvg-logo="https://graph.facebook.com/boinges/picture?width=200&height=200" group-title="Infantiles" tvg-name="Boing",Boing HD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="Boing.TV" tvg-logo="https://graph.facebook.com/boinges/picture?width=200&height=200" group-title="Infantiles" tvg-name="Boing",Boing SD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/24htve/picture?width=200&height=200" group-title="Eventuales" tvg-name="+24",+24
@@ -148,14 +116,14 @@ https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c201_lv
 https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c102_lv3_aosv4_gl0/rne_c102_lv3_aosv4_gl0.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/del40al1/picture?width=200&height=200" group-title="Eventuales" tvg-name="Del 40 al 1",Del 40 al 1
 https://40al1-lh.akamaihd.net/i/directo40al1_x@764444/master.m3u8
-#EXTINF:-1 tvg-id="CanalsurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Sur 1 Andalucía",Canal Sur 1 Andalucía
+#EXTINF:-1 tvg-id="CanalsurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Sur Andalucía",Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Sur 1 Andalucía",Canal Sur 1 Andalucía
+https://cdnlive.shooowit.net/rtvalive/smil:channel3.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Sur 2 Andalucía",Canal Sur 2 Andalucía
 https://eg128.tmira.com/rtvalive/canal2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Sur Eventos 1",Canal Sur Eventos 1
 https://cdnlive.shooowit.net/rtvalive/smil:channel2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Sur Eventos 2",Canal Sur Eventos 2
-https://cdnlive.shooowit.net/rtvalive/smil:channel3.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzJMaTVbI7nlcDOJGn563NkAt5FvLuw2W15yw=s200-c-k-c0xffffffff-no-rj-mo" group-title="Andalucía" tvg-name="Canal Andalucía Turismo",Canal Andalucía Turismo
 https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalandaluciacocina/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Andalucía Cocina",Canal Andalucía Cocina
