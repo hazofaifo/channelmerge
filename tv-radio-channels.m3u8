@@ -16,6 +16,10 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 https://livestartover.atresmedia.com/geoantena3/master.m3u8
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200" group-title="Generalistas" tvg-name="Antena 3",Antena 3
 https://livestartover.atresmedia.com/antena3/master.m3u8
+#EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200" group-title="Generalistas" tvg-name="Cuatro",Cuatro
+http://linear02-i.akamaihd.net/hls/live/837811/cuatro/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
+#EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://graph.facebook.com/tele5/picture?width=200&height=200" group-title="Generalistas" tvg-name="Telecinco",Telecinco
+http://linear01-i.akamaihd.net/hls/live/837810/telecinco/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
 #EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200" group-title="Generalistas" tvg-name="laSexta",laSexta GEO
 https://livestartover.atresmedia.com/geolasexta/master.m3u8
 #EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200" group-title="Generalistas" tvg-name="laSexta",laSexta
@@ -24,6 +28,14 @@ https://livestartover.atresmedia.com/lasexta/master.m3u8
 https://livestartover.atresmedia.com/geoneox/master.m3u8
 #EXTINF:-1 tvg-id="Nova.TV" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200" group-title="Generalistas" tvg-name="Nova",Nova GEO
 https://livestartover.atresmedia.com/geonova/master.m3u8
+#EXTINF:-1 tvg-id="FDF.TV" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200" group-title="Generalistas" tvg-name="FDF",FDF
+http://linear02-i.akamaihd.net/hls/live/837813/fdf/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
+#EXTINF:-1 tvg-id="Energy.TV" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=200&height=200" group-title="Generalistas" tvg-name="Energy",Energy
+http://linear02-i.akamaihd.net/hls/live/837816/energy/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
+#EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="https://graph.facebook.com/divinityes/picture?width=200&height=200" group-title="Generalistas" tvg-name="Divinity",Divinity
+http://linear01-i.akamaihd.net/hls/live/837812/divinity/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
+#EXTINF:-1 tvg-id="Bemad.TV" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=200&height=200" group-title="Generalistas" tvg-name="Be Mad",Be Mad
+http://linear02-i.akamaihd.net/hls/live/837815/bemad/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
 #EXTINF:-1 tvg-id="Paramount.TV" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200" group-title="Generalistas" tvg-name="Paramount Network",Paramount Network
 https://paramount-live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
@@ -62,6 +74,8 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 https://ns3153203.ip-51-91-51.eu/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200" group-title="Deportivos" tvg-name="Cádiz CF TV",Cádiz CF TV
 https://player.cdnmedia.tv/undefined/cdcadizlive/smil:cadiz.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Boing.TV" tvg-logo="https://graph.facebook.com/boinges/picture?width=200&height=200" group-title="Infantiles" tvg-name="Boing",Boing
+http://linear01-i.akamaihd.net/hls/live/837814/boing/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/24htve/picture?width=200&height=200" group-title="Eventuales" tvg-name="+24",+24
