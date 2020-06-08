@@ -1296,6 +1296,8 @@ http://5.135.183.124:8326/stream
 http://20873.live.streamtheworld.com:3690/LOS40_ASO_GUADIX_SC
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" group-title="R-Radio_Andalucía" tvg-name="LOS40 Indalo" radio="true" ,LOS40 Indalo
 http://212.83.164.82:8011/40indalo.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=200&height=200" group-title="R-Radio_Andalucía" tvg-name="Cadena Dial Almería" radio="true" ,Cadena Dial Almería
+http://212.83.164.82:8002/dial.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=200&height=200" group-title="R-Radio_Andalucía" tvg-name="Cadena Dial Andalucia Este" radio="true" ,Cadena Dial Andalucia Este
 http://streaming5.elitecomunicacion.es:8226/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/CadenaDigitalMalaga/picture?width=200&height=200" group-title="R-Radio_Andalucía" tvg-name="Cadena Digital" radio="true" ,Cadena Digital
@@ -1878,6 +1880,8 @@ https://s2.radio.co/sd9da54aa0/listen
 https://streaming.radio.co/s1843fc3d4/listen
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioAmericaBarcelona/picture?width=200&height=200" group-title="R-Radio_Cataluña" tvg-name="Ràdio Amèrica Barcelona" radio="true" ,Ràdio Amèrica Barcelona
 https://s3.radio.co/sf09831a0e/listen
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/OnaMediterrani/picture?width=200&height=200" group-title="R-Radio_Cataluña" tvg-name="Ona Mediterrània" radio="true" ,Ona Mediterrània
+http://streaming.enantena.com:8000/onamediterrania128.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RTVCE/picture?width=200&height=200" group-title="R-Radio_Ceuta" tvg-name="RTVCE" radio="true" ,RTVCE
 https://5924d3ad0efcf.streamlock.net/ceutaradio/ceutaradiolive/master.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="R-Radio_Ceuta" tvg-name="Radio Nacional Ceuta" radio="true" ,Radio Nacional Ceuta
@@ -2094,26 +2098,28 @@ http://streaming.enacast.com:8000/radiobenicarlo56.mp3
 http://radiouji.uji.es:8000/high.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200" group-title="R-Radio_C. Valenciana" tvg-name="Activa FM" radio="true" ,Activa FM
 https://stream.mediasector.es/radio/8000/activafm.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://i1.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/LaMega.png?fit=320%2C320" group-title="R-Radio_C. Valenciana" tvg-name="La Mega FM" radio="true" ,La Mega FM
+#EXTINF:-1 radio="true" tvg-logo="https://i1.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/LaMega.png?fit=200%2C200" group-title="R-Radio_C. Valenciana" tvg-name="La Mega FM" radio="true" ,La Mega FM
 https://stream.mediasector.es/radio/8020/lamega.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/MuyBuena.png?fit=320%2C320" group-title="R-Radio_C. Valenciana" tvg-name="MuyBuena FM" radio="true" ,MuyBuena FM
+#EXTINF:-1 radio="true" tvg-logo="https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/MuyBuena.png?fit=200%2C200" group-title="R-Radio_C. Valenciana" tvg-name="MuyBuena FM" radio="true" ,MuyBuena FM
 https://stream.mediasector.es/radio/8010/muybuena.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/BikiniFM.png?fit=320%2C320" group-title="R-Radio_C. Valenciana" tvg-name="Bikini FM" radio="true" ,Bikini FM
+#EXTINF:-1 radio="true" tvg-logo="https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/BikiniFM.png?fit=200%2C200" group-title="R-Radio_C. Valenciana" tvg-name="Bikini FM" radio="true" ,Bikini FM
 https://stream.mediasector.es/radio/8030/bikinifm.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://i0.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/EsenciaFM.png?fit=320%2C320" group-title="R-Radio_C. Valenciana" tvg-name="Esencia FM" radio="true" ,Esencia FM
+#EXTINF:-1 radio="true" tvg-logo="https://i0.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/EsenciaFM.png?fit=200%2C200" group-title="R-Radio_C. Valenciana" tvg-name="Esencia FM" radio="true" ,Esencia FM
 https://stream.mediasector.es/radio/8040/esenciafm.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/goldFM.png?fit=320%2C320" group-title="R-Radio_C. Valenciana" tvg-name="Gold FM" radio="true" ,Gold FM
+#EXTINF:-1 radio="true" tvg-logo="https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/goldFM.png?fit=200%2C200" group-title="R-Radio_C. Valenciana" tvg-name="Gold FM" radio="true" ,Gold FM
 https://stream.mediasector.es/radio/8050/goldfm.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://i0.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/Rockstar.png?fit=320%2C320" group-title="R-Radio_C. Valenciana" tvg-name="Rockstar FM" radio="true" ,Rockstar FM
+#EXTINF:-1 radio="true" tvg-logo="https://i0.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/Rockstar.png?fit=200%2C200" group-title="R-Radio_C. Valenciana" tvg-name="Rockstar FM" radio="true" ,Rockstar FM
 https://stream.mediasector.es/radio/8060/rockstar.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/LaFlamenca.png?fit=320%2C320" group-title="R-Radio_C. Valenciana" tvg-name="La Flamenca FM" radio="true" ,La Flamenca FM
+#EXTINF:-1 radio="true" tvg-logo="https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/LaFlamenca.png?fit=200%2C200" group-title="R-Radio_C. Valenciana" tvg-name="La Flamenca FM" radio="true" ,La Flamenca FM
 https://stream.mediasector.es/radio/8070/laflamenca.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://i1.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/laquesuena.png?fit=320%2C320" group-title="R-Radio_C. Valenciana" tvg-name="La que Suena FM" radio="true" ,La que Suena FM
+#EXTINF:-1 radio="true" tvg-logo="https://i1.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/laquesuena.png?fit=200%2C200" group-title="R-Radio_C. Valenciana" tvg-name="La que Suena FM" radio="true" ,La que Suena FM
 https://stream.mediasector.es/radio/8090/laquesuena.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/04/LA-INDIE.png?fit=320%2C320" group-title="R-Radio_C. Valenciana" tvg-name="La Indie FM" radio="true" ,La Indie FM
+#EXTINF:-1 radio="true" tvg-logo="https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/04/LA-INDIE.png?fit=200%2C200" group-title="R-Radio_C. Valenciana" tvg-name="La Indie FM" radio="true" ,La Indie FM
 https://stream.mediasector.es/radio/8130/radio.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/04/motiva.png??fit=320%2C320" group-title="R-Radio_C. Valenciana" tvg-name="Motiva FM" radio="true" ,Motiva FM
+#EXTINF:-1 radio="true" tvg-logo="https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/04/motiva.png??fit=200%2C200" group-title="R-Radio_C. Valenciana" tvg-name="Motiva FM" radio="true" ,Motiva FM
 https://stream.mediasector.es/radio/8120/radio.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://i2.wp.com/www.emisorasmusicales.net/inc/uploads/2020/05/Radio-6.png?fit=200%2C200" group-title="R-Radio_C. Valenciana" tvg-name="Radio 6" radio="true" ,Radio 6
+http://stream.mediasector.es/radio/8150/radio6.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/plazaradio/picture?width=200&height=200" group-title="R-Radio_C. Valenciana" tvg-name="Radio Plaza" radio="true" ,Radio Plaza
 https://stream1.solstreaming.com:8112/stream
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1198909425177841665/G5QnW0Um_200x200.jpg" group-title="R-Radio_C. Valenciana" tvg-name="Spektra FM" radio="true" ,Spektra FM
@@ -2304,6 +2310,8 @@ https://streams.radio.co/sd1bcd1376/listen
 https://streams.isla106.com/isla106.aac
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ecoradio.es/picture?width=200&height=200" group-title="R-Radio_Illes Balears" tvg-name="Ecoradio" radio="true" ,Ecoradio
 http://radioserver7.profesionalhosting.com:8062/;stream
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/titoieta/picture?width=200&height=200" group-title="R-Radio_Illes Balears" tvg-name="Titoieta Ràdio" radio="true" ,Titoieta Ràdio
+http://195.154.33.95:8034/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="R-Radio_La Rioja" tvg-name="Radio Nacional La Rioja" radio="true" ,Radio Nacional La Rioja
 https://rnerio.rtveradio.cires21.com/rnerio.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png" group-title="R-Radio_La Rioja" tvg-name="Radio 5 La Rioja" radio="true" ,Radio 5 La Rioja
