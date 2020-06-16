@@ -12,22 +12,10 @@ https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200" group-title="Generalistas" tvg-name="Cuatro",Cuatro
-http://linear02-i.akamaihd.net/hls/live/837811/cuatro/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
-#EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://graph.facebook.com/tele5/picture?width=200&height=200" group-title="Generalistas" tvg-name="Telecinco",Telecinco
-http://linear01-i.akamaihd.net/hls/live/837810/telecinco/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
 #EXTINF:-1 tvg-id="Neox.TV" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200" group-title="Generalistas" tvg-name="Neox",Neox GEO
 https://livestartover.atresmedia.com/geoneox/master.m3u8
 #EXTINF:-1 tvg-id="Nova.TV" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200" group-title="Generalistas" tvg-name="Nova",Nova GEO
 https://livestartover.atresmedia.com/geonova/master.m3u8
-#EXTINF:-1 tvg-id="FDF.TV" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200" group-title="Generalistas" tvg-name="FDF",FDF
-http://linear02-i.akamaihd.net/hls/live/837813/fdf/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
-#EXTINF:-1 tvg-id="Energy.TV" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=200&height=200" group-title="Generalistas" tvg-name="Energy",Energy
-http://linear02-i.akamaihd.net/hls/live/837816/energy/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
-#EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="https://graph.facebook.com/divinityes/picture?width=200&height=200" group-title="Generalistas" tvg-name="Divinity",Divinity
-http://linear01-i.akamaihd.net/hls/live/837812/divinity/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
-#EXTINF:-1 tvg-id="Bemad.TV" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=200&height=200" group-title="Generalistas" tvg-name="Be Mad",Be Mad
-http://linear02-i.akamaihd.net/hls/live/837815/bemad/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
 #EXTINF:-1 tvg-id="Paramount.TV" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200" group-title="Generalistas" tvg-name="Paramount Network",Paramount Network
 https://paramount-live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
@@ -66,8 +54,6 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 https://ns3153203.ip-51-91-51.eu/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200" group-title="Deportivos" tvg-name="Cádiz CF TV",Cádiz CF TV
 https://player.cdnmedia.tv/undefined/cdcadizlive/smil:cadiz.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Boing.TV" tvg-logo="https://graph.facebook.com/boinges/picture?width=200&height=200" group-title="Infantiles" tvg-name="Boing",Boing
-http://linear01-i.akamaihd.net/hls/live/837814/boing/master.m3u8?hdnts=bb22a7fda046cceead5da8d964caf620
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/24htve/picture?width=200&height=200" group-title="Eventuales" tvg-name="+24",+24
@@ -386,158 +372,158 @@ https://liveingesta118.cdnmedia.tv/canaltetvlive/smil:live.smil/master.m3u8
 https://liveingesta119.cdnmedia.tv/canaltetvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/el9nou/picture?width=200&height=200" group-title="Cataluña" tvg-name="El 9 TV",El 9 TV
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/9tvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/el9nou/picture?width=200&height=200" group-title="Cataluña" tvg-name="El 9 TV",El 9 TV
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/9tvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalreustelevisio/picture?width=200&height=200" group-title="Cataluña" tvg-name="Canal Reus TV",Canal Reus TV
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/canalreustvlive/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/canalreustvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalreustelevisio/picture?width=200&height=200" group-title="Cataluña" tvg-name="Canal Reus TV",Canal Reus TV
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/canalreustvlive/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/canalreustvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/empordatv/picture?width=200&height=200" group-title="Cataluña" tvg-name="Empordà TV",Empordà TV
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/empordatvlive/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/empordatvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/empordatv/picture?width=200&height=200" group-title="Cataluña" tvg-name="Empordà TV",Empordà TV
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/empordatvlive/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/empordatvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1036521245330866177/DFoia74A_200x200.jpg" group-title="Cataluña" tvg-name="BDN",BDN
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/badalonatvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1036521245330866177/DFoia74A_200x200.jpg" group-title="Cataluña" tvg-name="BDN",BDN
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/badalonatvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tacdotze/picture?width=200&height=200" group-title="Cataluña" tvg-name="TAC 12",TAC 12
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/tac12live/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/tac12live/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tacdotze/picture?width=200&height=200" group-title="Cataluña" tvg-name="TAC 12",TAC 12
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/tac12live/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/tac12live/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canal21televisio/picture?width=200&height=200" group-title="Cataluña" tvg-name="Canal 21 Ebre",Canal 21 Ebre
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/canal21ebrelive/smil:canal21.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/canal21ebrelive/smil:canal21.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canal21televisio/picture?width=200&height=200" group-title="Cataluña" tvg-name="Canal 21 Ebre",Canal 21 Ebre
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/canal21ebrelive/smil:canal21.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/canal21ebrelive/smil:canal21.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalterrassa/picture?width=200&height=200" group-title="Cataluña" tvg-name="Canal Terrassa",Canal Terrassa
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/canalterrassatvlive/smil:canalterrassatv.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/canalterrassatvlive/smil:canalterrassatv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalterrassa/picture?width=200&height=200" group-title="Cataluña" tvg-name="Canal Terrassa",Canal Terrassa
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/canalterrassatvlive/smil:canalterrassatv.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/canalterrassatvlive/smil:canalterrassatv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/LleidaTV/picture?width=200&height=200" group-title="Cataluña" tvg-name="Lleida TV",Lleida TV
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/lleidatvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/LleidaTV/picture?width=200&height=200" group-title="Cataluña" tvg-name="Lleida TV",Lleida TV
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/lleidatvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/laxarxa/picture?width=200&height=200" group-title="Cataluña" tvg-name="La Xarxa",La Xarxa
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/vsnxallive/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/vsnxallive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/laxarxa/picture?width=200&height=200" group-title="Cataluña" tvg-name="La Xarxa",La Xarxa
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/vsnxallive/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/vsnxallive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tvcostabrava/picture?width=200&height=200" group-title="Cataluña" tvg-name="TV Costa Brava",TV Costa Brava
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/costabravatvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tvcostabrava/picture?width=200&height=200" group-title="Cataluña" tvg-name="TV Costa Brava",TV Costa Brava
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/costabravatvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/olotelevisio/picture?width=200&height=200" group-title="Cataluña" tvg-name="Olot Televisió",Olot Televisió
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/olottvlive/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/olottvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/olotelevisio/picture?width=200&height=200" group-title="Cataluña" tvg-name="Olot Televisió",Olot Televisió
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/olottvlive/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/olottvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/taronja.cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="Canal Taronja Central",Canal Taronja Central
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/taronjacentrallive/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/taronjacentrallive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/taronja.cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="Canal Taronja Central",Canal Taronja Central
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/taronjacentrallive/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/taronjacentrallive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canaltaronjaanoia/picture?width=200&height=200" group-title="Cataluña" tvg-name="Canal Taronja Anoia",Canal Taronja Anoia
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/taronjaanoialive/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/taronjaanoialive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canaltaronjaanoia/picture?width=200&height=200" group-title="Cataluña" tvg-name="Canal Taronja Anoia",Canal Taronja Anoia
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/taronjaanoialive/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/taronjaanoialive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalTaronjaOsona/picture?width=200&height=200" group-title="Cataluña" tvg-name="Canal Taronja Osona i Moianés",Canal Taronja Osona i Moianés
 https://taronjavic.streaming-pro.com/hls/vic.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalBlau/picture?width=200&height=200" group-title="Cataluña" tvg-name="Canal Blau",Canal Blau
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/blautvlive/smil:blautv.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/blautvlive/smil:blautv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalBlau/picture?width=200&height=200" group-title="Cataluña" tvg-name="Canal Blau",Canal Blau
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/blautvlive/smil:blautv.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/blautvlive/smil:blautv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/televisiodelbergueda/picture?width=200&height=200" group-title="Cataluña" tvg-name="TV Berguedà",TV Berguedà
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/berguedatvlive/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/berguedatvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/televisiodelbergueda/picture?width=200&height=200" group-title="Cataluña" tvg-name="TV Berguedà",TV Berguedà
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/berguedatvlive/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/berguedatvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtvelvendrell/picture?width=200&height=200" group-title="Cataluña" tvg-name="El Vendrell TV",El Vendrell TV
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/tvvendrelllive/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/tvvendrelllive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtvelvendrell/picture?width=200&height=200" group-title="Cataluña" tvg-name="El Vendrell TV",El Vendrell TV
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/tvvendrelllive/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/tvvendrelllive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cugatmedia/picture?width=200&height=200" group-title="Cataluña" tvg-name="Cugat Mèdia",Cugat Mèdia
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-http://liveingesta360.cdnmedia.tv/cugatcatlive/smil:live.smil/playlist.m3u8
+http://liveingesta360.cdnmedia.tv/cugatcatlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/votv.cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="VOTV",VOTV
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/votvlive/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/votvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/votv.cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="VOTV",VOTV
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/votvlive/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/votvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mataroaudiovisual/picture?width=200&height=200" group-title="Cataluña" tvg-name="Mataró Audiovisual",Mataró Audiovisual
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/m1tvlive/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/m1tvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mataroaudiovisual/picture?width=200&height=200" group-title="Cataluña" tvg-name="Mataró Audiovisual",Mataró Audiovisual
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/m1tvlive/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/m1tvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtvvilafranca/picture?width=200&height=200" group-title="Cataluña" tvg-name="Penedès TV",Penedès TV
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtvvilafranca/picture?width=200&height=200" group-title="Cataluña" tvg-name="Penedès TV",Penedès TV
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tvgirona/picture?width=200&height=200" group-title="Cataluña" tvg-name="TV Girona",TV Girona
 http://ventdelnord.tv:8080/girona/directe.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canal10emporda/picture?width=200&height=200" group-title="Cataluña" tvg-name="Canal 10 Empordà",Canal 10 Empordà
 http://ventdelnord.tv:8080/escala/directe.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TelevisioCardedeu/picture?width=200&height=200" group-title="Cataluña" tvg-name="rtvc Cardedeu",rtvc Cardedeu
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/cardedeutvlive/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/cardedeutvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TelevisioCardedeu/picture?width=200&height=200" group-title="Cataluña" tvg-name="rtvc Cardedeu",rtvc Cardedeu
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/cardedeutvlive/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/cardedeutvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/molaTV/picture?width=200&height=200" group-title="Cataluña" tvg-name="Mola TV",Mola TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/etv.llobregat/picture?width=200&height=200" group-title="Cataluña" tvg-name="etv",etv
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/etvlive/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/etv.llobregat/picture?width=200&height=200" group-title="Cataluña" tvg-name="etv",etv
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/etvlive/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tvvallesvisio/picture?width=200&height=200" group-title="Cataluña" tvg-name="Vallès Visió",Vallès Visió
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tvvallesvisio/picture?width=200&height=200" group-title="Cataluña" tvg-name="Vallès Visió",Vallès Visió
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-http://liveingesta119.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/playlist.m3u8
+http://liveingesta119.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/televisiodelripolles/picture?width=200&height=200" group-title="Cataluña" tvg-name="TV Ripollés",TV Ripollés
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/tvripolleslive/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/tvripolleslive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/televisiodelripolles/picture?width=200&height=200" group-title="Cataluña" tvg-name="TV Ripollés",TV Ripollés
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/tvripolleslive/smil:live.smil/playlist.m3u8
+https://liveingesta119.cdnmedia.tv/tvripolleslive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/martelevisio/picture?width=200&height=200" group-title="Cataluña" tvg-name="Mar TV",Mar TV
 http://k4.usastreams.com/martv/martv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtv10sesrovires/picture?width=200&height=200" group-title="Cataluña" tvg-name="RTV10 Sesrovires",RTV10 Sesrovires
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-http://liveingesta360.cdnmedia.tv/tvstestevelive/smil:tv10.smil/playlist.m3u8
+http://liveingesta360.cdnmedia.tv/tvstestevelive/smil:tv10.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/298335373532952/picture?width=200&height=200" group-title="Cataluña" tvg-name="25 TV",25 TV
 https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/1397103013646307/picture?width=200&height=200" group-title="Cataluña" tvg-name="Televisió de Sant Martí",Televisió de Sant Martí
