@@ -162,10 +162,10 @@ https://interalmeria.tv/directo/live.m3u8
 https://5b59c7a47236a.streamlock.net/TVCENTRO/TVCENTRO/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/lebrijatelevision/picture?width=200&height=200" group-title="Andalucía" tvg-name="Lebrija TV",Lebrija TV
 https://wowzaprod197-i.akamaihd.net/hls/live/783141/f46281b4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/8lajanda/picture?width=200&height=200" group-title="Andalucía" tvg-name="8 La Janda",8 La Janda
-http://185.210.20.13:8080/0.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/8tvcadiz/picture?width=200&height=200" group-title="Andalucía" tvg-name="8 Cádiz",8 Cádiz
 https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/8lajanda/picture?width=200&height=200" group-title="Andalucía" tvg-name="8 La Janda",8 La Janda
+http://185.210.20.13:8080/0.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/multimedia.sanroque/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal San Roque",Canal San Roque
 https://common01.todostreaming.es/live/sanroque-livestream.m3u8
 #EXTINF:-1 tvg-id="OndaAlgeciras.TV" tvg-logo="https://graph.facebook.com/ondaalgecirastv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Onda Algeciras TV",Onda Algeciras TV
@@ -2189,6 +2189,8 @@ http://stream11.shoutcastsolutions.com:9432/;
 http://giss.tv:8001/radiobetera.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/Onda15Radio/picture?width=200&height=200" group-title="R-Radio_C. Valenciana" tvg-name="Onda15Radio" radio="true" ,Onda15Radio
 https://radioserver11.profesionalhosting.com:59166/stream
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cvradio94.5/picture?width=200&height=200" group-title="R-Radio_C. Valenciana" tvg-name="CV Radio" radio="true" ,CV Radio
+https://sonic.mediatelekom.net:10958/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="R-Radio_Extremadura" tvg-name="Canal Extremadura Radio" radio="true" ,Canal Extremadura Radio
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel3.smil/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="R-Radio_Extremadura" tvg-name="Radio Nacional Extremadura" radio="true" ,Radio Nacional Extremadura
