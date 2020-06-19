@@ -79,20 +79,12 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve19_lv3_a
 https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl1/irtve20_lv3_aosv4_gl1/irtve20_lv3_aosv4_gl1.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins4_lv3_aosv4_gl0/ins4_lv3_aosv4_gl0.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/playzOfficial/picture?width=200&height=200" group-title="Eventuales" tvg-name="playz",playz
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586416/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer 1",Atresplayer 1 GEO
-https://livestartover-i.akamaized.net/geoeventos15/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer 1",Atresplayer 1
-https://livestartover-i.akamaized.net/eventos15/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer 2",Atresplayer 2 GEO
-https://livestartover-i.akamaized.net/geoeventos26/master.m3u8
+https://livestartover.atresmedia.com/eventos15/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer 2",Atresplayer 2
-https://livestartover-i.akamaized.net/eventos26/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer 3",Atresplayer 3 GEO
-https://livestartover-i.akamaized.net/geoeventos37/master.m3u8
+https://livestartover.atresmedia.com/eventos26/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer 3",Atresplayer 3
-https://livestartover-i.akamaized.net/eventos37/master.m3u8
+https://livestartover.atresmedia.com/eventos37/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales" tvg-name="Canal Parlamento",Canal Parlamento
 https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales" tvg-name="Congreso de los Diputados",Congreso de los Diputados
@@ -786,7 +778,7 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TheWeatherChannel/picture?width=200&height=200" group-title="Int. América" tvg-name="The Weather Channel USA",The Weather Channel USA
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/WeatherNation/picture?width=200&height=200" group-title="Int. América" tvg-name="WeatherNation USA",WeatherNation USA
-http://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
+https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/EntertainmentTonight/picture?width=200&height=200" group-title="Int. América" tvg-name="Entertainment Tonight USA",Entertainment Tonight USA EN
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/AmericasVoiceNews/picture?width=200&height=200" group-title="Int. América" tvg-name="America's Voice USA",America's Voice USA EN
