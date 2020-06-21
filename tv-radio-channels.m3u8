@@ -949,7 +949,7 @@ https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ibizaglobaltv/picture?width=200&height=200" group-title="Musicales" tvg-name="Ibiza Global TV",Ibiza Global TV EN
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/musicboxuatv/picture?width=200&height=200" group-title="Musicales" tvg-name="Music Box Ucrania",Music Box Ucrania
-https://musicbox.cdn-05.cosmonova.net.ua/hls/musicbox_ua_hi/index.m3u8
+https://musicbox.cdn-04.cosmonova.net.ua/hls/musicbox_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/1music/picture?width=200&height=200" group-title="Musicales" tvg-name="1 Music",1 Music
 http://1music.hu/1music.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rockfmro/picture?width=200&height=200" group-title="Musicales" tvg-name="Rock TV Romania",Rock TV Romania
@@ -1383,7 +1383,7 @@ http://185.23.192.118:8002/;stream.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioPlaneta92.8/picture?width=200&height=200" group-title="R-Radio_Andalucía" tvg-name="Radio Planeta" radio="true" ,Radio Planeta
 https://radioplaneta.emitironline.com/
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioponientedeportes/picture?width=200&height=200" group-title="R-Radio_Andalucía" tvg-name="Radio Poniente" radio="true" ,Radio Poniente
-http://94.23.85.189:7855/;listen.pls
+https://broadcast.radioponiente.org:8036/;listen.pls
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioSierraFM/picture?width=200&height=200" group-title="R-Radio_Andalucía" tvg-name="Radio Sierra" radio="true" ,Radio Sierra
 http://srv01.redsanmarcos.com:8000/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radiomartos/picture?width=200&height=200" group-title="R-Radio_Andalucía" tvg-name="Radio Martos" radio="true" ,Radio Martos
@@ -1993,7 +1993,7 @@ http://marconi.eldialdigital.com:6230/;
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioAlmenara/picture?width=200&height=200" group-title="R-Radio_C. de Madrid" tvg-name="Radio Almenara" radio="true" ,Radio Almenara
 http://185.50.197.212:9986/;
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/297157036138/picture?width=200&height=200" group-title="R-Radio_C. de Madrid" tvg-name="Radio Cigüeña" radio="true" ,Radio Cigüeña
-https://streamserver2.radioproducciones.com:2199/tunein/sd0211a.pls
+https://cervera.eldialdigital.com:25171/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioenlacemadrid/picture?width=200&height=200" group-title="R-Radio_C. de Madrid" tvg-name="Radio Enlace" radio="true" ,Radio Enlace
 https://cervera.eldialdigital.com:25121/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioFuga/picture?width=200&height=200" group-title="R-Radio_C. de Madrid" tvg-name="Radio Fuga" radio="true" ,Radio Fuga
