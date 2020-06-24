@@ -12,10 +12,6 @@ https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1 tvg-id="Neox.TV" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200" group-title="Generalistas" tvg-name="Neox",Neox GEO
-https://livestartover.atresmedia.com/geoneox/master.m3u8
-#EXTINF:-1 tvg-id="Nova.TV" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200" group-title="Generalistas" tvg-name="Nova",Nova GEO
-https://livestartover.atresmedia.com/geonova/master.m3u8
 #EXTINF:-1 tvg-id="Paramount.TV" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200" group-title="Generalistas" tvg-name="Paramount Network",Paramount Network
 #EXTVLCOPT:http-referer=https://www.paramountnetwork.es/en-directo/4ypes1/paramount
 https://paramount-live.flumotion.com/live/playlist.m3u8
@@ -240,7 +236,7 @@ http://212.40.234.65/live/canal13/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/741011612731578/picture?width=200&height=200" group-title="Canarias" tvg-name="Radio Gigante",Radio Gigante
 http://85.214.130.95:8080/live/stream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ahoratvtenerife/picture?width=200&height=200" group-title="Canarias" tvg-name="Ahora TV",Ahora TV
-https://5940924978228.streamlock.net/8171/8171/playlist.m3u8
+https://5940924978228.streamlock.net/8433/smil:8433.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/288850935035196/picture?width=200&height=200" group-title="Canarias" tvg-name="Lancelot TV",Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/288850935035196/picture?width=200&height=200" group-title="Canarias" tvg-name="Lancelot TV",Lancelot TV
@@ -273,7 +269,7 @@ https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/La8Bierzo/picture?width=200&height=200" group-title="Castilla y León" tvg-name="La 8 Bierzo",La 8 Bierzo
 https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="8Burgos.TV" tvg-logo="https://graph.facebook.com/burgosmagazine/picture?width=200&height=200" group-title="Castilla y León" tvg-name="La 8 Burgos",La 8 Burgos
+#EXTINF:-1 tvg-id="8Burgos.TV" tvg-logo="https://graph.facebook.com/La8Burgos/picture?width=200&height=200" group-title="Castilla y León" tvg-name="La 8 Burgos",La 8 Burgos
 https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la8leon/picture?width=200&height=200" group-title="Castilla y León" tvg-name="La 8 Leon",La 8 Leon
 https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8
