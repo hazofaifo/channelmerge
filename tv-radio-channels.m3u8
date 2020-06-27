@@ -718,11 +718,11 @@ https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 #EXTINF:-1 tvg-id="Bloom.TV" tvg-logo="https://graph.facebook.com/bloombergbusiness/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Bloomberg Europe",Bloomberg Europe
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 #EXTINF:-1 tvg-id="France24.TV" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200" group-title="Int. Europa" tvg-name="France 24 Francia",France 24 Francia
-https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="France24.TV" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200" group-title="Int. Europa" tvg-name="France 24 Francia",France 24 Francia EN
-https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="France24.TV" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200" group-title="Int. Europa" tvg-name="France 24 Francia",France 24 Francia FR
-https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/BFMTV/picture?width=200&height=200" group-title="Int. Europa" tvg-name="BFM TV Francia",BFM TV Francia FR
 https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200" group-title="Int. Europa" tvg-name="TV5Monde Francia",TV5Monde Francia FR
@@ -743,6 +743,8 @@ https://streaming-live.rtp.pt/liverepeater/rtp2.smil/master.m3u8
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/LN24LesNews24/picture?width=200&height=200" group-title="Int. Europa" tvg-name="LN24 Bélgica",LN24 Bélgica FR
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/PortalRTCG/picture?width=200&height=200" group-title="Int. Europa" tvg-name="RTCG Montenegro",RTCG Montenegro
+http://rtcg3.videostreaming.rs:1935/rtcg/smil:rtcg.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RTnews/picture?width=200&height=200" group-title="Int. Europa" tvg-name="RT News",RT News EN
 https://rt-news-gd.secure2.footprint.net/1103.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RTnews/picture?width=200&height=200" group-title="Int. Europa" tvg-name="RT News",RT News EN
@@ -1023,6 +1025,36 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200" group-title="Musicales" tvg-name="Ditty TV",Ditty TV EN
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musicales" tvg-name="Muzzik TV Serbia",Muzzik TV Serbia
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musicales" tvg-name="Muzzik Rock&Roll Serbia",Muzzik Rock&Roll Serbia
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musicales" tvg-name="Muzzik Cafe&Club Serbia",Muzzik Cafe&Club Serbia
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musicales" tvg-name="Muzzik Worldwide Serbia",Muzzik Worldwide Serbia
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/jekamuzziktv/picture?width=200&height=200" group-title="Musicales" tvg-name="Muzzik Jeka Serbia",Muzzik Jeka Serbia
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musicales" tvg-name="Muzzik Mediteraneo Serbia",Muzzik Mediteraneo Serbia
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musicales" tvg-name="Muzzik HipHop Serbia",Muzzik HipHop Serbia
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musicales" tvg-name="Muzzik Gen Z Serbia",Muzzik Gen Z Serbia
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musicales" tvg-name="Muzzik Vision Serbia",Muzzik Vision Serbia
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musicales" tvg-name="Muzzik OKK Serbia",Muzzik OKK Serbia
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/MusictopArgentina/picture?width=200&height=200" group-title="Musicales" tvg-name="Music Top",Music Top
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/melodychanneltv/picture?width=200&height=200" group-title="Musicales" tvg-name="Melody Channel",Melody Channel
@@ -1756,9 +1788,9 @@ https://nws.nice264.com/ilive/vr1/vr1_0692e02dc1baa5e2ede853398fa639fe/playlist.
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/158974217473244/picture?width=200&height=200" group-title="R-Radio_Castilla y León" tvg-name="Vive! Radio" radio="true" ,Vive! Radio
 https://cdn-s3-eu.nice264.com/niceLiveServer/vr1_0692e02dc1baa5e2ede853398fa639fe/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/unileon/picture?width=200&height=200" group-title="R-Radio_Castilla y León" tvg-name="Radio Universitaria León" radio="true" ,Radio Universitaria León
-http://radio.unileon.es:8000/radio-unileon-320.m3u
+http://radio.unileon.es:8000/radio-unileon-320
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/unileon/picture?width=200&height=200" group-title="R-Radio_Castilla y León" tvg-name="Radio Universitaria León" radio="true" ,Radio Universitaria León
-http://radio.unileon.es:8000/radio-unileon-320.m3u
+http://radio.unileon.es:8000/radio-unileon-192
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioGuardo/picture?width=200&height=200" group-title="R-Radio_Castilla y León" tvg-name="Radio Guardo" radio="true" ,Radio Guardo
 http://server10.emitironline.com:10654/radi
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1172550299585847302/cqJkGqw7_200x200.png" group-title="R-Radio_Cataluña" tvg-name="Catalunya Informació" radio="true" ,Catalunya Informació
