@@ -543,8 +543,10 @@ https://cdn01.yowi.tv/W3GH8E4B5V/master.m3u8
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TBNEspana/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="TBN España",TBN España
 http://5e4e2e0bb2914.streamlock.net/live/ngrp:tbnlive_all/playlist.m3u8
-#EXTINF:-1 tvg-id="NaTV.TV" tvg-logo="https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200" group-title="C. Foral de Navarra" tvg-name="Navarra TV",Navarra TV
-https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="NaTV.TV" tvg-logo="https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200" group-title="C. Foral de Navarra" tvg-name="Navarra TV",Navarra TV HD
+https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="NaTV.TV" tvg-logo="https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200" group-title="C. Foral de Navarra" tvg-name="Navarra TV",Navarra TV SD
+https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/781100367295676417/XVWdJQD0_200x200.jpg" group-title="C. Foral de Navarra" tvg-name="Parlamento de Navarra",Parlamento de Navarra
 https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/781100367295676417/XVWdJQD0_200x200.jpg" group-title="C. Foral de Navarra" tvg-name="Parlamento de Navarra",Parlamento de Navarra
@@ -576,7 +578,7 @@ https://cdn01.yowi.tv/MHU18E7A9D/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/televisiondesanvicente/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="Televisión de San Vicente",Televisión de San Vicente
 http://134.255.215.122:8080/hls/livealacarta.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TV4LaVall/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="TV 4 Vall Uxó",TV 4 Vall Uxó
-https://common01.todostreaming.es/live/tarson-livestream.m3u8
+https://limited09.todostreaming.es/live/tarson-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/103588046375790/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="Información TV",Información TV
 http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Tele7Safor/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="telesafor",telesafor
@@ -898,7 +900,7 @@ https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/AMERICANHORRORS/picture?width=200&height=200" group-title="Int. Otros" tvg-name="American Horrors Movies",American Horrors Movies EN
 http://170.178.189.70:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cachipumtv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Cachipum TV",Cachipum TV
-http://23.236.180.26/11580409776/live/playlist.m3u8
+https://tls.cdnz.cl/cachipuntv/live/chunklist_w72379467.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/acsnetworktv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="ACS Network",ACS Network
 https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://rathergood.co.uk/wp-content/uploads/2019/11/Capture-260x180.png" group-title="Int. Otros" tvg-name="Rathergood LoL",Rathergood LoL EN
@@ -1575,8 +1577,6 @@ http://panel.soydigital.fm:8012/live
 https://5c0956165db0b.streamlock.net/radio/o2radio.stream_aac/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioguiniguada/picture?width=200&height=200" group-title="R-Radio_Canarias" tvg-name="Radio Guiniguada" radio="true" ,Radio Guiniguada
 http://185.129.248.251:9874/;
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioguiniguada/picture?width=200&height=200" group-title="R-Radio_Canarias" tvg-name="Radio Guiniguada" radio="true" ,Radio Guiniguada
-http://185.129.248.251:9876/;
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/741011612731578/picture?width=200&height=200" group-title="R-Radio_Canarias" tvg-name="Radio Gigante" radio="true" ,Radio Gigante
 https://radio.radiogigante.com/stream/1/;
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/413581508699797/picture?width=200&height=200" group-title="R-Radio_Canarias" tvg-name="Radio San Borondón" radio="true" ,Radio San Borondón
@@ -2549,7 +2549,7 @@ http://5.135.183.124:9279/stream?type=.mp3
 http://34.77.177.144:8000/radioqk_master.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioSanMartin107.1FM/picture?width=200&height=200" group-title="R-Radio_P. de Asturias" tvg-name="Radio San Martín Sotrondio" radio="true" ,Radio San Martín Sotrondio
 http://91.126.223.28:9890/;
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LaCorredoriaSuena/picture?width=200&height=200" group-title="R-Radio_P. de Asturias" tvg-name="La Corredoria Suena" radio="true" ,La Corredoria Suena
+#EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1276972238009491456/cb9OVQyn_200x200.jpg" group-title="R-Radio_P. de Asturias" tvg-name="Radio 4G Oviedo" radio="true" ,Radio 4G Oviedo
 https://server1.radiocast.es:8002/web
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/APQRadio.es/picture?width=200&height=200" group-title="R-Radio_P. de Asturias" tvg-name="APQ Radio" radio="true" ,APQ Radio
 http://stm1.emiteonline.com:8012/apqradio
@@ -2604,7 +2604,7 @@ https://www.lajunglaradio.com:8003/lajunglawebssl
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/349014238632372/picture?width=200&height=200" group-title="R-Radio_R. de Murcia" tvg-name="Radio Calasparra" radio="true" ,Radio Calasparra
 http://213.96.195.21:8000/;
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LaInter968.es/picture?width=200&height=200" group-title="R-Radio_R. de Murcia" tvg-name="Inter Radio" radio="true" ,Inter Radio
-http://str1.mediatelekom.net:8022
+http://str1.mediatelekom.net:8022/;.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1079167278942425088/215ZMhDn_200x200.jpg" group-title="R-Radio_R. de Murcia" tvg-name="Metrópolis FM" radio="true" ,Metrópolis FM
 https://metropolis.radioca.st/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioExterior/picture?width=200&height=200" group-title="R-Radio_Internacional" tvg-name="Radio Exterior" radio="true" ,Radio Exterior
