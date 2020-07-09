@@ -109,8 +109,6 @@ https://eg128.tmira.com/rtvalive/canal2/playlist.m3u8
 https://cdnlive.shooowit.net/rtvalive/smil:channel2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200" group-title="Andalucía" tvg-name="101TV Málaga",101TV Málaga
 https://secure7.todostreaming.es/live/101tv-web101tv.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/elcorreoweb/picture?width=200&height=200" group-title="Andalucía" tvg-name="El Correo de Andalucía",El Correo de Andalucía
-https://elcorreotv.todostreaming.es/live/elcorreotv-livestream.m3u8
 #EXTINF:-1 tvg-id="OndaCadiz.TV" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="Andalucía" tvg-name="Onda Cádiz",Onda Cádiz
 https://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Mijas340/picture?width=200&height=200" group-title="Andalucía" tvg-name="Mijas 3.40 TV",Mijas 3.40 TV
@@ -1781,12 +1779,12 @@ http://server2.20comunicacion.com:8044/stream
 https://nws.nice264.com/ilive/vr1/vr1_0692e02dc1baa5e2ede853398fa639fe/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/158974217473244/picture?width=200&height=200" group-title="R-Radio_Castilla y León" tvg-name="Vive! Radio" radio="true" ,Vive! Radio
 https://cdn-s3-eu.nice264.com/niceLiveServer/vr1_0692e02dc1baa5e2ede853398fa639fe/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioGuardo/picture?width=200&height=200" group-title="R-Radio_Castilla y León" tvg-name="Radio Guardo" radio="true" ,Radio Guardo
+http://server10.emitironline.com:10654/radi
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/unileon/picture?width=200&height=200" group-title="R-Radio_Castilla y León" tvg-name="Radio Universitaria León" radio="true" ,Radio Universitaria León
 http://radio.unileon.es:8000/radio-unileon-320
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/unileon/picture?width=200&height=200" group-title="R-Radio_Castilla y León" tvg-name="Radio Universitaria León" radio="true" ,Radio Universitaria León
 http://radio.unileon.es:8000/radio-unileon-192
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioGuardo/picture?width=200&height=200" group-title="R-Radio_Castilla y León" tvg-name="Radio Guardo" radio="true" ,Radio Guardo
-http://server10.emitironline.com:10654/radi
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1172550299585847302/cqJkGqw7_200x200.png" group-title="R-Radio_Cataluña" tvg-name="Catalunya Informació" radio="true" ,Catalunya Informació
 https://directes-radio-int.ccma.cat/int/mp4:catinform/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/catmusica/picture?width=200&height=200" group-title="R-Radio_Cataluña" tvg-name="Cat Música" radio="true" ,Cat Música
@@ -2503,6 +2501,8 @@ https://radio7.streaming-pro.com:6146/radio7.mp3
 https://server1.emitironline.com:9400/formulahit
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/99fmmusical/picture?width=200&height=200" group-title="R-Radio_País Vasco" tvg-name="FM Musical" radio="true" ,FM Musical
 http://s2.free-shoutcast.com:18204/;
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RTROPICAL/picture?width=200&height=200" group-title="R-Radio_País Vasco" tvg-name="Radio Tropical" radio="true" ,Radio Tropical
+https://radiotropical.streaming-pro.com:6136/radiotropical
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RTPAoficial/picture?width=200&height=200" group-title="R-Radio_P. de Asturias" tvg-name="RPA" radio="true" ,RPA
 https://cdnlive.shooowit.net/rtpalive/smil:radio.smil/master.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="R-Radio_P. de Asturias" tvg-name="Radio Nacional Asturias" radio="true" ,Radio Nacional Asturias
