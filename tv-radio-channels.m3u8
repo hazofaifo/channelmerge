@@ -584,7 +584,7 @@ http://video.telesafor.com/hls/video.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TVVegaBaja/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="TV Vega Baja",TV Vega Baja
 https://streaming.tvt-datos.es:8080/hls/tvb/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canal56televisio/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="Canal 56",Canal 56
-https://cdn01.yowi.tv/VI76V4AZS4/master.m3u8
+https://videos.canal56.com/directe/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/teve4televisio/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="TeVe4",TeVe4
 https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/UniversValenciaMedia/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="Univers TV",Univers TV
@@ -2237,6 +2237,8 @@ https://stream.mediasector.es/radio/8170/maliburadio.mp3
 https://eu1.lhdserver.es:9135/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radiosirena/picture?width=200&height=200" group-title="R-Radio_C. Valenciana" tvg-name="Radio Sirena COPE Benidorm" radio="true" ,Radio Sirena COPE Benidorm
 http://rsirena.dnsalias.com:8000/rsirenacope
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/TVVegaBaja/picture?width=200&height=200" group-title="R-Radio_C. Valenciana" tvg-name="TVB Radio" radio="true" ,TVB Radio
+http://streaming.tvt-datos.es:8000/radio
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="R-Radio_Extremadura" tvg-name="Canal Extremadura Radio" radio="true" ,Canal Extremadura Radio
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel3.smil/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="R-Radio_Extremadura" tvg-name="Radio Nacional Extremadura" radio="true" ,Radio Nacional Extremadura
