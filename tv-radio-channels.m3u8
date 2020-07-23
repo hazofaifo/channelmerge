@@ -7,7 +7,7 @@ https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
-https://rtvelivestream.akamaized.net/la2_dvr.m3u8
+https://rtvelivestream.akamaized.net/la2.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2 GEO
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
@@ -21,11 +21,11 @@ https://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/mast
 https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV SD
 https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live-300/index.m3u8
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://graph.facebook.com/24htve/picture?width=200&height=200" group-title="Informativos" tvg-name="24h",24h
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos" tvg-name="24h",24h
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://graph.facebook.com/24htve/picture?width=200&height=200" group-title="Informativos" tvg-name="24h",24h
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos" tvg-name="24h",24h
 https://rtvelivestream.akamaized.net/hls/nxrtgolumi/24h_dvr.m3u8
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://graph.facebook.com/24htve/picture?width=200&height=200" group-title="Informativos" tvg-name="24h",24h
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos" tvg-name="24h",24h
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/NiusDiario/picture?width=200&height=200" group-title="Informativos" tvg-name="Nius",Nius HD
 https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8
@@ -49,19 +49,19 @@ https://ns3153203.ip-51-91-51.eu/hls/playlist.m3u8
 https://player.cdnmedia.tv/undefined/cdcadizlive/smil:cadiz.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/24htve/picture?width=200&height=200" group-title="Eventuales" tvg-name="+24",+24
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Eventuales" tvg-name="+24",+24
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/24htve/picture?width=200&height=200" group-title="Eventuales" tvg-name="+24",+24
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Eventuales" tvg-name="+24",+24
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve25_lv3_aosv4_gl0/irtve25_lv3_aosv4_gl0.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/24htve/picture?width=200&height=200" group-title="Eventuales" tvg-name="+24",+24
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Eventuales" tvg-name="+24",+24
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve04_lv3_aosv4_gl0/irtve04_lv3_aosv4_gl0.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/24htve/picture?width=200&height=200" group-title="Eventuales" tvg-name="+24",+24
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Eventuales" tvg-name="+24",+24
 https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/irtve14_lv3_aosv4_gl0/irtve14_lv3_aosv4_gl0.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/24htve/picture?width=200&height=200" group-title="Eventuales" tvg-name="+24",+24
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Eventuales" tvg-name="+24",+24
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve02_lv3_aosv4_gl0/irtve02_lv3_aosv4_gl0.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/24htve/picture?width=200&height=200" group-title="Eventuales" tvg-name="+24",+24
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Eventuales" tvg-name="+24",+24
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/24htve/picture?width=200&height=200" group-title="Eventuales" tvg-name="+24",+24
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Eventuales" tvg-name="+24",+24
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins5_lv3_aosv4_gl0/ins5_lv3_aosv4_gl0.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/irtve17_lv3_aosv4_gl1/irtve17_lv3_aosv4_gl1.isml/master.m3u8
@@ -207,7 +207,7 @@ https://593fa17dec176.streamlock.net:455/mirametv/mirametv/master.m3u8
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8
 #EXTINF:-1 tvg-id="La2_CAT.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Canarias" tvg-name="La 2 Canarias",La 2 Canarias
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@120903/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/24htve/picture?width=200&height=200" group-title="Canarias" tvg-name="24h Canarias",24h Canarias
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Canarias" tvg-name="24h Canarias",24h Canarias
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CANAL4TENERIFE/picture?width=200&height=200" group-title="Canarias" tvg-name="Canal 4 Tenerife",Canal 4 Tenerife
 https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
@@ -329,7 +329,7 @@ https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@117262/master.m3u8
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@155343/master.m3u8
 #EXTINF:-1 tvg-id="La2_CAT.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Cataluña" tvg-name="La 2 Catalunya",La 2 Catalunya
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@113085/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/24htve/picture?width=200&height=200" group-title="Cataluña" tvg-name="24h Catalunya",24h Catalunya
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Cataluña" tvg-name="24h Catalunya",24h Catalunya
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@156275/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="Cataluña" tvg-name="TV3 Càmeres",TV3 Càmeres
 https://directes-tv-int.ccma.cat/int/ngrp:beauties_web/playlist_DVR.m3u8
@@ -1574,7 +1574,7 @@ https://uk1.streamingpulse.com/ssl/inolvidablefm
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ladiezradio/picture?width=200&height=200" group-title="R-Radio_Canarias" tvg-name="La Diez Radio" radio="true" ,La Diez Radio
 http://panel.soydigital.fm:8012/live
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/552642618121698/picture?width=200&height=200" group-title="R-Radio_Canarias" tvg-name="El Pejeverde" radio="true" ,El Pejeverde
-https://5c0956165db0b.streamlock.net/radio/o2radio.stream_aac/playlist.m3u8
+https://5c0956165db0b.streamlock.net/radio/lancelot.stream_aac/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioguiniguada/picture?width=200&height=200" group-title="R-Radio_Canarias" tvg-name="Radio Guiniguada" radio="true" ,Radio Guiniguada
 http://185.129.248.251:9874/;
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/741011612731578/picture?width=200&height=200" group-title="R-Radio_Canarias" tvg-name="Radio Gigante" radio="true" ,Radio Gigante
@@ -1856,7 +1856,7 @@ http://streaming.enantena.com:8000/tarragona128.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/tarragonaradio/picture?width=200&height=200" group-title="R-Radio_Cataluña" tvg-name="Tarragona Ràdio" radio="true" ,Tarragona Ràdio
 https://enacast.com/tarragonaradio/streams/HD
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/canalterrassa/picture?width=200&height=200" group-title="R-Radio_Cataluña" tvg-name="Ràdio Terrassa" radio="true" ,Ràdio Terrassa
-http://5.189.181.203:9306/;
+https://radio.cdnmedia.tv/radio/8050/terrassa
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1036521245330866177/DFoia74A_200x200.jpg" group-title="R-Radio_Cataluña" tvg-name="Ràdio Ciutat de Badalona" radio="true" ,Ràdio Ciutat de Badalona
 https://enacast.com/radiob/streams/HD
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1036521245330866177/DFoia74A_200x200.jpg" group-title="R-Radio_Cataluña" tvg-name="Ràdio Ciutat de Badalona" radio="true" ,Ràdio Ciutat de Badalona
@@ -1906,13 +1906,12 @@ https://enacast.com/radiosilenci/streams/HD
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rtvvilafranca/picture?width=200&height=200" group-title="R-Radio_Cataluña" tvg-name="Ràdio Vilafranca" radio="true" ,Ràdio Vilafranca
 http://194.32.133.102:8000/;
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ona.latorre/picture?width=200&height=200" group-title="R-Radio_Cataluña" tvg-name="Ona La Torre" radio="true" ,Ona La Torre
-http://liveingesta118.cdnmedia.tv//onalatorrelive/smil:live.smil/media-ujhwa1bm9_b150000_22071.aac
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ona.latorre/picture?width=200&height=200" group-title="R-Radio_Cataluña" tvg-name="Ona La Torre" radio="true" ,Ona La Torre
-http://liveingesta118.cdnmedia.tv//onalatorrelive/smil:live.smil/master.m3u8
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
+http://liveingesta118.cdnmedia.tv/onalatorrelive/smil:live.smil/master.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/Radioestelbcn/picture?width=200&height=200" group-title="R-Radio_Cataluña" tvg-name="Ràdio Estel" radio="true" ,Ràdio Estel
 http://srv3021.lcinternet.com:8019/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/gumfm/picture?width=200&height=200" group-title="R-Radio_Cataluña" tvg-name="Gum FM Vielha" radio="true" ,Gum FM Vielha
-http://gum-fm01.streaming-pro.com:8018/;
+https://streamingv2.shoutcast.com/gum
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rap107/picture?width=200&height=200" group-title="R-Radio_Cataluña" tvg-name="RAP107" radio="true" ,RAP107
 http://streaming.enantena.com:8000/rap56.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rap107/picture?width=200&height=200" group-title="R-Radio_Cataluña" tvg-name="RAP107" radio="true" ,RAP107
@@ -2014,7 +2013,7 @@ https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="R-Radio_C. de Madrid" tvg-name="Onda Cero Sierra" radio="true" ,Onda Cero Sierra
 http://195.55.94.118:7000/;stream.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/Que.es/picture?width=200&height=200" group-title="R-Radio_C. de Madrid" tvg-name="Qué Radio" radio="true" ,Qué Radio
-http://radioserver9.profesionalhosting.com:59622/;.mp3
+https://radioserver11.profesionalhosting.com/proxy/ggruzfce?mp=/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/GrupoVaughan/picture?width=200&height=200" group-title="R-Radio_C. de Madrid" tvg-name="Vaughan Radio" radio="true" ,Vaughan Radio
 https://vaughanradioweb.streaming-pro.com:8058/vaughanradio.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200" group-title="R-Radio_C. de Madrid" tvg-name="La Jungla Radio" radio="true" ,La Jungla Radio
@@ -2099,14 +2098,14 @@ http://srv0625.lcinternet.com:8033/stream
 https://server.spainbroadcast.net/9010/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200" group-title="R-Radio_C. Foral de Navarra" tvg-name="Radio Intereconomía" radio="true" ,Radio Intereconomía
 https://streaming.intereconomia.com/siliconorg
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/293039954137807/picture?width=200&height=200" group-title="R-Radio_C. Foral de Navarra" tvg-name="Eguzki Irratia" radio="true" ,Eguzki Irratia
-http://51.68.46.71:9000/eguzki.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/euskalerriairratia/picture?width=200&height=200" group-title="R-Radio_C. Foral de Navarra" tvg-name="Euskalerria Irratia" radio="true" ,Euskalerria Irratia
 http://server4.beatproducciones.com:8014/;
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/trakfmpamplona/picture?width=200&height=200" group-title="R-Radio_C. Foral de Navarra" tvg-name="Trak FM Pamplona" radio="true" ,Trak FM Pamplona
+https://pr1cen101.emisionlocal.com/proxy/trakfm?mp=/stream
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/293039954137807/picture?width=200&height=200" group-title="R-Radio_C. Foral de Navarra" tvg-name="Eguzki Irratia" radio="true" ,Eguzki Irratia
+http://51.68.46.71:9000/eguzki.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radiouniversidaddenavarra/picture?width=200&height=200" group-title="R-Radio_C. Foral de Navarra" tvg-name="Radio Universidad de Navarra" radio="true" ,Radio Universidad de Navarra
 http://s37.myradiostream.com/8638/listen.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/trakfmpamplona/picture?width=200&height=200" group-title="R-Radio_C. Foral de Navarra" tvg-name="Trak FM Pamplona" radio="true" ,Trak FM Pamplona
-http://91.121.77.67:8070/;stream.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="R-Radio_C. Valenciana" tvg-name="À Punt FM" radio="true" ,À Punt FM
 https://bcovlive-a.akamaihd.net/13b49103a31b48dfa5edf508440cb6f9/eu-central-1/6057955885001/playlist-audio_dvr.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="R-Radio_C. Valenciana" tvg-name="Radio Nacional Comunidad Valenciana" radio="true" ,Radio Nacional Comunidad Valenciana
