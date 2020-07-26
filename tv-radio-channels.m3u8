@@ -47,8 +47,6 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 https://ns3153203.ip-51-91-51.eu/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200" group-title="Deportivos" tvg-name="Cádiz CF TV",Cádiz CF TV
 https://player.cdnmedia.tv/undefined/cdcadizlive/smil:cadiz.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RFEF/picture?width=200&height=200" group-title="Deportivos" tvg-name="Real Federación Española de Fútbol",Real Federación Española de Fútbol
-https://rfef-live2.flumotion.com/rfef/live2/chunks.m3u8
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Eventuales" tvg-name="+24",+24
@@ -846,10 +844,10 @@ http://btvboliviatv.srfms.com:6568/live/livestream/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CubavisionInternacional/picture?width=200&height=200" group-title="Int. América" tvg-name="Cubavisión TV",Cubavisión TV
 https://cdn.teveo.cu/live/video/Hqp6Hb4Vq2GFNeGj/ngrp:gppfydfzpSUn9Udy.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/trecepy/picture?width=200&height=200" group-title="Int. América" tvg-name="Trece Paraguay",Trece Paraguay
-http://174.138.118.252/live/canal13stream_low.m3u8
+http://174.138.118.252/live/trece.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/HCHTelevisionDigital/picture?width=200&height=200" group-title="Int. América" tvg-name="HCH Honduras",HCH Honduras
 https://5d597bfcee285.streamlock.net/hch/hch/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/MultimediosCRMultimediosCR/picture?width=200&height=200" group-title="Int. América" tvg-name="Multimedios Costa Rica",Multimedios Costa Rica
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/MultimediosCR/picture?width=200&height=200" group-title="Int. América" tvg-name="Multimedios Costa Rica",Multimedios Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/SinartTreceCostaRica/picture?width=200&height=200" group-title="Int. América" tvg-name="Trece Costa Rica",Trece Costa Rica
 https://api.new.livestream.com/accounts/1532727/events/8717137/live.m3u8
@@ -2638,6 +2636,8 @@ http://5.135.183.124:8340/stream
 http://eu1.lhdserver.es:9152/stream
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200" group-title="R-Radio_R. de Murcia" tvg-name="La Jungla Radio" radio="true" ,La Jungla Radio
 https://www.lajunglaradio.com:8003/lajunglawebssl
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="R-Radio_R. de Murcia" tvg-name="Loca FM Murcia" radio="true" ,Loca FM Murcia
+http://185.36.211.142:57321/locac
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/349014238632372/picture?width=200&height=200" group-title="R-Radio_R. de Murcia" tvg-name="Radio Calasparra" radio="true" ,Radio Calasparra
 http://213.96.195.21:8000/;
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LaInter968.es/picture?width=200&height=200" group-title="R-Radio_R. de Murcia" tvg-name="Inter Radio" radio="true" ,Inter Radio
