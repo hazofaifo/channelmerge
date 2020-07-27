@@ -12,6 +12,30 @@ https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200" group-title="Generalistas" tvg-name="Cuatro",Cuatro HD
+https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
+#EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200" group-title="Generalistas" tvg-name="Cuatro",Cuatro SD
+https://linear02-i.akamaihd.net/hls/live/837811/cuatro/03.m3u8
+#EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://graph.facebook.com/tele5/picture?width=200&height=200" group-title="Generalistas" tvg-name="Telecinco",Telecinco HD
+https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
+#EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://graph.facebook.com/tele5/picture?width=200&height=200" group-title="Generalistas" tvg-name="Telecinco",Telecinco SD
+https://linear01-i.akamaihd.net/hls/live/837810/telecinco/03.m3u8
+#EXTINF:-1 tvg-id="FDF.TV" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200" group-title="Generalistas" tvg-name="FDF",FDF HD
+https://linear02-i.akamaihd.net/hls/live/837813/fdf/01.m3u8
+#EXTINF:-1 tvg-id="FDF.TV" tvg-logo="https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200" group-title="Generalistas" tvg-name="FDF",FDF SD
+https://linear02-i.akamaihd.net/hls/live/837813/fdf/03.m3u8
+#EXTINF:-1 tvg-id="Energy.TV" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=200&height=200" group-title="Generalistas" tvg-name="Energy",Energy HD
+https://linear02-i.akamaihd.net/hls/live/837816/energy/01.m3u8
+#EXTINF:-1 tvg-id="Energy.TV" tvg-logo="https://graph.facebook.com/E.EnergyTV/picture?width=200&height=200" group-title="Generalistas" tvg-name="Energy",Energy SD
+https://linear02-i.akamaihd.net/hls/live/837816/energy/03.m3u8
+#EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="https://graph.facebook.com/divinityes/picture?width=200&height=200" group-title="Generalistas" tvg-name="Divinity",Divinity HD
+https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8
+#EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="https://graph.facebook.com/divinityes/picture?width=200&height=200" group-title="Generalistas" tvg-name="Divinity",Divinity SD
+https://linear01-i.akamaihd.net/hls/live/837812/divinity/03.m3u8
+#EXTINF:-1 tvg-id="Bemad.TV" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=200&height=200" group-title="Generalistas" tvg-name="Be Mad",Be Mad HD
+https://linear02-i.akamaihd.net/hls/live/837815/bemad/01.m3u8
+#EXTINF:-1 tvg-id="Bemad.TV" tvg-logo="https://graph.facebook.com/BeMadTV/picture?width=200&height=200" group-title="Generalistas" tvg-name="Be Mad",Be Mad SD
+https://linear02-i.akamaihd.net/hls/live/837815/bemad/03.m3u8
 #EXTINF:-1 tvg-id="Paramount.TV" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200" group-title="Generalistas" tvg-name="Paramount Network",Paramount Network
 #EXTVLCOPT:http-referer=https://www.paramountnetwork.es/en-directo/4ypes1/paramount
 https://paramount-live.flumotion.com/live/playlist.m3u8
@@ -47,6 +71,10 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 https://ns3153203.ip-51-91-51.eu/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200" group-title="Deportivos" tvg-name="Cádiz CF TV",Cádiz CF TV
 https://player.cdnmedia.tv/undefined/cdcadizlive/smil:cadiz.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Boing.TV" tvg-logo="https://graph.facebook.com/boinges/picture?width=200&height=200" group-title="Infantiles" tvg-name="Boing",Boing HD
+https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
+#EXTINF:-1 tvg-id="Boing.TV" tvg-logo="https://graph.facebook.com/boinges/picture?width=200&height=200" group-title="Infantiles" tvg-name="Boing",Boing SD
+https://linear01-i.akamaihd.net/hls/live/837814/boing/03.m3u8
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Eventuales" tvg-name="+24",+24
@@ -929,8 +957,6 @@ https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
 https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8
 #EXTINF:-1 tvg-id="HarleyG.TV" tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Harley Davidson Garage TV",Harley Davidson Garage TV EN
 https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioitalia/picture?width=200&height=200" group-title="Musicales" tvg-name="Radio Italia TV",Radio Italia TV IT
-https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" group-title="Musicales" tvg-name="RTL 102.5 Italia",RTL 102.5 Italia IT
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/kronehit/picture?width=200&height=200" group-title="Musicales" tvg-name="Kronehit Austria",Kronehit Austria
@@ -939,20 +965,22 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/nrj.be/picture?width=200&height=200" group-title="Musicales" tvg-name="NRJ Bélgica",NRJ Bélgica FR
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/4FUN.TV/picture?width=200&height=200" group-title="Musicales" tvg-name="4FUN TV Polonia",4FUN TV Polonia
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radioitalia/picture?width=200&height=200" group-title="Musicales" tvg-name="Radio Italia TV",Radio Italia TV IT
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tvocko/picture?width=200&height=200" group-title="Musicales" tvg-name="Ocko Chequia",Ocko Chequia
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ockostar/picture?width=200&height=200" group-title="Musicales" tvg-name="Ocko Star Chequia",Ocko Star Chequia
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/OckoExpres/picture?width=200&height=200" group-title="Musicales" tvg-name="Ocko Expres Chequia",Ocko Expres Chequia
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/4FUN.TV/picture?width=200&height=200" group-title="Musicales" tvg-name="4FUN TV Polonia",4FUN TV Polonia
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radiom2o/picture?width=200&height=200" group-title="Musicales" tvg-name="m2o Italia",m2o Italia IT
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/1music/picture?width=200&height=200" group-title="Musicales" tvg-name="1 Music Hungria",1 Music Hungria
-http://1music.hu/1music.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ONFM93.8/picture?width=200&height=200" group-title="Musicales" tvg-name="ON TV Portugal",ON TV Portugal
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/1music/picture?width=200&height=200" group-title="Musicales" tvg-name="1 Music Hungria",1 Music Hungria
+http://1music.hu/1music.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/hitmusichu/picture?width=200&height=200" group-title="Musicales" tvg-name="Hit Music Hungria",Hit Music Hungria
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=200&height=200" group-title="Musicales" tvg-name="V2Beat TV",V2Beat TV EN
@@ -967,10 +995,14 @@ https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/onemusicchannel/picture?width=200&height=200" group-title="Musicales" tvg-name="First Music Channel Bielorrusia",First Music Channel Bielorrusia
 http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Ottotivu/picture?width=200&height=200" group-title="Musicales" tvg-name="Otto FM Italia",Otto FM Italia IT
+http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ibizaglobaltv/picture?width=200&height=200" group-title="Musicales" tvg-name="Ibiza Global TV",Ibiza Global TV EN
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/DancestarTV/picture?width=200&height=200" group-title="Musicales" tvg-name="DanceStar TV",DanceStar TV EN
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Toptv.rede/picture?width=200&height=200" group-title="Musicales" tvg-name="Top TV Brasil",Top TV Brasil
+https://5d23bdca513db.streamlock.net/8006/8006/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/djingTV/picture?width=200&height=200" group-title="Musicales" tvg-name="DJing Live",DJing Live EN
 https://www.djing.com/tv/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/djingTV/picture?width=200&height=200" group-title="Musicales" tvg-name="DJing Karaoke",DJing Karaoke EN
@@ -1011,14 +1043,14 @@ https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=202&n=0&ctype=0&adsid=A&chn
 https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=22&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODDANCECLASSICS-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/30atv/picture?width=200&height=200" group-title="Musicales" tvg-name="30A Music USA",30A Music USA EN
 https://30a-tv.com/music.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/retromusic/picture?width=200&height=200" group-title="Musicales" tvg-name="Retro Music TV Chequia",Retro Music TV Chequia EN
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CaliforniaMusicChannel/picture?width=200&height=200" group-title="Musicales" tvg-name="California Music Channel USA",California Music Channel USA EN
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/vintagemusicgroup/picture?width=200&height=200" group-title="Musicales" tvg-name="Vintage Music TV",Vintage Music TV EN
 https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=21&n=1&ctype=0&adsid=A&chname=CLOUDIETV-VINTAGEMUSICTV-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200" group-title="Musicales" tvg-name="Retro Plus TV Chile",Retro Plus TV Chile EN
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CaliforniaMusicChannel/picture?width=200&height=200" group-title="Musicales" tvg-name="California Music Channel USA",California Music Channel USA EN
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/retromusic/picture?width=200&height=200" group-title="Musicales" tvg-name="Retro Music TV Chequia",Retro Music TV Chequia EN
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="Musicales" tvg-name="Muzzik TV Serbia",Muzzik TV Serbia
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
@@ -1069,10 +1101,6 @@ https://5b464b69d264e.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/MySpirittv/picture?width=200&height=200" group-title="Musicales" tvg-name="Spirit TV USA",Spirit TV USA EN
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Ottotivu/picture?width=200&height=200" group-title="Musicales" tvg-name="Otto FM Italia",Otto FM Italia IT
-http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Toptv.rede/picture?width=200&height=200" group-title="Musicales" tvg-name="Top TV Brasil",Top TV Brasil
-https://5d23bdca513db.streamlock.net/8006/8006/master.m3u8
 #EXTM3U
 # @LaQuay https://github.com/LaQuay/TDTChannels
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="R-Radio_Populares" tvg-name="Cadena SER" radio="true" ,Cadena SER
@@ -2668,6 +2696,8 @@ https://edge-audio-02-gos1.sharp-stream.com/ssvcbfbs7.aac
 https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs2.aac
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radiomontecarlo/picture?width=200&height=200" group-title="R-Radio_Internacional" tvg-name="Radio Montecarlo" radio="true" ,Radio Montecarlo
 https://icy.unitedradio.it/RMC.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/tomorrowland/picture?width=200&height=200" group-title="R-Radio_Internacional" tvg-name="Tomorrowland Radio" radio="true" ,Tomorrowland Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.m3u8
 #EXTINF:-1 radio="true" tvg-logo="http://www.radioswissjazz.ch/assets/logos-claim/rsj-logo-claim-desktop-743c15e642e0ed09bb7fa1bbbd72f2d1.png" group-title="R-Radio_Internacional" tvg-name="Radio Swiss Jazz" radio="true" ,Radio Swiss Jazz
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/gaydio/picture?width=200&height=200" group-title="R-Radio_Internacional" tvg-name="Gaydio UK" radio="true" ,Gaydio UK
