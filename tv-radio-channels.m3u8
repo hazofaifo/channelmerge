@@ -652,7 +652,7 @@ https://directo.tvferrol.es/tv.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/televigo/picture?width=200&height=200" group-title="Galicia" tvg-name="Televigo",Televigo
 http://95.216.150.122:1935/gcm4/gcm4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/491789551017784/picture?width=200&height=200" group-title="Galicia" tvg-name="Hermes TV",Hermes TV
-https://cdn01.yowi.tv/1H23S04G4M/master.m3u8/
+https://cdn01.yowi.tv/1H23S04G4M/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TEFTV/picture?width=200&height=200" group-title="Illes Balears" tvg-name="TEF",TEF
 https://59c8647978660.streamlock.net/8176/8176/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canal4televisio/picture?width=200&height=200" group-title="Illes Balears" tvg-name="Canal 4",Canal 4
