@@ -34,11 +34,9 @@ https://linear02-i.akamaihd.net/hls/live/837815/bemad/03.m3u8
 #EXTVLCOPT:http-referer=https://www.paramountnetwork.es/en-directo/4ypes1/paramount
 https://paramount-live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
-https://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
-#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV HD
-https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8
-#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV SD
-https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live-300/index.m3u8
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV
+https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mtmad.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="mtmad 24h",mtmad 24h
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos" tvg-name="24h",24h
