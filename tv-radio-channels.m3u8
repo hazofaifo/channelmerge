@@ -131,7 +131,7 @@ https://cdnlive.shooowit.net/rtvalive/smil:channel2.smil/playlist.m3u8
 https://secure7.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 tvg-id="OndaCadiz.TV" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="Andalucía" tvg-name="Onda Cádiz",Onda Cádiz
 https://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Mijas340/picture?width=200&height=200" group-title="Andalucía" tvg-name="Mijas 3.40 TV",Mijas 3.40 TV
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/MijasComunicacion/picture?width=200&height=200" group-title="Andalucía" tvg-name="Mijas 3.40 TV",Mijas 3.40 TV
 https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canal45television/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal 45 TV",Canal 45 TV
 https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
@@ -871,8 +871,6 @@ http://701081903.r.fdccdn.net/701081903/_definst_/13357/master.m3u8
 https://5d4837686f698.streamlock.net/tctelevision/tctelevision/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TeleamazonasEcuador/picture?width=200&height=200" group-title="Int. América" tvg-name="TeleAmazonas Ecuador",TeleAmazonas Ecuador
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/EcuadorTV/picture?width=200&height=200" group-title="Int. América" tvg-name="Ecuador TV",Ecuador TV
-https://player-api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/BoliviatvOficial/picture?width=200&height=200" group-title="Int. América" tvg-name="Bolivia 7.2 TV",Bolivia 7.2 TV
 http://btvboliviatv.srfms.com:6568/live/livestream/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CubavisionInternacional/picture?width=200&height=200" group-title="Int. América" tvg-name="Cubavisión TV",Cubavisión TV
@@ -1419,7 +1417,7 @@ http://cervera.eldialdigital.com:8040/stream
 http://adc-radio-stream.flumotion.com/adc/live-radio.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/LaJunglaRadio/picture?width=200&height=200" group-title="R-Radio_Andalucía" tvg-name="La Jungla Radio" radio="true" ,La Jungla Radio
 https://www.lajunglaradio.com:8003/lajunglawebssl
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/Mijas340/picture?width=200&height=200" group-title="R-Radio_Andalucía" tvg-name="Radio Mijas" radio="true" ,Radio Mijas
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/MijasComunicacion/picture?width=200&height=200" group-title="R-Radio_Andalucía" tvg-name="Radio Mijas" radio="true" ,Radio Mijas
 https://wecast-b02-02.flumotion.com/mijas-radio/shoutcast.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioPlaneta92.8/picture?width=200&height=200" group-title="R-Radio_Andalucía" tvg-name="Radio Planeta" radio="true" ,Radio Planeta
 https://radioplaneta.emitironline.com/
